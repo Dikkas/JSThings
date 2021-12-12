@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Celsius Conversion</title>
+
+    <!-- ICON  -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+
+    <!-- CSS  -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- JS  -->
+    <script src="functions.js"></script>
+
+    <script>
+
+        function teste(){
+            var celsius = document.getElementById("celsius").value;
+            celsius = parseInt(celsius)
+        
+            //Write conversion values in right places
+            document.getElementById("kelvin").innerHTML = kelvin(celsius) + " K";
+            document.getElementById("fahrenheit").innerHTML = fahrenheit(celsius).toFixed(2) + " F";
+        }
+
+    </script>
+
+</head>
+<body>
+
+    <h1>Celsius Conversion</h1>
+
+    <label for="celsius">Insert Celsius Degrees</label><br><br>
+    <input type="number" id="celsius" value = "0" onchange="teste()" >
+
+
+    <div class="back">
+        <p>
+            Celsius to Kelvin: <span id="kelvin" class="text">273.15 K</span>
+        </p>
+    
+        <p>
+            Celsius to Fahrenheit: <span id="fahrenheit" class="text">32.00 F</span>
+        </p>
+    </div>
+
+    
+</body>
+</html>

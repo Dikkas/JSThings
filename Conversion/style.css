@@ -1,0 +1,148 @@
+:root{
+    --clr-bg: #2e0f38;
+    --clr-font: #4d7b93;
+    --clr-btn-bg: #1a2c54;
+    --clr-btn-font: #b45dbb;
+
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    background-color: var(--clr-bg);
+    color: var(--clr-font);
+    font-size: 1.4rem;
+}
+
+
+.back{
+    text-align: center;
+    border: 1px solid white;
+    background-color: #FFFFFF20;
+    width: 40%;
+    margin: 20px auto;
+    padding: 30px 0px;
+    border-radius: 15px;
+}
+
+.d-flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em
+}
+
+.cols{
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    gap: 0.5em
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+input:not([type=radio]),
+select,
+option,
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: var(--clr-btn-bg);
+    border: 2px solid var(--clr-btn-font);
+    color: var(--clr-btn-font);
+    font-size: 18px;
+    height: 29px;
+    cursor: pointer;
+    width: 167px;
+    padding: 0;
+}
+
+select, option{
+    height: 33px;
+    width: 171px;
+}
+
+input[type="submit"]{
+    border: 2px solid var(--clr-btn-bg);
+}
+
+a{
+    margin-top: 15px;
+    border-radius: 5px;
+    height: 35px;
+    width: 25%;
+} 
+
+input[type = submit]:hover,
+input[type = submit]:focus,
+a:hover,   
+a:focus{
+    background-color: var(--clr-btn-font);
+    border: 2px solid var(--clr-btn-bg);
+    color: var(--clr-btn-bg);
+}
+
+select:hover, select:focus,
+option:hover, option:focus,
+input:focus:not([type = radio]),
+input:hover:not([type = radio]),
+a:focus,
+a:hover{
+    outline: none;
+    box-shadow: 0px 0px 5px white;
+}
+
+table, th, td {
+    color: white;
+    border: 1px solid var(--clr-btn-font);
+    
+}
+
+th{
+    text-transform: uppercase;
+}
+
+table {
+    margin: auto;
+    width: 75%;
+    box-shadow: 0px 0px 10px white;
+    border-collapse: collapse;
+}
+
+tr:hover{
+    background-color: #b45dbb3f;
+}
+td:hover{
+    background-color: #1a2c54cf;
+}
+
+hr{
+    width: 80%;
+}
+
+.text{
+    color: white;
+    font-size: 1.4rem;
+}
+
+ul{
+    width: 20%;
+    margin: auto;
+    list-style-type: square;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
