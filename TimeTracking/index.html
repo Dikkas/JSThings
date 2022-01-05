@@ -14,104 +14,108 @@
     .attribution a { color: hsl(228, 45%, 44%); }
   </style>
 
-<script type="text/javascript" src="data.json"></script>
+<script src="data.json"></script>
 <script src="app.js"></script>
 
 </head>
 <body>
+<main>
 
-<div class="container">
-  <div class="profile">
-    <div class="profile-person">
-      <div class="image">
-        <img src="images/image-jeremy.png" alt="profile image">
+  <div class="container">
+    <div class="profile">
+      <div class="profile-person">
+        <div class="image">
+          <img src="images/image-jeremy.png" alt="profile image">
+        </div>
+        <div>
+          Report for
+          <div class="name">Jeremy Robson</div>
+        </div>
       </div>
-      <div>
-        Report for
-        <div class="name">Jeremy Robson</div>
+      <div class="profile-buttons">
+        <a id="daily" onclick="dailyData()">Daily</a>
+        <a id="weekly" class="active" onclick="weekData()">Weekly</a>
+        <a id="monthly" onclick="monthData()">Monthly</a>
       </div>
     </div>
-    <div class="profile-buttons">
-      <a id="daily" onclick="dailyData()">Daily</a>
-      <a id="weekly" class="active" onclick="weekData()">Weekly</a>
-      <a id="monthly" onclick="monthData()">Monthly</a>
+    <div class="timetrack">
+      <div class="track work">
+        <div class="data">
+          <div class=data-title>
+            <div class="title"></div>
+            <div class="points"></div>
+          </div>
+          <div class="current"></div>
+          <div class="previous"></div>
+        </div>
+      </div>
+
+      <div class="track play">
+        <div class="data">
+          <div class=data-title>
+            <div class="title"></div>
+            <div class="points"></div>
+          </div>
+          <div class="current"></div>
+          <div class="previous"></div>
+        </div>
+      </div>
+
+      <div class="track study">
+        <div class="data">
+          <div class=data-title>
+            <div class="title"></div>
+            <div class="points"></div>
+          </div>
+          <div class="current"></div>
+          <div class="previous"></div>
+        </div>
+      </div>
+
+      <div class="track exercise">
+        <div class="data">
+          <div class=data-title>
+            <div class="title"></div>
+            <div class="points"></div>
+          </div>
+          <div class="current"></div>
+          <div class="previous"></div>
+        </div>
+      </div>
+
+      <div class="track social">
+        <div class="data">
+          <div class=data-title>
+            <div class="title"></div>
+            <div class="points"></div>
+          </div>
+          <div class="current"></div>
+          <div class="previous"></div>
+        </div>
+      </div>
+
+      <div class="track self-care">
+        <div class="data">
+          <div class=data-title>
+            <div class="title"></div>
+            <div class="points"></div>
+          </div>
+          <div class="current"></div>
+          <div class="previous"></div>
+        </div>
+      </div>
+
     </div>
   </div>
-  <div class="timetrack">
-    <div class="track work">
-      <div class="data">
-        <div class=data-title>
-          <div class="title"></div>
-          <div class="points"></div>
-        </div>
-        <div class="current"></div>
-        <div class="previous"></div>
-      </div>
+</main>
+
+<footer>
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Dikkas</a>.
     </div>
+</footer>
 
-    <div class="track play">
-      <div class="data">
-        <div class=data-title>
-          <div class="title"></div>
-          <div class="points"></div>
-        </div>
-        <div class="current"></div>
-        <div class="previous"></div>
-      </div>
-    </div>
-
-    <div class="track study">
-      <div class="data">
-        <div class=data-title>
-          <div class="title"></div>
-          <div class="points"></div>
-        </div>
-        <div class="current"></div>
-        <div class="previous"></div>
-      </div>
-    </div>
-
-    <div class="track exercise">
-      <div class="data">
-        <div class=data-title>
-          <div class="title"></div>
-          <div class="points"></div>
-        </div>
-        <div class="current"></div>
-        <div class="previous"></div>
-      </div>
-    </div>
-
-    <div class="track social">
-      <div class="data">
-        <div class=data-title>
-          <div class="title"></div>
-          <div class="points"></div>
-        </div>
-        <div class="current"></div>
-        <div class="previous"></div>
-      </div>
-    </div>
-
-    <div class="track self-care">
-      <div class="data">
-        <div class=data-title>
-          <div class="title"></div>
-          <div class="points"></div>
-        </div>
-        <div class="current"></div>
-        <div class="previous"></div>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
 
 </body>
 </html>
