@@ -29,16 +29,16 @@ Users should be able to:
 
 ### Screenshot
 
-Resolution FHD
+Resolution FHD  
 ![Resolution Desktop FHD](./screenshots/1080p.PNG)
 
-Resolution Hd
+Resolution HD  
 ![Resolution Desktop HD](./screenshots/720p.PNG)
 
-Tablet View
+Tablet View  
 ![Tablet View](./screenshots/768x1024.PNG)
 
-Mobile
+Mobile  
 ![Mobile](./screenshots/GalaxyS5.PNG)
 
 
