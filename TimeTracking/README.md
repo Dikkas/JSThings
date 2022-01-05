@@ -78,7 +78,7 @@ How to Blend a Color with a SVG image in CSS
   -webkit-mask: url("../images/icon-ellipsis.svg") no-repeat center;
 }
 ```
-For my info in how to use Fetch: [Developer Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/mask)
+For my info in how to use Mark: [Developer Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/mask)
 
 
 ### Continued development
