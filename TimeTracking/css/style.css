@@ -1,6 +1,8 @@
+/* Import Fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
 
 :root{
+    /* Define Primary Colors */
     --clr-Blue: hsl(246, 80%, 60%);
     --clr-Orange:  hsl(15, 100%, 70%); /* Work */
     --clr-SoftBlue:  hsl(195, 74%, 62%); /* Play */
@@ -9,68 +11,70 @@
     --clr-Violet: hsl(264, 64%, 52%); /* Social */
     --clr-SoftOrange: hsl(43, 84%, 65%); /* Self Care */
 
+    /* Define Neutral Colors  */
     --clr-VeryDarkBlue: hsl(226, 43%, 10%);
     --clr-DarkBlue: hsl(235, 46%, 20%);
     --clr-DesaturatedBlue: hsl(235, 45%, 61%);
     --clr-PaleBlue: hsl(236, 100%, 87%);
 
+    /* Define Main Font Settings  */
     font-size: 18px;
     font-family: 'Rubik', sans-serif ;
 }
 
 
 body{
-    background-color: var(--clr-VeryDarkBlue);
-    height: 100vh;
     display:flex;
     flex-direction: column;
+
+    background-color: var(--clr-VeryDarkBlue);
+    height: 100vh;
 }
 
 .container{
     display: flex;
     flex-wrap: wrap;
-    margin: auto;
     align-content: center;
-    
+
+    margin: auto;
     width: 70%;
 }
 
 .profile{
     display: flex;
     flex-direction: column;
-
     flex-basis: 20%;
     flex-grow: 0;
+
     min-width: 200px;
+    min-height: 550px;
     background-color: var(--clr-DarkBlue);
     border-radius: 20px;
     overflow: hidden;
-    min-height: 550px;
+
 }
 
 .profile-person{
     display: flex;
     flex-direction: column;
+    flex-basis: 60%;
+    justify-content: space-around;
 
     padding: 20px;
-    flex-basis: 60%;
     background-color: var(--clr-Blue);
     color:white;
-    justify-content: space-around;
-    /* align-items: center; */
     border-radius: 20px;
 }
 
-.name, .current{
+.name{
     font-size: 2rem;
 }
 
 .image{
     width: 70px;
     height: 70px;
-    border-radius: 100%;
     border: 2px solid white;
-
+    border-radius: 100%;
 }
 
 .image > img{
@@ -83,6 +87,7 @@ body{
     flex-direction: column;
     justify-content: space-around;
     flex-grow: 1;
+
     padding: 20px;
 }
 
@@ -109,9 +114,9 @@ body{
     display: flex;
     
     width: 30%;
-    background-color: white;
     border-radius: 10px;
 
+    background-color: white;
     background-position: top -5px right 10px;
     background-repeat: no-repeat;
     background-size: 25%;    
@@ -151,28 +156,29 @@ body{
 }
 
 .data{
-    height: 80%;
-    width: 100%;
-    margin-top: auto;
-    background-color: var(--clr-DarkBlue);
-    color: white;
-    border-radius: 9px;
-
 
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
 
+    height: 80%;
+    width: 100%;
+    margin-top: auto;
     padding-inline: 20px;
-    
+
+    background-color: var(--clr-DarkBlue);
+    color: white;
+    border-radius: 9px;    
 }
+
 .data:hover{
-    /* background-color: var(--clr-DesaturatedBlue); */
     filter:brightness(1.5)
 }
+
 .current{
     font-size: 2.5rem;
 }
+
 .previous{
     color: var(--clr-PaleBlue);
     font-size: .75rem;
@@ -187,6 +193,7 @@ body{
     background-color: var(--clr-PaleBlue);
     mask: url("../images/icon-ellipsis.svg") no-repeat center;
     -webkit-mask: url("../images/icon-ellipsis.svg") no-repeat center;
+    
     margin-left: auto;
     width: 20%;
     cursor: pointer;
