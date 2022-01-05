@@ -29,10 +29,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Resolution Desktop FHD](./screenshots/1080p.jpg)
-![Resolution Desktop HD](./screenshots/720p.jpg)
-![Tablet View](./screenshots/768x1024.jpg)
-![Mobile](./screenshots/GalaxyS5.jpg)
+![Resolution Desktop FHD](./screenshots/1080p.png)
+![Resolution Desktop HD](./screenshots/720p.png)
+![Tablet View](./screenshots/768x1024.png)
+![Mobile](./screenshots/GalaxyS5.png)
 
 
 ### Links
