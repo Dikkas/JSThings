@@ -22,7 +22,7 @@
         },
         {
             "title": "Cinder's Adventure",
-            "editora": "?",
+            "editora": "",
             "day": 15,
             "month": 3,
             "year": 2022,
@@ -102,7 +102,7 @@
         },
         {
             "title": "Amor e Sorte",
-            "editora": "?",
+            "editora": "",
             "day": 19,
             "month": 4,
             "year": 2022,
@@ -123,6 +123,171 @@
             "month": 4,
             "year": 2022,
             "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEgqpld4dK9LqLZaZXwjC6H41Pro_TSrxEFFSidlM2lXfAuLEtvuFbzjVA0vny0Ap-_vldLoerBpVv7HhNmHaFnMThYXp0LLY35AGoNeGcAYxMT6P8fJ0Zl9ZwIsian2YbvgrglAcjoc9CBTpVzU7MvG1uOhttqeui_etYt6Te25k-egZO_bmsC_3rCp3g=s320"
+        },
+        {
+            "title": "Herdeira do Fogo",
+            "editora": "",
+            "day": 16,
+            "month": 3,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Queen of Shadows",
+            "editora": "",
+            "month": 10,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Cerco e Tempestade",
+            "editora": "",
+            "day": 22,
+            "month": 3,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "ACOMAF",
+            "editora": "",
+            "month": 6,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "A primeira vez para sempre",
+            "editora": "",
+            "month": 2,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "A Fórmula feminina para o amor",
+            "editora": "",
+            "month": 2,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Nós dois na lua",
+            "editora": "",
+            "day": 16,
+            "month": 3,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "The Spanish Love Deception",
+            "editora": "",
+            "day": 2,
+            "month": 6,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "12 Hours to say I Love you",
+            "editora": "",
+            "month": 6,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Finale",
+            "editora": "",
+            "month": 7,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "A Rainha do Nada",
+            "editora": "",
+            "day": 4,
+            "month": 4,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Malibu Rising",
+            "editora": "",
+            "month": 5,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "The Song of Achilles",
+            "editora": "",
+            "month": 6,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "From Ash and Blood",
+            "editora": "",
+            "month": 9,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "O Circo das Maravilhas",
+            "editora": "",
+            "day": 7,
+            "month": 3,
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Neon Gods",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "Electric Idol",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "Instruction for dancing",
+            "editora": "",
+            "year": 2022,
+            "cover": ""
+        },
+        {
+            "title": "Once upon a Broken heart",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "A Kingdom of Flesh and Fire",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "Empire of Storm",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "Tower of Dawn",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "ACWR",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
+        },
+        {
+            "title": "ACFS",
+            "editora": "",
+            "year": 2023,
+            "cover": ""
         }
     ]
 }
