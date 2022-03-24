@@ -79,11 +79,7 @@ function objectCard(title, day, month, year, editora, cover) {
     // To calculate the no. of days between two dates
     let daysLeft = Math.ceil(Difference_In_Time / (1000 * 3600 * 24));
 
-    if (
-        currentDate.getFullYear() - year >= 0 &&
-        currentDate.getMonth() + 1 - month >= 0 &&
-        currentDate.getDate() - day >= 0
-    ) {
+    if (daysLeft < 0) {
         badge = "success";
     }
 
