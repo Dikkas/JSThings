@@ -34,3 +34,12 @@
 .card-text {
     text-transform: capitalize;
 }
+
+.img-div {
+    display: flex;
+    height: 432px;
+}
+
+.img-div > img {
+    height: 432px;
+}
