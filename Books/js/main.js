@@ -49,7 +49,7 @@ function writeData(data) {
 
 function createCard(coverImg, badge, title, relDate, daysLeft, editora) {
     return `<div class="card shadow-lg" style="width: 18rem;">
-        <img src="${coverImg}" class="card-img-top">
+        <div class="img-div"><img src="${coverImg}" class="card-img-top"></div>
         <div class="card-body">
             <div class="badge bg-${badge} mb-3">
             ${daysLeft > 0 ? daysLeft + " days" : "Released"}
