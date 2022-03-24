@@ -25,56 +25,65 @@
             "editora": "?",
             "day": 15,
             "month": 3,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://m.media-amazon.com/images/I/41gQT0fenIL.jpg"
         },
         {
             "title": "Trusting Blake",
             "editora": "Editorial Presença",
             "Data": "2023",
-            "year": 2023
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/6b2fbe53-89af-41d8-9e3b-0aa399107513/1200/1200/False/trusting-blake-2.jpg"
         },
         {
-            "title": "The Iron King ",
+            "title": "The Iron King",
             "editora": "Marcador",
             "month": 6,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81HlALqsd0S.jpg"
         },
         {
             "title": "Através de mi Ventana",
             "editora": "Editorial Presença",
             "month": 6,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564186076l/52053285.jpg"
         },
         {
             "title": "As Musas",
             "editora": "Editorial Presença",
             "day": 20,
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": ""
         },
         {
             "title": "You've reached Sam",
             "editora": "Editorial Presença",
-            "year": 2023
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/youve-reached-sam-dustin-thao/MXwyNTQ1MDk3NnwyMTY5MTQ3NXwxNjM2MDcwNDAwMDAw/500x"
         },
         {
             "title": "Gallant",
             "editora": "Minotauro",
-            "year": 2023
+            "year": 2023,
+            "cover": "https://cdn.waterstones.com/bookjackets/large/9781/7856/9781785658686.jpg"
         },
         {
             "title": "Tempo de reacender estrelas",
             "editora": "Editorial Presença",
             "Data": "4/1/22",
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81gsiyHVKOL.jpg"
         },
         {
             "title": "O Gato que salvava Livros",
             "editora": "Editorial Presença",
             "day": 6,
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_6fc71f9b-bd62-4acc-af04-14ee0fa9e7f6_1024x1024.jpg?v=1647386530"
         },
         {
             "title": "O rapaz que desenhava constelações",
@@ -88,28 +97,32 @@
             "editora": "Topseller",
             "day": 4,
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/A-Variavel-do-Amor_WEB.jpg"
         },
         {
             "title": "Amor e Sorte",
             "editora": "?",
             "day": 19,
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://m.media-amazon.com/images/I/41cLqMETEhL.jpg"
         },
         {
             "title": "Os Primos",
             "editora": "Gailivro",
             "day": 5,
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://img.bertrand.pt/images/os-primos-karen-m-mcmanus/NDV8MjY2ODA0MDF8MjI5NjA2MDZ8MTY0NTc0NzIwMDAwMA==/500x"
         },
         {
             "title": "O Desaparecimento Perfeito",
             "editora": "Editorial Presença",
             "day": 20,
             "month": 4,
-            "year": 2022
+            "year": 2022,
+            "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEgqpld4dK9LqLZaZXwjC6H41Pro_TSrxEFFSidlM2lXfAuLEtvuFbzjVA0vny0Ap-_vldLoerBpVv7HhNmHaFnMThYXp0LLY35AGoNeGcAYxMT6P8fJ0Zl9ZwIsian2YbvgrglAcjoc9CBTpVzU7MvG1uOhttqeui_etYt6Te25k-egZO_bmsC_3rCp3g=s320"
         }
     ]
 }
