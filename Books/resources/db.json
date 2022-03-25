@@ -330,6 +330,14 @@
             "editora": "Editorial Presença",
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/51Ft+aAtLXL.jpg"
-        }
+        },
+        {
+            "title": "Heartstopper Volume 4",
+            "editora": "Cultura",
+            "day": 21,
+            "month": 4,
+            "year": 2022,
+            "cover": "https://img.wook.pt/images/heartstopper-volume-4-oseman-alice/MXwyMzI2NDQwNHwxOTIwMzE0NnwxNjIxODk3MjAwMDAw/500x"
+        },
     ]
 }
