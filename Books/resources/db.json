@@ -281,7 +281,26 @@
             "editora": "",
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/e1bcc3f5-a1ef-4d58-b8ef-7e9f47521643/353/569/90/False/a-court-of-frost-and-starlight-1.jpg"
-        }
+        },        
+        {
+            "title": "History is all you left me",
+            "editora": "Topseller",
+            "month":5,
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/91wIRDzfBqL.jpg"
+        },
+        {
+            "title": "The Atlas Six",
+            "editora": "Planeta",
+            "year": 2023,
+            "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbYxROGmRAghSNacfZKfozKv3gG_OYwDGjYoaDxVZ5dP9mjbhDkW4Qm9WgEk80y9T0Cw8&usqp=CAU"
+        },
+        {
+            "title": "It happened one summer,
+            "editora": "",
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/51Io3NB1qDL._SX329_BO1,204,203,200_.jpg"
+        },
     ]
 }
 
