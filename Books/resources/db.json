@@ -407,6 +407,13 @@
             "editora": "Editorial Presença",
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/3b3b14a9-a61e-4058-a3ca-965486c44e0f/1200/1200/False/the-ballad-of-never-after.jpg"
+        },
+        {
+            "title": "Cidade da Lua Crescente",
+            "editora": "Marcador",
+            "month": 10,
+            "year": 2022,
+            "cover": "https://m.media-amazon.com/images/I/51MW2DUs-3L.jpg"
         }
     ]
 }
