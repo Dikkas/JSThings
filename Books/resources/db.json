@@ -433,6 +433,30 @@
             "editora": "Editorial Presença",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg"
+        },
+        {
+            "title": "The No-Show",
+            "editora": "",
+            "day":12,
+            "month":4
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637603058l/58678549.jpg"
+        },
+        {
+            "title": "The Wedding Crasher",
+            "editora": "",
+            "day":5,
+            "month":4
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/7be12cdc-430d-4b72-ab4b-ce817606d6f7/1200/1200/False/the-wedding-crasher-4.jpg"
+        },
+        {
+            "title": "Fool me Once",
+            "editora": "",
+            "day":5,
+            "month":4
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/819Smur7INL.jpg"
         }
     ]
 }
