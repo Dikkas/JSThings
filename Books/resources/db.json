@@ -295,7 +295,8 @@
             "day": 19,
             "month": 4,
             "year": 2022,
-            "cover": "./resources/AtlasSix.jpg"
+            "cover": "./resources/AtlasSix.jpg",
+            "bought": true
         },
         {
             "title": "It happened one summer",
