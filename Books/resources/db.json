@@ -466,7 +466,8 @@
             "day": 16,
             "month": 5,
             "year": 2022,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Coracoes-Feridos_WEB-677x1024.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Coracoes-Feridos_WEB-677x1024.jpg",
+            "bought": true
         }
     ]
 }
