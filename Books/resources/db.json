@@ -202,9 +202,10 @@
         {
             "title": "Malibu Rising",
             "editora": "",
+            "day": 2,
             "month": 5,
             "year": 2022,
-            "cover": "https://kbimages1-a.akamaihd.net/09d824b0-66c8-449b-9af4-a4cec4723a13/1200/1200/False/malibu-rising.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Malibu-Renasce_WEB-677x1024.jpg"
         },
         {
             "title": "The Song of Achilles",
@@ -459,6 +460,12 @@
             "month":4,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/819Smur7INL.jpg"
+        },
+        {
+            "title": "Something Wilder",
+            "editora": "Penguin",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/something-wilder-christina-lauren/MXwyNTg5MTMxMHwyMjE2MzkxN3wxNjQ2MDA2NDAwMDAw/500x"
         }
     ]
 }
