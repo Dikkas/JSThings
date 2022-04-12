@@ -11,12 +11,16 @@
         {
             "title": "The Inheritance games",
             "editora": "Editorial Presença",
+            "day": 2,
+            "month": 6,
             "year": 2022,
             "cover": "https://img.wook.pt/images/the-inheritance-games-jennifer-lynn-barnes/MXwyNDI0MzU0NHwyMDMxOTA3NHwxNjAzNDA3NjAwMDAw/500x"
         },
         {
             "title": "Aristotles e Dante Segredos do universo",
             "editora": "Editorial Presença",
+            "day": 18,
+            "month": 5,
             "year": 2022,
             "cover": "https://m.media-amazon.com/images/I/51pbO2Ohi-L.jpg"
         },
