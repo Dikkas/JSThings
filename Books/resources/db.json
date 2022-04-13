@@ -486,6 +486,20 @@
             "month": 4,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/K-Toda-a-Gente-Nesta-Sala-um-dia-Ha-de-Morrer_outline_WEB-677x1024.jpg"
+        },
+        {
+            "title": "Take a Hint, Dani Brown",
+            "editora": "Desrotina",
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/fdaa30f8-4a54-4c3c-ad4a-1a814ce788d7/353/569/90/False/take-a-hint-dani-brown-1.jpg"
+        },
+        {
+            "title": "Eu já devia saber",
+            "editora": "Manuscrito",
+            "day": 4,
+            "month": 5,
+            "year": 2022,
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01970020_Eu_Ja_Devia_Saber_1024x1024.jpg?v=1649803720"
         }
     ]
 }
