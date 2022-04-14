@@ -81,8 +81,9 @@ function objectCard(title, day, month, year, editora, cover, bought) {
     // To set two dates to two variables
     var date1 = new Date();
 
+    let monthUse = month - 1 == 0 ? 0 : month - 1 || 11;
     // 0-11 is Month in JavaScript
-    var date2 = new Date(year, month - 1 || 11, day || 31);
+    var date2 = new Date(year, monthUse, day || 31);
     // To calculate the time difference of two dates
     var Difference_In_Time = date2.getTime() - date1.getTime();
 
