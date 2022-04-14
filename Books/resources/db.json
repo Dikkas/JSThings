@@ -501,6 +501,28 @@
             "month": 5,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01970020_Eu_Ja_Devia_Saber_1024x1024.jpg?v=1649803720"
+        },
+        {
+            "title": "Culpa Minha",
+            "editora": "Editorial Presença",
+            "day": 4,
+            "month": 5,
+            "year": 2022,
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_f5cf0146-663d-47c9-8efb-2810f4c8daf2_1024x1024.jpg?v=1649802616"
+        },
+        {
+            "title": "Culpa tuya",
+            "editora": "Editorial Presença",
+            "month": 1,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81NiME+6FGL.jpg"
+        },
+        {
+            "title": "Culpa Nuestra",
+            "editora": "Editorial Presença",
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg"
         }
     ]
 }
