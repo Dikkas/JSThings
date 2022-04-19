@@ -147,7 +147,8 @@
         {
             "title": "A court of mist and fury",
             "editora": "",
-            "month": 6,
+            "day": 20,
+            "month": 7,
             "year": 2022,
             "cover": "https://img.wook.pt/images/a-court-of-mist-and-fury-sarah-j-maas/MXwyNDA2NjczOXwyMDEyNDM1MnwxNTkwNTM0MDAwMDAw/500x"
         },
@@ -191,7 +192,8 @@
         {
             "title": "Finale",
             "editora": "",
-            "month": 7,
+            "day": 3,
+            "month": 8,
             "year": 2022,
             "cover": "https://img.wook.pt/images/finale-stephanie-garber/MXwyMzc5MjM0MnwxOTgwNDk3NnwxNTc4ODczNjAwMDAw/500x"
         },
@@ -523,6 +525,30 @@
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg"
+        },
+        {
+            "title": "Perfectos Mentirosos",
+            "editora": "Editorial Presença",
+            "day": 6,
+            "month": 7,
+            "year": 2022,
+            "cover": "https://kbimages1-a.akamaihd.net/15eefebc-5075-4101-bd96-2b7e40af2361/1200/1200/False/perfectos-mentirosos-2-perfectos-mentirosos-2.jpg"
+        },
+        {
+            "title": "Desejar Again",
+            "editora": "Editorial Presença",
+            "day": 17,
+            "month": 8,
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/71XgrHMbC9S.jpg"
+        },
+        {
+            "title": "A Lista do Sr. Malcolm",
+            "editora": "Planeta",
+            "day": 3,
+            "month": 5,
+            "year": 2022,
+            "cover": "https://www.planetadelivros.pt/usuaris/libros/fotos/354/original/portada_a-lista-do-sr-malcolm_suzanne-allain_202204071758.jpg"
         }
     ]
 }
