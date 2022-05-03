@@ -94,7 +94,8 @@
             "day": 4,
             "month": 4,
             "year": 2022,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/A-Variavel-do-Amor_WEB.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/A-Variavel-do-Amor_WEB.jpg",
+            "bought": true
         },
         {
             "title": "Amor e Sorte",
@@ -110,7 +111,8 @@
             "day": 5,
             "month": 4,
             "year": 2022,
-            "cover": "https://img.bertrand.pt/images/os-primos-karen-m-mcmanus/NDV8MjY2ODA0MDF8MjI5NjA2MDZ8MTY0NTc0NzIwMDAwMA==/500x"
+            "cover": "https://img.bertrand.pt/images/os-primos-karen-m-mcmanus/NDV8MjY2ODA0MDF8MjI5NjA2MDZ8MTY0NTc0NzIwMDAwMA==/500x",
+            "bought": true
         },
         {
             "title": "O Desaparecimento Perfeito",
@@ -118,7 +120,8 @@
             "day": 20,
             "month": 4,
             "year": 2022,
-            "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEgqpld4dK9LqLZaZXwjC6H41Pro_TSrxEFFSidlM2lXfAuLEtvuFbzjVA0vny0Ap-_vldLoerBpVv7HhNmHaFnMThYXp0LLY35AGoNeGcAYxMT6P8fJ0Zl9ZwIsian2YbvgrglAcjoc9CBTpVzU7MvG1uOhttqeui_etYt6Te25k-egZO_bmsC_3rCp3g=s320"
+            "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEgqpld4dK9LqLZaZXwjC6H41Pro_TSrxEFFSidlM2lXfAuLEtvuFbzjVA0vny0Ap-_vldLoerBpVv7HhNmHaFnMThYXp0LLY35AGoNeGcAYxMT6P8fJ0Zl9ZwIsian2YbvgrglAcjoc9CBTpVzU7MvG1uOhttqeui_etYt6Te25k-egZO_bmsC_3rCp3g=s320",
+            "bought": true
         },
         {
             "title": "Herdeira do Fogo",
@@ -126,7 +129,8 @@
             "day": 16,
             "month": 3,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/herdeira-do-fogo-sarah-j-maas/MXwyNjY3NjUwNnwyMjk1NTgzM3wxNjQ1NDg4MDAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/herdeira-do-fogo-sarah-j-maas/MXwyNjY3NjUwNnwyMjk1NTgzM3wxNjQ1NDg4MDAwMDAw/500x",
+            "bought": true
         },
         {
             "title": "Queen of Shadows",
@@ -172,7 +176,8 @@
             "day": 16,
             "month": 3,
             "year": 2022,
-            "cover": "https://img.bertrand.pt/images/nos-os-dois-na-lua-alice-kellen/NDV8MjY2NzY1MDR8MjI5NTU4MzF8MTY0NTQ4ODAwMDAwMA==/500x"
+            "cover": "https://img.bertrand.pt/images/nos-os-dois-na-lua-alice-kellen/NDV8MjY2NzY1MDR8MjI5NTU4MzF8MTY0NTQ4ODAwMDAwMA==/500x",
+            "bought": true
         },
         {
             "title": "The Spanish Love Deception",
@@ -203,7 +208,8 @@
             "day": 4,
             "month": 4,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/a-rainha-do-nada-holly-black/MXwyNjc3Njg0MnwyMzA2MjAyM3wxNjQ3OTkzNjAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/a-rainha-do-nada-holly-black/MXwyNjc3Njg0MnwyMzA2MjAyM3wxNjQ3OTkzNjAwMDAw/500x",
+            "bought": true
         },
         {
             "title": "Malibu Rising",
@@ -211,7 +217,8 @@
             "day": 2,
             "month": 5,
             "year": 2022,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Malibu-Renasce_WEB-677x1024.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Malibu-Renasce_WEB-677x1024.jpg",
+            "bought": true
         },
         {
             "title": "The Song of Achilles",
@@ -406,10 +413,11 @@
             "day": 10,
             "month": 5,
             "year": 2022,
-            "cover": "https://www.leyaonline.com/fotos/produtos/500_9789896614089_esses_prazeres_violentos.jpg"
+            "cover": "https://www.leyaonline.com/fotos/produtos/500_9789896614089_esses_prazeres_violentos.jpg",
+            "bought": true
         },
         {
-            "title": "The Ballad ooof Never After",
+            "title": "The Ballad of Never After",
             "editora": "Editorial Presença",
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/3b3b14a9-a61e-4058-a3ca-965486c44e0f/1200/1200/False/the-ballad-of-never-after.jpg"
@@ -491,7 +499,8 @@
             "day": 4,
             "month": 4,
             "year": 2022,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/K-Toda-a-Gente-Nesta-Sala-um-dia-Ha-de-Morrer_outline_WEB-677x1024.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/K-Toda-a-Gente-Nesta-Sala-um-dia-Ha-de-Morrer_outline_WEB-677x1024.jpg",
+            "bought": true
         },
         {
             "title": "Take a Hint, Dani Brown",
