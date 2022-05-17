@@ -301,6 +301,7 @@
         {
             "title": "History is all you left me",
             "editora": "Topseller",
+            "day": 19,
             "month": 5,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/91wIRDzfBqL.jpg"
@@ -592,6 +593,12 @@
             "month": 5,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81vXxmsXFJL.jpg"
+        },
+        {
+            "title": "Dial A for aunties",
+            "editora": "Clube doo Autor",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81Cudo9sC7L.jpg"
         }
     ]
 }
