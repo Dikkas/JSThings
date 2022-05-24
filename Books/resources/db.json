@@ -601,11 +601,29 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81Cudo9sC7L.jpg"
         },
         {
-            "title": "Chain of Goold",
+            "title": "Chain of Gold",
             "editora": "Planeta",
             "month": 6,
             "year": 2022,
             "cover": "https://img.wook.pt/images/chain-of-gold-cassandra-clare/MXwyMzU3MzA4MXwxOTU0NTgyOHwxNTc5NTA5OTQ3MDAw/500x"
+        },
+        {
+            "title": "From Lukov With Love",
+            "editora": "Editorial Presença",
+            "year": 2023,
+            "cover": "https://m.media-amazon.com/images/I/51wdvZS2eYL.jpg"
+        },
+        {
+            "title": "Reminders of Him",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/reminders-of-him-colleen-hoover/MXwyNTgyNDAwNXwyMjA4NjI4NnwxNjQxMzA5NzA1MDAw/500x"
+        },
+        {
+            "title": "Golden Boys",
+            "editora": "Clube do autor",
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/857fb4a0-2106-45b5-a767-7910659ae39c/1200/1200/False/golden-boys-15.jpg"
         }
     ]
 }
