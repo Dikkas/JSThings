@@ -641,6 +641,25 @@
             "month": 5,
             "year": 2022,
             "cover": "https://img.wook.pt/images/o-sonho-americano-de-ivy-lin-susie-yang/MXwyNTg4MDk3OXwyMjE1MzQ5MHwxNjUwNjE2MTczMDAwfHdlYnA=/502x"
+        },
+        {
+            "title": "Já sou Normal?",
+            "editora": "Topseller",
+            "month": 5,
+            "year": 2021,
+            "cover": "https://img.wook.pt/images/ja-sou-normal-holly-bourne/MXwyNDc3ODYzMHwyMDk1OTczOXwxNjIxNDExMTQwMDAwfHdlYnA=/502x"
+        },
+        {
+            "title": "How Hard Can Love be?",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/how-hard-can-love-be-holly-bourne/MXwxNzM4ODAwNnwxMzAxNjcxOXwxNTkwMDc5OTkyMDAw/175x"
+        },
+        {
+            "title": "What's a girl gotta do?",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/whats-a-girl-gotta-do-holly-bourne/MXwxNzg5NDM2NnwxMzUzNjM3NXwxNjEzNzI2NDA1MDAw/500x"
         }
     ]
 }
