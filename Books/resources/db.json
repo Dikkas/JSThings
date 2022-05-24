@@ -324,8 +324,11 @@
         {
             "title": "Beach Read",
             "editora": "Leya",
+            "day": 14,
+            "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/beach-read-emily-henry/MXwyMzc5NTE4MHwxOTgwNzgxMXwxNjI3ODU4ODAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/beach-read-emily-henry/MXwyMzc5NTE4MHwxOTgwNzgxMXwxNjI3ODU4ODAwMDAw/500x",
+            "bought": true
         },
         {
             "title": "If I never met you",
