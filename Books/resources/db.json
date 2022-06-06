@@ -14,7 +14,7 @@
             "day": 2,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/the-inheritance-games-jennifer-lynn-barnes/MXwyNDI0MzU0NHwyMDMxOTA3NHwxNjAzNDA3NjAwMDAw/500x"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740036_Jogos_Da_Heranca_1024x1024.jpg?v=1652343079"
         },
         {
             "title": "Aristotles e Dante Segredos do universo",
@@ -43,7 +43,7 @@
             "editora": "Marcador",
             "month": 6,
             "year": 2022,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559166802l/16117911._SY475_.jpg"
+            "cover": "https://img.wook.pt/images/o-rei-de-ferro-maurice-druon/MXwyNzA1NzIxM3wyMzM2MTQ2NHwxNjUzMzg2MzU5MDAwfHdlYnA=/502x"
         },
         {
             "title": "Através de mi Ventana",
@@ -186,14 +186,15 @@
             "day": 2,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/the-spanish-love-deception-elena-armas/MXwyNTgyNDA0M3wyMjA4NjMxNXwxNjQxMjU0NDAwMDAw/500x"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01950211_Ilusao_Amor_Espanhola_1024x1024.jpg?v=1652343310"
         },
         {
             "title": "12 Hours to say I Love you",
-            "editora": "",
+            "editora": "Editorial Presença",
+            "day": 15,
             "month": 6,
             "year": 2022,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636666451l/59594028.jpg"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040789_12_Horas_Para_Dizer_Que_Te_Amo_1024x1024.jpg?v=1653466467"
         },
         {
             "title": "Finale",
@@ -227,7 +228,7 @@
             "day": 26,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.bertrand.pt/images/song-of-achilles-madeline-miller/NDV8MTQ3NDIxMDR8MTAyMjQwOTR8MTU5MDUzNDAwMDAwMA==/500x"
+            "cover": "https://img.wook.pt/images/o-canto-de-aquiles-madeline-miller/MXwyNjg5Nzk1N3wyMzE5MzMzOXwxNjUxMTQ0NzE5MDAwfHdlYnA=/502x"
         },
         {
             "title": "From Ash and Blood",
@@ -304,7 +305,7 @@
             "day": 30,
             "month": 5,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/91wIRDzfBqL.jpg"
+            "cover": "https://img.wook.pt/images/tudo-o-que-restou-de-nos-adam-silvera/MXwyNzAzMjI3OHwyMzMzMzc2N3wxNjUyODc3OTAyMDAwfHdlYnA=/502x"
         },
         {
             "title": "The Atlas Six",
@@ -327,7 +328,7 @@
             "day": 14,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/beach-read-emily-henry/MXwyMzc5NTE4MHwxOTgwNzgxMXwxNjI3ODU4ODAwMDAw/500x",
+            "cover": "https://img.wook.pt/images/romance-de-verao-emily-henry/MXwyNzA1NDYyMHwyMzM1ODY2MnwxNjU0MTU4OTkwMDAwfHdlYnA=/502x",
             "bought": true
         },
         {
@@ -409,7 +410,7 @@
             "day": 19,
             "month": 5,
             "year": 2022,
-            "cover": "https://static.fnac-static.com/multimedia/Images/FR/NR/83/19/d1/13703555/1507-1/tsp20210921065930/HOUSE-IN-THE-CERULEAN-SEA.jpg",
+            "cover": "https://img.wook.pt/images/a-casa-no-mar-ceruleo-tj-klune/MXwyNjg3NzE1MXwyMzE3MTAzM3wxNjUxNTg1NjY1MDAwfHdlYnA=/502x",
             "bought": true
         },
         {
@@ -454,10 +455,8 @@
         },
         {
             "title": "The No-Show",
-            "editora": "",
-            "day":12,
-            "month":4,
-            "year": 2022,
+            "editora": "Topseller",
+            "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637603058l/58678549.jpg"
         },
         {
@@ -587,7 +586,7 @@
             "day": 30,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/boyfriend-material-alexis-hall/MXwyNDA2NDczNHwyMDEyMjI2N3wxNTkyMjk5OTk1MDAw/500x"
+            "cover": "https://img.wook.pt/images/procura-se-namorado-alexis-hall/MXwyNzA5Nzg2NXwyMzQwNjgxMXwxNjU0MTg0NDUxMDAwfHdlYnA=/502x"
         },
         {
             "title": "This Might Hurt",
@@ -595,7 +594,7 @@
             "day": 31,
             "month": 5,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/81vXxmsXFJL.jpg"
+            "cover": "https://img.wook.pt/images/isto-pode-doer-stephanie-wrobel/MXwyNzAyODI5N3wyMzMyODc5OXwxNjUyNjg4NzExMDAwfHdlYnA=/502x"
         },
         {
             "title": "Dial A for aunties",
@@ -610,7 +609,7 @@
             "day": 14,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/chain-of-gold-cassandra-clare/MXwyMzU3MzA4MXwxOTU0NTgyOHwxNTc5NTA5OTQ3MDAw/500x"
+            "cover": "https://img.wook.pt/images/corrente-de-ouro-cassandra-clare/MXwyNzA1ODU3NXwyMzM2MzcwNXwxNjUzNDg3MDA0MDAwfHdlYnA=/502x"
         },
         {
             "title": "From Lukov With Love",
@@ -687,7 +686,7 @@
             "day": 14,
             "month": 6,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/41h2GlBORIS._SY264_BO1,204,203,200_QL40_ML2_.jpg"
+            "cover": "https://img.wook.pt/images/punk-57-penelope-douglas/MXwyNzA2MTQ1N3wyMzM2NzkxNXwxNjUzNjQzNTcyMDAwfHdlYnA=/502x"
         },
         {
             "title": "Com Amizade",
