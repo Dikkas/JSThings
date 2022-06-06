@@ -696,6 +696,12 @@
             "month": 6,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/05/Com-Amizade-WEB.jpg"
+        },
+        {
+            "title": "One Last Stop",
+            "editora": "Editorial Presença",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/one-last-stop-casey-mcquiston/MXwyNDQzODE1MXwyMDUyNzY0M3wxNjI1ODIzODcyMDAw/500x"
         }
     ]
 }
