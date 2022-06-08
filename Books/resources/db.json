@@ -318,7 +318,9 @@
         },
         {
             "title": "It happened one summer",
-            "editora": "",
+            "editora": "Desrotina",
+            "day": 21,
+            "month": 7,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/51Io3NB1qDL._SX329_BO1,204,203,200_.jpg"
         },
@@ -709,14 +711,6 @@
             "editora": "Marcador",
             "year": 2022,
             "cover": "https://img.wook.pt/images/the-fine-print-lauren-asher/MXwyNTkyOTE2OXwyMjIwMzQ3MnwxNjQ0MzQ1NTQ1MDAw/500x"
-        },
-        {
-            "title": "Aconteceu naquele verão",
-            "editora": "Desrotina",
-            "day": 21,
-            "month": 7,
-            "year": 2022,
-            "cover": "https://kbimages1-a.akamaihd.net/acc10107-7b61-4770-992e-f7fd6ca52d2e/180/1000/False/it-happened-one-summer-3.jpg"
         }
     ]
 }
