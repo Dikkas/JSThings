@@ -762,6 +762,24 @@
             "editora": "Topseller",
             "year": 2022,
             "cover": "https://kbimages1-a.akamaihd.net/9d958576-452d-4dad-a5d4-78abcf5a7971/1200/1200/False/ignite-me-1.jpg"
+        },
+        {
+            "title": "Gild",
+            "editora": "Saida de Emergencia",
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618502656l/56212081.jpg"
+        },
+        {
+            "title": "Glint",
+            "editora": "Saida de Emergencia",
+            "year": 2022,
+            "cover": "https://m.media-amazon.com/images/I/51l1oSrh+XL.jpg"
+        },
+        {
+            "title": "Gleam",
+            "editora": "Saida de Emergencia",
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621972301l/58159314._SY475_.jpg"
         }
     ]
 }
