@@ -792,6 +792,14 @@
             "editora": "Topseller",
             "year": 2022,
             "cover": "https://m.media-amazon.com/images/I/51grHv0vAZL.jpg"
+        },
+        {
+            "title": "Ciencia do Amor",
+            "editora": "Desrotina",
+            "day": 18,
+            "month": 8,
+            "year": 2022,
+            "cover": "https://kbimages1-a.akamaihd.net/8d5ae1d9-28c9-4518-a6e8-f4dac7b6c3d9/1200/1200/False/love-on-the-brain-2.jpg"
         }
     ]
 }
