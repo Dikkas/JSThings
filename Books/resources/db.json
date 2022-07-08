@@ -800,6 +800,22 @@
             "month": 8,
             "year": 2022,
             "cover": "https://kbimages1-a.akamaihd.net/8d5ae1d9-28c9-4518-a6e8-f4dac7b6c3d9/1200/1200/False/love-on-the-brain-2.jpg"
+        },
+        {
+            "title": "Trono Partido",
+            "editora": "Saida de Emergencia",
+            "day": 18,
+            "month": 8,
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/816lYhNW3SL.jpg"
+        },
+        {
+            "title": "The Dead Romantics",
+            "editora": "Porto Editora",
+            "day": 18,
+            "month": 8,
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/55e09273-17a5-42de-9b86-e96cbadb7b36/1200/1200/False/the-dead-romantics.jpg"
         }
     ]
 }
