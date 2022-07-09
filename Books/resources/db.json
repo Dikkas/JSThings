@@ -14,7 +14,8 @@
             "day": 2,
             "month": 6,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740036_Jogos_Da_Heranca_1024x1024.jpg?v=1652343079"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740036_Jogos_Da_Heranca_1024x1024.jpg?v=1652343079",
+            "bought": true
         },
         {
             "title": "Aristotles e Dante Segredos do universo",
