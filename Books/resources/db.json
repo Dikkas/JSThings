@@ -855,9 +855,15 @@
         },
         {
             "title": "A thousand heartbeats",
-            "editora": "marcador",
+            "editora": "Marcador",
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/41gAzC3LxSL.jpg"
+        },
+        {
+            "title": "This time it's Real",
+            "editora": "Planeta",
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634869197l/59416200._SY475_.jpg"
         }
     ]
 }
