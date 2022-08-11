@@ -602,11 +602,12 @@
             "cover": "https://img.wook.pt/images/isto-pode-doer-stephanie-wrobel/MXwyNzAyODI5N3wyMzMyODc5OXwxNjUyNjg4NzExMDAwfHdlYnA=/502x"
         },
         {
-            "title": "Dial A for aunties",
-            "editora": "Clube doo Autor",
+            "title": "Liga às Tias",
+            "editora": "Clube do Autor",
+            "day": 15,
             "month": 9,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/81Cudo9sC7L.jpg"
+            "cover": "https://img.wook.pt/images/liga-as-tias-jesse-q-sutanto/MXwyNzI5NjYxOHwyMzYzODExOXwxNjYwMTE3MDYzMDAw/500x"
         },
         {
             "title": "Chain of Gold",
@@ -906,6 +907,18 @@
             "month": 9,
             "year": 2022,
             "cover": "https://img.wook.pt/images/amor-e-santorini-jenna-evans-welch/MXwyNzI4MDIzN3wyMzYxOTU5OXwxNjU5NzA4OTY2MDAwfHdlYnA=/502x"
+        },
+        {
+            "title": "Lightlark",
+            "editora": "Zero A Oito Editora",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/lightlark-alex-aster/MXwyNjc4NDIxNHwyMzA3MDUxM3wxNjU1MTIzMjYyMDAw/500x"
+        },
+        {
+            "title": "Daughter of the moon goddess",
+            "editora": "Porto Editora",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/daughter-of-the-moon-goddess-sue-lynn-tan/MXwyNDgwNTEwOHwyMDk5MTE5MnwxNjMyNzQ3MzQ2MDAw/500x"
         }
     ]
 }
