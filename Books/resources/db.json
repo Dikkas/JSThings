@@ -34,12 +34,6 @@
             "cover": "https://m.media-amazon.com/images/I/41gQT0fenIL.jpg"
         },
         {
-            "title": "Trusting Blake",
-            "editora": "Editorial Presença",
-            "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/6b2fbe53-89af-41d8-9e3b-0aa399107513/1200/1200/False/trusting-blake-2.jpg"
-        },
-        {
             "title": "The Iron King",
             "editora": "Marcador",
             "month": 6,
@@ -233,7 +227,8 @@
         },
         {
             "title": "From Ash and Blood",
-            "editora": "",
+            "editora": "Marcador",
+            "day": 2,
             "month": 9,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585598504l/52831200._SY475_.jpg"
