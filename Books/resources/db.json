@@ -715,6 +715,8 @@
         {
             "title": "The Fine Print",
             "editora": "Marcador",
+            "day": 6,
+            "month": 10,
             "year": 2022,
             "cover": "https://img.wook.pt/images/the-fine-print-lauren-asher/MXwyNTkyOTE2OXwyMjIwMzQ3MnwxNjQ0MzQ1NTQ1MDAw/500x"
         },
@@ -735,6 +737,7 @@
         {
             "title": "As Good As Dead",
             "editora": "Editorial Presença",
+            "day": 6,
             "month": 10,
             "year": 2022,
             "cover": "https://kbimages1-a.akamaihd.net/b8591d3d-bd36-455d-b491-2286f1da4423/1200/1200/False/as-good-as-dead-a-good-girl-s-guide-to-murder-book-3-1.jpg"
