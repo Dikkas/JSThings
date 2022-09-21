@@ -934,10 +934,18 @@
             "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/e4/18/79/7936228/1507-1.jpg"
         },
         {
-            "title": "Isto Começa Aqui",
+            "title": "King of Wrath",
             "editora": "",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654441243i/61229235.jpg"
+        },
+        {
+            "title": "Vais ser a minha morte",
+            "editora": "Gailivro",
+            "day": 18,
+            "month": 10,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615237524i/56200366.jpg"
         }
     ]
 }
