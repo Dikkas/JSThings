@@ -580,7 +580,9 @@
         {
             "title": "The Bromance Book Club",
             "editora": "Leya",
-            "year": 2023,
+            "day": 11,
+            "month": 10,
+            "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81zRS6iAHLL.jpg"
         },
         {
@@ -646,8 +648,9 @@
         {
             "title": "Every Summer After",
             "editora": "Topseller",
-            "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630101647l/58014893.jpg"
+            "month": 9,
+            "year": 2022,
+            "cover": "https://img.wook.pt/images/cada-verao-passado-carley-fortune/MXwyNzM0ODE3OHwyMzY5OTM4MHwxNjYxNDE1NjIxMDAwfHdlYnA=/502x"
         },
         {
             "title": "O Sonho Americano de Ivy Lin",
@@ -874,6 +877,7 @@
         {
             "title": "This time it's Real",
             "editora": "Planeta",
+            "month": 2,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634869197l/59416200._SY475_.jpg"
         },
@@ -928,7 +932,9 @@
         {
             "title": "Daughter of the moon goddess",
             "editora": "Porto Editora",
-            "year": 2023,
+            "day": 6,
+            "month": 10,
+            "year": 2022,
             "cover": "https://img.wook.pt/images/daughter-of-the-moon-goddess-sue-lynn-tan/MXwyNDgwNTEwOHwyMDk5MTE5MnwxNjMyNzQ3MzQ2MDAw/500x"
         },
         {
@@ -986,6 +992,18 @@
             "month": 10,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636609478i/49644532.jpg"
+        },
+        {
+            "title": "Things We Never Got Over",
+            "editora": "Marcador",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641629293i/60060431.jpg"
+        },
+        {
+            "title": "Elektra",
+            "editora": "Minotauro",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650240624i/58725016.jpg"
         }
     ]
 }
