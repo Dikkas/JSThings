@@ -57,8 +57,10 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/I/41vAMQat0uS._SX335_BO1,204,203,200_.jpg"
         },
         {
-            "title": "You've reached Sam",
+            "title": "Daqui Fala Sam",
             "editora": "Editorial Presença",
+            "day": 3,
+            "month": 11,
             "year": 2023,
             "cover": "https://img.wook.pt/images/youve-reached-sam-dustin-thao/MXwyNTQ1MDk3NnwyMTY5MTQ3NXwxNjM2MDcwNDAwMDAw/500x"
         },
@@ -245,7 +247,9 @@
         },
         {
             "title": "Neon Gods",
-            "editora": "",
+            "editora": "Marcador",
+            "day": 3,
+            "month": 11,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/8950fdee-b624-466e-919f-8015d22bab78/1200/1200/False/neon-gods-2.jpg"
         },
@@ -436,6 +440,7 @@
         {
             "title": "Cidade da Lua Crescente",
             "editora": "Marcador",
+            "day": 3,
             "month": 11,
             "year": 2022,
             "cover": "https://m.media-amazon.com/images/I/51MW2DUs-3L.jpg"
@@ -498,6 +503,7 @@
         {
             "title": "A Little Life",
             "editora": "Editorial Presença",
+            "day": 16,
             "month": 11,
             "year": 2022,
             "cover": "https://img.wook.pt/images/a-little-life-yanagihara-hanya/MXwxNjcwMzU0MXwxMjMxODU3M3wxNTgwNzc0NDAwMDAw/500x"
@@ -955,9 +961,31 @@
         },
         {
             "title": "This Woven Kingdom",
-            "editora": "",
+            "editora": "TopSeller",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634235371i/56554281.jpg"
+        },
+        {
+            "title": "These Infinite Threads",
+            "editora": "TopSeller",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656264319i/61085925.jpg"
+        },
+        {
+            "title": "Half Bad",
+            "editora": "Editorial Presença",
+            "day": 19,
+            "month": 10,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413889712i/18079804.jpg"
+        },
+        {
+            "title": "Aquele tempo contigo (Antes de Diciembro)",
+            "editora": "TopSeller",
+            "day": 19,
+            "month": 10,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413889712i/18079804.jpg"
         }
     ]
 }
