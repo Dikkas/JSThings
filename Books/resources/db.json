@@ -1005,6 +1005,18 @@
             "editora": "Minotauro",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650240624i/58725016.jpg"
+        },
+        {
+            "title": "Heart of the Sun Warrior",
+            "editora": "Porto Editora",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659405649i/60461898.jpg"
+        },
+        {
+            "title": "Heart Breaker",
+            "editora": "TopSeller",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655070161i/53445631.jpg"
         }
     ]
 }
