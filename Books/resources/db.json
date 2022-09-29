@@ -801,6 +801,8 @@
         {
             "title": "Book Lovers",
             "editora": "Leya",
+            "day": 2,
+            "month": 11,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/71gDtm1U0FL.jpg"
         },
@@ -987,12 +989,12 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413889712i/18079804.jpg"
         },
         {
-            "title": "Aquele tempo contigo (Antes de Diciembro)",
+            "title": "Aquele tempo contigo",
             "editora": "TopSeller",
             "day": 19,
             "month": 10,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636609478i/49644532.jpg"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740043_Aquele_Tempo_Contigo_1024x1024.jpg?v=1664357633"
         },
         {
             "title": "Things We Never Got Over",
