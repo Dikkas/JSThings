@@ -854,6 +854,7 @@
         {
             "title": "Hello, Goodbye, and Everything in Between",
             "editora": "Cultura Editora",
+            "month": 9
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422637071l/23369370.jpg"
         },
@@ -936,7 +937,7 @@
             "title": "Daughter of the moon goddess",
             "editora": "Porto Editora",
             "day": 6,
-            "month": 10,
+            "month": 9,
             "year": 2022,
             "cover": "https://img.wook.pt/images/daughter-of-the-moon-goddess-sue-lynn-tan/MXwyNDgwNTEwOHwyMDk5MTE5MnwxNjMyNzQ3MzQ2MDAw/500x"
         },
@@ -1019,6 +1020,18 @@
             "editora": "TopSeller",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655070161i/53445631.jpg"
+        },
+        {
+            "title": "I Kissed Shara Wheeler",
+            "editora": "Editorial Presença",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644433190i/58756420.jpg"
+        },
+        {
+            "title": "Book of Night",
+            "editora": "Penguin",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639163872i/58293924.jpg"
         }
     ]
 }
