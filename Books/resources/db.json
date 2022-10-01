@@ -854,7 +854,7 @@
         {
             "title": "Hello, Goodbye, and Everything in Between",
             "editora": "Cultura Editora",
-            "month": 9
+            "month": 9,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422637071l/23369370.jpg"
         },
@@ -1032,6 +1032,12 @@
             "editora": "Penguin",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639163872i/58293924.jpg"
+        },
+        {
+            "title": "Ariadne",
+            "editora": "Penguin",
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/38628790-2e3a-40cd-9c4c-887f15cfcd27/1200/1200/False/ariadne-31.jpg"
         }
     ]
 }
