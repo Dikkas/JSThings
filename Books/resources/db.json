@@ -1040,6 +1040,14 @@
             "editora": "Penguin",
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/38628790-2e3a-40cd-9c4c-887f15cfcd27/1200/1200/False/ariadne-31.jpg"
+        },
+        {
+            "title": "Amor na Porta da Frente",
+            "editora": "Editorial Velha Lenda",
+            "day": 1,
+            "month": 12,
+            "year": 2022,
+            "cover": ""
         }
     ]
 }
