@@ -1048,6 +1048,13 @@
             "month": 12,
             "year": 2022,
             "cover": ""
+        },
+        {
+            "title": "Covet",
+            "editora": "Leya",
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg"
         }
     ]
 }
