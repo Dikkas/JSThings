@@ -670,7 +670,9 @@
         },
         {
             "title": "How Hard Can Love be?",
-            "editora": "Topseller",
+            "editora": "Topseller",            
+            "day": 24,
+            "month": 10,
             "year": 2023,
             "cover": "https://img.wook.pt/images/how-hard-can-love-be-holly-bourne/MXwxNzM4ODAwNnwxMzAxNjcxOXwxNTkwMDc5OTkyMDAw/175x"
         },
@@ -1053,6 +1055,12 @@
             "title": "Covet",
             "editora": "Leya",
             "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg"
+        },
+        {
+            "title": "Spells for Lost Things",
+            "editora": "Zero a Oito Editora",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg"
         }
