@@ -1063,6 +1063,14 @@
             "editora": "Zero a Oito Editora",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg"
+        },
+        {
+            "title": "Daughters of Sparta",
+            "editora": "Planeta",
+            "day": 22,
+            "month": 11,
+            "year": 2022,
+            "cover": "https://kbimages1-a.akamaihd.net/8f67256b-c81b-436a-93ed-0c7dd92f283a/1200/1200/False/daughters-of-sparta.jpg"
         }
     ]
 }
