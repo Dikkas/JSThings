@@ -360,6 +360,8 @@
         {
             "title": "El Chico que Dibujava Constelaciones",
             "editora": "Editorial Presença",
+            "day": 3,
+            "month": 11,
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/51Ft+aAtLXL.jpg"
         },
@@ -721,7 +723,9 @@
         {
             "title": "One Last Stop",
             "editora": "Editorial Presença",
-            "year": 2023,
+            "day": 3,
+            "month": 11,
+            "year": 2022,
             "cover": "https://img.wook.pt/images/one-last-stop-casey-mcquiston/MXwyNDQzODE1MXwyMDUyNzY0M3wxNjI1ODIzODcyMDAw/500x"
         },
         {
@@ -1071,6 +1075,14 @@
             "month": 11,
             "year": 2022,
             "cover": "https://kbimages1-a.akamaihd.net/8f67256b-c81b-436a-93ed-0c7dd92f283a/1200/1200/False/daughters-of-sparta.jpg"
+        },
+        {
+            "title": "The Dinner Guest",
+            "editora": "Editorial Presença",
+            "day": 3,
+            "month": 11,
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605109916l/55773354._SY475_.jpg"
         }
     ]
 }
