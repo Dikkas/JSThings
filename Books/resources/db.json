@@ -1083,6 +1083,29 @@
             "month": 11,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605109916l/55773354._SY475_.jpg"
+        },
+        {
+            "title": "Escrito nas estrelas",
+            "editora": "Clube do Autor",
+            "day": 2,
+            "month": 11,
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591711593l/51179990.jpg"
+        },
+        {
+            "title": "Last Night At Telegraph Club",
+            "editora": "Clube do Autor",
+            "month": 11,
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593457992l/35224992.jpg"
+        },
+        {
+            "title": "Our Missing Hearts",
+            "editora": "Relogio d'agua",
+            "day": 18,
+            "month": 10,
+            "year": 2022,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664802258l/60149573._SY475_.jpg"
         }
     ]
 }
