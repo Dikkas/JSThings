@@ -1113,6 +1113,29 @@
             "editora": "Editorial Presença",
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659677880l/60788826.jpg"
+        },
+        {
+            "title": "Lendários",
+            "editora": "Desrotina",
+            "day": 27,
+            "month": 10,
+            "year": 2022,
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP202DE011_720x.jpg?v=1663604510"
+        },
+        {
+            "title": "Nick and Charlie",
+            "editora": "Desrotina",
+            "month": 9,
+            "year": 2022,
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP196DE010_720x.jpg?v=1658760520"
+        },
+        {
+            "title": "Circe",
+            "editora": "Minotauro",
+            "month": 9,
+            "year": 2020,
+            "cover": "https://img.wook.pt/images/circe-madeline-miller/MXwyNDMwMDgxOHwyMDM4NDM4NnwxNTk4NjMyMjExMDAwfHdlYnA=/502x"
         }
+        
     ]
 }
