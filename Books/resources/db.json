@@ -1094,7 +1094,7 @@
         },
         {
             "title": "Last Night At Telegraph Club",
-            "editora": "Clube do Autor",
+            "editora": "Desrotina",
             "month": 11,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593457992l/35224992.jpg"
@@ -1106,6 +1106,12 @@
             "month": 10,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664802258l/60149573._SY475_.jpg"
+        },
+        {
+            "title": "Five Survive",
+            "editora": "Editorial Presença,
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659677880l/60788826.jpg"
         }
     ]
 }
