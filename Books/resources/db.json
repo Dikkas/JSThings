@@ -228,7 +228,8 @@
             "day": 26,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/o-canto-de-aquiles-madeline-miller/MXwyNjg5Nzk1N3wyMzE5MzMzOXwxNjUxMTQ0NzE5MDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/o-canto-de-aquiles-madeline-miller/MXwyNjg5Nzk1N3wyMzE5MzMzOXwxNjUxMTQ0NzE5MDAwfHdlYnA=/502x",
+            "bought": true
         },
         {
             "title": "From Ash and Blood",
@@ -236,7 +237,8 @@
             "day": 2,
             "month": 9,
             "year": 2022,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585598504l/52831200._SY475_.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585598504l/52831200._SY475_.jpg",
+            "bought": true
         },
         {
             "title": "O Circo das Maravilhas",
@@ -735,7 +737,8 @@
             "day": 6,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/the-fine-print-lauren-asher/MXwyNTkyOTE2OXwyMjIwMzQ3MnwxNjQ0MzQ1NTQ1MDAw/500x"
+            "cover": "https://img.wook.pt/images/the-fine-print-lauren-asher/MXwyNTkyOTE2OXwyMjIwMzQ3MnwxNjQ0MzQ1NTQ1MDAw/500x",
+            "bought": true
         },
         {
             "title": "Deixo-te para não te perder",
@@ -757,7 +760,8 @@
             "day": 6,
             "month": 10,
             "year": 2022,
-            "cover": "https://kbimages1-a.akamaihd.net/b8591d3d-bd36-455d-b491-2286f1da4423/1200/1200/False/as-good-as-dead-a-good-girl-s-guide-to-murder-book-3-1.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/b8591d3d-bd36-455d-b491-2286f1da4423/1200/1200/False/as-good-as-dead-a-good-girl-s-guide-to-murder-book-3-1.jpg",
+            "bought": true
         },
         {
             "title": "Alvorada Vermelha",
@@ -956,7 +960,8 @@
             "day": 18,
             "month": 10,
             "year": 2022,
-            "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/e4/18/79/7936228/1507-1.jpg"
+            "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/e4/18/79/7936228/1507-1.jpg",
+            "bought": true
         },
         {
             "title": "King of Wrath",
@@ -1096,6 +1101,7 @@
         {
             "title": "Last Night At Telegraph Club",
             "editora": "Desrotina",
+            "day": 17,
             "month": 11,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593457992l/35224992.jpg"
@@ -1135,7 +1141,8 @@
             "editora": "Minotauro",
             "month": 9,
             "year": 2020,
-            "cover": "https://img.wook.pt/images/circe-madeline-miller/MXwyNDMwMDgxOHwyMDM4NDM4NnwxNTk4NjMyMjExMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/circe-madeline-miller/MXwyNDMwMDgxOHwyMDM4NDM4NnwxNTk4NjMyMjExMDAwfHdlYnA=/502x",
+            "bought": true
         },
         {
             "title": "Amor à Segunda Vista",
@@ -1161,6 +1168,15 @@
             "editora": "Planeta",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665849047i/57912066.jpg"
+        },
+        {
+            "title": "Scythe",
+            "editora": "Desrotina",
+            "day": 7,
+            "month": 12,
+            "year": 2022,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456172676i/28954189.jpg",
+            "bought": true
         }
         
     ]
