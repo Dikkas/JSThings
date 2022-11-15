@@ -357,7 +357,7 @@
         {
             "title": "Free Love",
             "editora": "Editorial Presença",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://images.randomhouse.com/cover/9781039003057"
         },
         {
@@ -453,7 +453,7 @@
         {
             "title": "The Cemetery Boys",
             "editora": "",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://img.wook.pt/images/cemetery-boys-aiden-thomas/MXwyMzk0Nzk4NXwxOTk4MTY0NHwxNjE0MDM4NDAwMDAw/500x"
         },
         {
@@ -751,7 +751,7 @@
         {
             "title": "Terms and Conditions",
             "editora": "Editorial Presença",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://img.wook.pt/images/terms-and-conditions-lauren-asher/MXwyNTkyOTE3MXwyMjIwMzQ3NHwxNjQ2NzM3MzE3MDAwfHdlYnA=/502x"
         },
         {
@@ -788,25 +788,25 @@
         {
             "title": "Ignite me",
             "editora": "Topseller",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/9d958576-452d-4dad-a5d4-78abcf5a7971/1200/1200/False/ignite-me-1.jpg"
         },
         {
             "title": "Gild",
             "editora": "Saida de Emergencia",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618502656l/56212081.jpg"
         },
         {
             "title": "Glint",
             "editora": "Saida de Emergencia",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51l1oSrh+XL.jpg"
         },
         {
             "title": "Gleam",
             "editora": "Saida de Emergencia",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621972301l/58159314._SY475_.jpg"
         },
         {
@@ -820,7 +820,7 @@
         {
             "title": "Stone Blind",
             "editora": "Topseller",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51grHv0vAZL.jpg"
         },
         {
@@ -874,7 +874,7 @@
         {
             "title": "A Probabilidade Estatistica do Amor à Primeira Vista",
             "editora": "Cultura Editora",
-            "year": 2022,
+            "year": 2023,
             "cover": "https://img.wook.pt/images/a-probabilidade-estatistica-do-amor-a-primeira-vista-jennifer-e-smith/MXwxNDEyMjc3M3w5Njg3MTU1fDE0Mjk3OTU3NDUwMDA=/500x"
         },
         {
@@ -1049,8 +1049,9 @@
         },
         {
             "title": "Ariadne",
-            "editora": "Penguin",
-            "year": 2023,
+            "editora": "Minotauro",
+            "month": 9,
+            "year": 2022,
             "cover": "https://kbimages1-a.akamaihd.net/38628790-2e3a-40cd-9c4c-887f15cfcd27/1200/1200/False/ariadne-31.jpg"
         },
         {
@@ -1177,6 +1178,12 @@
             "year": 2022,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456172676i/28954189.jpg",
             "bought": true
+        },
+        {
+            "title": "Things we Hide from Light",
+            "editora": "Marcador",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665095834i/60864116.jpg"
         }
         
     ]
