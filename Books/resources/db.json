@@ -1148,8 +1148,7 @@
         {
             "title": "Amor à Segunda Vista",
             "editora": "Porto Editora",
-            "month": 11,
-            "year": 2022,
+            "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561400542i/45891343.jpg"
         },
         {
@@ -1238,6 +1237,12 @@
             "editora": "Penguin",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426128162i/21570066.jpg"
+        },
+        {
+            "title": "Set on You",
+            "editora": "Cultura",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632497547i/58784485.jpg"
         }
         
     ]
