@@ -86,7 +86,8 @@
             "day": 6,
             "month": 4,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_6bd1e1fb-10bf-4c24-afdb-9f5e81a2ce65_1024x1024.jpg?v=1649244843"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_6bd1e1fb-10bf-4c24-afdb-9f5e81a2ce65_1024x1024.jpg?v=1649244843",
+            "bought": true
         },
         {
             "title": "A variavel do amor",
@@ -154,7 +155,8 @@
             "day": 20,
             "month": 7,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/a-court-of-mist-and-fury-sarah-j-maas/MXwyNDA2NjczOXwyMDEyNDM1MnwxNTkwNTM0MDAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/a-court-of-mist-and-fury-sarah-j-maas/MXwyNDA2NjczOXwyMDEyNDM1MnwxNTkwNTM0MDAwMDAw/500x",
+            "bought": true
         },
         {
             "title": "A primeira vez para sempre",
@@ -448,7 +450,8 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://m.media-amazon.com/images/I/51MW2DUs-3L.jpg"
+            "cover": "https://m.media-amazon.com/images/I/51MW2DUs-3L.jpg",
+            "bought": true
         },
         {
             "title": "The Cemetery Boys",
@@ -620,7 +623,8 @@
             "day": 15,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/liga-as-tias-jesse-q-sutanto/MXwyNzI5NjYxOHwyMzYzODExOXwxNjYwMTE3MDYzMDAw/500x"
+            "cover": "https://img.wook.pt/images/liga-as-tias-jesse-q-sutanto/MXwyNzI5NjYxOHwyMzYzODExOXwxNjYwMTE3MDYzMDAw/500x",
+            "bought": true
         },
         {
             "title": "Chain of Gold",
@@ -693,7 +697,8 @@
             "day": 12,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/twisted-love-special-edition-ana-huang/MXwyNjAzMjY4MHwyMjMwNjc3OXwxNjQ0MTM0MzE5MDAw/500x"
+            "cover": "https://img.wook.pt/images/twisted-love-special-edition-ana-huang/MXwyNjAzMjY4MHwyMjMwNjc3OXwxNjQ0MTM0MzE5MDAw/500x",
+            "bought": true
         },
         {
             "title": "Twisted Games",
@@ -854,7 +859,8 @@
             "day": 29,
             "month": 8,
             "year": 2022,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/07/Carrie-Soto-Esta-de-Volta-SITE-1.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/07/Carrie-Soto-Esta-de-Volta-SITE-1.jpg",
+            "bought": true
         },
         {
             "title": "My Policeman",
@@ -975,7 +981,8 @@
             "day": 18,
             "month": 10,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615237524i/56200366.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615237524i/56200366.jpg",
+            "bought": true
         },
         {
             "title": "The First To Die At The End",
