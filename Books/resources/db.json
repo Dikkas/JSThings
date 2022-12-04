@@ -26,21 +26,6 @@
             "cover": "https://m.media-amazon.com/images/I/51pbO2Ohi-L.jpg"
         },
         {
-            "title": "Cinder's Adventure",
-            "editora": "",
-            "day": 15,
-            "month": 3,
-            "year": 2022,
-            "cover": "https://m.media-amazon.com/images/I/41gQT0fenIL.jpg"
-        },
-        {
-            "title": "The Iron King",
-            "editora": "Marcador",
-            "month": 6,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/o-rei-de-ferro-maurice-druon/MXwyNzA1NzIxM3wyMzM2MTQ2NHwxNjUzMzg2MzU5MDAwfHdlYnA=/502x"
-        },
-        {
             "title": "Através de mi Ventana",
             "editora": "Editorial Presença",
             "day": 15,
@@ -241,14 +226,6 @@
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01950216_Sangue_Cinzas_1024x1024.jpg?v=1660829421",
             "bought": true
-        },
-        {
-            "title": "O Circo das Maravilhas",
-            "editora": "",
-            "day": 7,
-            "month": 3,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/o-circo-das-maravilhas-elizabeth-macneal/MXwyNjY3NzE3M3wyMjk1Njc0M3wxNjQ1NTc0NDAwMDAw/500x"
         },
         {
             "title": "Neon Gods",
@@ -475,24 +452,8 @@
             "title": "O Ausente",
             "editora": "Topseller",
             "month": 11,
-            "year": 2023,
+            "year": 2022,
             "cover": "https://img.wook.pt/images/o-ausente-beth-oleary/MXwyNzgzNDQ5OXwyNDIxNTk4MHwxNjY2ODc5MTAzMDAwfHdlYnA=/550x"
-        },
-        {
-            "title": "The Wedding Crasher",
-            "editora": "",
-            "day": 5,
-            "month": 4,
-            "year": 2022,
-            "cover": "https://kbimages1-a.akamaihd.net/7be12cdc-430d-4b72-ab4b-ce817606d6f7/1200/1200/False/the-wedding-crasher-4.jpg"
-        },
-        {
-            "title": "Fool me Once",
-            "editora": "",
-            "day": 5,
-            "month": 4,
-            "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/819Smur7INL.jpg"
         },
         {
             "title": "Something Wilder",
@@ -531,14 +492,6 @@
             "editora": "Desrotina",
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/fdaa30f8-4a54-4c3c-ad4a-1a814ce788d7/353/569/90/False/take-a-hint-dani-brown-1.jpg"
-        },
-        {
-            "title": "Eu já devia saber",
-            "editora": "Manuscrito",
-            "day": 4,
-            "month": 5,
-            "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01970020_Eu_Ja_Devia_Saber_1024x1024.jpg?v=1649803720"
         },
         {
             "title": "Culpa Minha",
@@ -1096,14 +1049,6 @@
             "month": 11,
             "year": 2022,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605109916l/55773354._SY475_.jpg"
-        },
-        {
-            "title": "Escrito nas estrelas",
-            "editora": "Clube do Autor",
-            "day": 2,
-            "month": 11,
-            "year": 2022,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591711593l/51179990.jpg"
         },
         {
             "title": "Last Night At Telegraph Club",
