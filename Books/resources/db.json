@@ -1015,7 +1015,7 @@
         },
         {
             "title": "Amor na Porta da Frente",
-            "editora": "Editorial Velha Lenda",
+            "editora": "Edições Velha Lenda",
             "day": 1,
             "month": 12,
             "year": 2022,
@@ -1200,6 +1200,27 @@
             "editora": "Editorial Presença",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493879357i/35060774.jpg"
+        },
+        {
+            "title": "Até onde as ondas nos levarem",
+            "editora": "Edições Velha Lenda",
+            "month": 5,
+            "year": 2022,
+            "cover": "https://img.wook.pt/images/ate-onde-as-ondas-nos-levarem-andreia-ramos/MXwyNjk5MzExOHwyMzI5MDgyMHwxNjUxNjU4OTEzMDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Como se fôssemos vilões",
+            "editora": "ASA",
+            "month": 6,
+            "year": 2022,
+            "cover": "https://img.wook.pt/images/como-se-fossemos-viloes-m-l-rio/MXwyNzA2MTQ0MHwyMzM2Nzg5OHwxNjUzNjQzNTY0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Sonhar - Again 4",
+            "editora": "Editorial Presença",
+            "month": 2,
+            "year": 2022,
+            "cover": "https://img.wook.pt/images/sonhar-mona-kasten/MXwyNTgzODIzM3wyMjEwMTkyMHwxNjQxODk4ODk0MDAwfHdlYnA=/550x"
         }
         
     ]
