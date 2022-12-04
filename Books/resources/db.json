@@ -150,12 +150,12 @@
             "bought": true
         },
         {
-            "title": "A court of mist and fury",
+            "title": "Corte de Nevoa e Furia"
             "editora": "",
             "day": 20,
             "month": 7,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/a-court-of-mist-and-fury-sarah-j-maas/MXwyNDA2NjczOXwyMDEyNDM1MnwxNTkwNTM0MDAwMDAw/500x",
+            "cover": "https://img.wook.pt/images/corte-de-nevoa-e-furia-sarah-j-maas/MXwyNzE4MTkyMHwyMzUwNjY0OHwxNjU2NTAwNzQ3MDAwfHdlYnA=/550x",
             "bought": true
         },
         {
@@ -203,7 +203,7 @@
             "day": 3,
             "month": 8,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/finale-stephanie-garber/MXwyMzc5MjM0MnwxOTgwNDk3NnwxNTc4ODczNjAwMDAw/500x",
+            "cover": "https://img.wook.pt/images/finale-stephanie-garber/MXwyNzIxNzI3OXwyMzU0NjQ4MXwxNjU3NjIxODMwMDAwfHdlYnA=/550x",
             "bought": true
         },
         {
@@ -450,7 +450,7 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://m.media-amazon.com/images/I/51MW2DUs-3L.jpg",
+            "cover": "https://img.wook.pt/images/casa-de-terra-e-sangue-cidade-da-lua-crescente-1-sarah-j-maas/MXwyNzc2MjU5NHwyNDEzNzY3NnwxNjY1NzQyMzIyMDAwfHdlYnA=/550x",
             "bought": true
         },
         {
@@ -472,10 +472,11 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg"
         },
         {
-            "title": "The No-Show",
+            "title": "O Ausente",
             "editora": "Topseller",
+            "month": 11,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637603058l/58678549.jpg"
+            "cover": "https://img.wook.pt/images/o-ausente-beth-oleary/MXwyNzgzNDQ5OXwyNDIxNTk4MHwxNjY2ODc5MTAzMDAwfHdlYnA=/550x"
         },
         {
             "title": "The Wedding Crasher",
@@ -697,7 +698,7 @@
             "day": 12,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/twisted-love-special-edition-ana-huang/MXwyNjAzMjY4MHwyMjMwNjc3OXwxNjQ0MTM0MzE5MDAw/500x",
+            "cover": "https://img.wook.pt/images/twisted-love-ana-huang/MXwyNzM3MDQ5NXwyMzcyNzA1OHwxNjYxOTY3OTczMDAwfHdlYnA=/550x",
             "bought": true
         },
         {
@@ -834,7 +835,7 @@
             "day": 18,
             "month": 8,
             "year": 2022,
-            "cover": "https://kbimages1-a.akamaihd.net/8d5ae1d9-28c9-4518-a6e8-f4dac7b6c3d9/1200/1200/False/love-on-the-brain-2.jpg",
+            "cover": "https://img.wook.pt/images/a-ciencia-do-amor-ali-hazelwood/MXwyNzIzNTcwN3wyMzU2OTMwMHwxNjU4NDk1MjU1MDAwfHdlYnA=/550x",
             "bought": true
         },
         {
@@ -848,9 +849,7 @@
         {
             "title": "The Dead Romantics",
             "editora": "Porto Editora",
-            "day": 18,
-            "month": 8,
-            "year": 2022,
+            "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/55e09273-17a5-42de-9b86-e96cbadb7b36/1200/1200/False/the-dead-romantics.jpg"
         },
         {
@@ -981,7 +980,7 @@
             "day": 18,
             "month": 10,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615237524i/56200366.jpg",
+            "cover": "https://img.wook.pt/images/vais-ser-a-minha-morte-karen-m-mcmanus/MXwyNzQ3MDMzMHwyMzg0MjI1NXwxNjY0NDQ4Mjg4MDAwfHdlYnA=/550x",
             "bought": true
         },
         {
