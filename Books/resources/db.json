@@ -251,7 +251,8 @@
         },
         {
             "title": "Once upon a Broken heart",
-            "editora": "",
+            "editora": "Editorial Presença",
+            "month": 3,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/a3a67564-4267-4722-b4f6-0ec3c167e44f/1200/1200/False/once-upon-a-broken-heart-4.jpg"
         },
@@ -359,7 +360,7 @@
         {
             "title": "Frankie & Bug",
             "editora": "Editorial Presença",
-            "month": 2,
+            "month": 6,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632933446l/56651467.jpg"
         },
@@ -374,6 +375,7 @@
         {
             "title": "The Hawthorne Legacy",
             "editora": "Editorial Presença",
+            "month": 3,
             "year": 2023,
             "cover": "https://www.lbyr.com/wp-content/uploads/2022/01/9780759557642-1.jpg?fit=1733%2C2600"
         },
@@ -439,12 +441,14 @@
         {
             "title": "Otra vez Tu",
             "editora": "Editorial Presença",
+            "month": 9,
             "year": 2023,
             "cover": "https://www.planetadelibros.com.mx/usuaris/libros/fotos/335/m_libros/portada_otra-vez-tu_alice-kellen_202105261653.jpg"
         },
         {
             "title": "Tal Vez tu",
             "editora": "Editorial Presença",
+            "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg"
         },
@@ -511,7 +515,7 @@
         {
             "title": "Culpa Nuestra",
             "editora": "Editorial Presença",
-            "month": 9,
+            "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg"
         },
@@ -591,6 +595,7 @@
         {
             "title": "From Lukov With Love",
             "editora": "Editorial Presença",
+            "month": 3,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51wdvZS2eYL.jpg"
         },
@@ -883,6 +888,7 @@
         {
             "title": "Trusting Blake",
             "editora": "Editorial Presença",
+            "month": 1,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/6b2fbe53-89af-41d8-9e3b-0aa399107513/1200/1200/False/trusting-blake-2.jpg"
         },
@@ -902,7 +908,8 @@
         },
         {
             "title": "Lightlark",
-            "editora": "Zero A Oito Editora",
+            "editora": "Editoral Presença",
+            "month": 9,
             "year": 2023,
             "cover": "https://img.wook.pt/images/lightlark-alex-aster/MXwyNjc4NDIxNHwyMzA3MDUxM3wxNjU1MTIzMjYyMDAw/500x"
         },
@@ -999,6 +1006,7 @@
         {
             "title": "I Kissed Shara Wheeler",
             "editora": "Editorial Presença",
+            "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644433190i/58756420.jpg"
         },
@@ -1201,6 +1209,7 @@
         {
             "title": "Save Me",
             "editora": "Editorial Presença",
+            "month": 3,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493879357i/35060774.jpg"
         },
@@ -1224,6 +1233,20 @@
             "month": 2,
             "year": 2022,
             "cover": "https://img.wook.pt/images/sonhar-mona-kasten/MXwyNTgzODIzM3wyMjEwMTkyMHwxNjQxODk4ODk0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Kill Joy",
+            "editora": "Editorial Presença",
+            "month": 9,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/kill-joy-holly-jackson/MXwyNjg1OTIyNnwyMzE1MTM1MnwxNjYwOTQ1NTgyMDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "The Girl who fell beneath the sea",
+            "editora": "Editorial Presença",
+            "month": 3,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/the-girl-who-fell-beneath-the-sea-axie-oh/MXwyNjE0NzQ0MHwyMjQyMTcwMXwxNjY3OTAyMjk0MDAwfHdlYnA=/550x"
         }
         
     ]
