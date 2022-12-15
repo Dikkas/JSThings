@@ -886,12 +886,12 @@
             "cover": "https://img.wook.pt/images/the-grisha-ruin-and-rising-leigh-bardugo/MXwyMTMxMzU2NnwxNzIwMDEwNHwxNjE5NTE1NjMwMDAw/500x"
         },
         {
-            "title": "Trusting Blake",
+            "title": "E quando te perdi",
             "editora": "Editorial Presença",
             "day": 5,
             "month": 1,
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/6b2fbe53-89af-41d8-9e3b-0aa399107513/1200/1200/False/trusting-blake-2.jpg"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740047_E_Quando_Te_Perdi_1024x1024.jpg?v=1671099877"
         },
         {
             "title": "The Winners",
@@ -1249,6 +1249,14 @@
             "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/the-girl-who-fell-beneath-the-sea-axie-oh/MXwyNjE0NzQ0MHwyMjQyMTcwMXwxNjY3OTAyMjk0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Kingdom of the Wicked",
+            "editora": "Bertrand",
+            "day": 12,
+            "month": 1,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578938260l/52735921.jpg"
         }
         
     ]
