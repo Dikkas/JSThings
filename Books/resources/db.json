@@ -989,6 +989,7 @@
         {
             "title": "Elektra",
             "editora": "Minotauro",
+            "month": 3,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650240624i/58725016.jpg"
         },
@@ -1257,6 +1258,13 @@
             "month": 1,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578938260l/52735921.jpg"
+        },
+        {
+            "title": "Vicious",
+            "editora": "Minotauro",
+            "month": 4,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670752670i/40874032.jpg"
         }
         
     ]
