@@ -1117,6 +1117,7 @@
         {
             "title": "Sky Breaker",
             "editora": "TopSeller",
+            "day": 11,
             "month": 1,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602830995i/54860493.jpg"
@@ -1271,6 +1272,14 @@
             "editora": "Topseller",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589827409i/53439886.jpg"
+        },
+        {
+            "title": "O Pacto",
+            "editora": "TopSeleer",
+            "day": 11,
+            "month": 1,
+            "year": 2023,
+            "cover": "https://img.bertrand.pt/images/o-pacto-elle-kennedy/NDV8MjgwMDQ3OTh8MjQ0MTE1NDd8MTY3MTYyMzIwMjAwMHx3ZWJw/300x"
         }
         
     ]
