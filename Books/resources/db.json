@@ -508,6 +508,7 @@
         {
             "title": "Culpa tuya",
             "editora": "Editorial Presença",
+            "day": 18,
             "month": 1,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81NiME+6FGL.jpg"
@@ -853,6 +854,8 @@
         {
             "title": "A thousand heartbeats",
             "editora": "Marcador",
+            "day": 18,
+            "month": 1,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/41gAzC3LxSL.jpg"
         },
@@ -1280,6 +1283,48 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.bertrand.pt/images/o-pacto-elle-kennedy/NDV8MjgwMDQ3OTh8MjQ0MTE1NDd8MTY3MTYyMzIwMjAwMHx3ZWJw/300x"
+        },
+        {
+            "title": "O Erro",
+            "editora": "TopSeleer",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/the-mistake-elle-kennedy/MXwyNjI1MTU2N3wyMjUyNTg3MnwxNjQ0NDE4MjI3MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "The Score",
+            "editora": "TopSeleer",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/the-score-elle-kennedy/MXwyNjI1MTU2OXwyMjUyNTg3NHwxNjQ0NDE4MjI3MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Love and Other Worlds",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://m.media-amazon.com/images/I/51XunovVD5L._AC_SY780_.jpg"
+        },
+        {
+            "title": "Finlay Donovan Knock 'em dead",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621591318l/57693474.jpg"
+        },
+        {
+            "title": "Good Girl Complex",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635841180l/57693481.jpg"
+        },
+        {
+            "title": "Fire with Fire",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362356800l/10662420.jpg"
+        },
+        {
+            "title": "Nora Goes off script",
+            "editora": "Topseller",
+            "year": 2023,
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647259860l/58988426.jpg"
         }
         
     ]
