@@ -605,6 +605,7 @@
         {
             "title": "Reminders of Him",
             "editora": "Topseller",
+            "month": 2,
             "year": 2023,
             "cover": "https://cdn.shopify.com/s/files/1/0496/1062/1082/products/Fiction-Book-Rental-Reminders-Of-Him.jpg?v=1642550119"
         },
@@ -1336,6 +1337,12 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-casa-do-outro-lado-do-lago-riley-sager/MXwyODAyMDc5NnwyNDQyNjEzOHwxNjcyMzA0ODI3MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Apartamento em Paris",
+            "editora": "Planeta",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/the-paris-apartment-lucy-foley/MXwyNTgyOTY4MHwyMjA5Mjg4NHwxNjQ0NDg1NjA2MDAwfHdlYnA=/550x"
         }
         
     ]
