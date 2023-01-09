@@ -1341,8 +1341,18 @@
         {
             "title": "Apartamento em Paris",
             "editora": "Planeta",
+            "day": 24,
+            "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/the-paris-apartment-lucy-foley/MXwyNTgyOTY4MHwyMjA5Mjg4NHwxNjQ0NDg1NjA2MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "A Mandibula de Caim",
+            "editora": "Lua de Papel",
+            "day": 24,
+            "month": 1,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/a-mandibula-de-caim-torquemada/MXwyNzgzMTc4NnwyNDIwOTM2MnwxNjczMDA3ODIyMDAwfHdlYnA=/550x"
         }
         
     ]
