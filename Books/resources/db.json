@@ -888,6 +888,8 @@
         {
             "title": "Ruin and Rising",
             "editora": "Editorial Presença",
+            "day": 31,
+            "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/the-grisha-ruin-and-rising-leigh-bardugo/MXwyMTMxMzU2NnwxNzIwMDEwNHwxNjE5NTE1NjMwMDAw/500x"
         },
@@ -1353,6 +1355,34 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-mandibula-de-caim-torquemada/MXwyNzgzMTc4NnwyNDIwOTM2MnwxNjczMDA3ODIyMDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Circo da Noite",
+            "editora": "Casa das Letras",
+            "day": 31,
+            "month": 1,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387124618i/9361589.jpg"
+        },
+        {
+            "title": "Happy Place",
+            "editora": "Leya",
+            "month": 4,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg"
+        },
+        {
+            "title": "I'm glad my mom died",
+            "editora": "Leya",
+            "month": 3,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649286799i/59364173.jpg"
+        },
+        {
+            "title": "I'm glad my mom died",
+            "editora": "Leya",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg"
         }
         
     ]
