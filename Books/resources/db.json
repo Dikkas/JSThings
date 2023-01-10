@@ -480,7 +480,8 @@
             "day": 16,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/uma-pequena-vida-hanya-yanagihara/MXwyNzgzMTc5MnwyNDIwOTM3MnwxNjY2NzEzNzcxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/uma-pequena-vida-hanya-yanagihara/MXwyNzgzMTc5MnwyNDIwOTM3MnwxNjY2NzEzNzcxMDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "Toda a Gente Nesta Sala Um Dia Há de Morrer",
