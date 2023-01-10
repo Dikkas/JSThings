@@ -605,6 +605,7 @@
         {
             "title": "Reminders of Him",
             "editora": "Topseller",
+            "day": 6,
             "month": 2,
             "year": 2023,
             "cover": "https://cdn.shopify.com/s/files/1/0496/1062/1082/products/Fiction-Book-Rental-Reminders-Of-Him.jpg?v=1642550119"
@@ -1285,7 +1286,7 @@
         {
             "title": "O Pacto",
             "editora": "TopSeleer",
-            "day": 11,
+            "day": 10,
             "month": 1,
             "year": 2023,
             "cover": "https://img.bertrand.pt/images/o-pacto-elle-kennedy/NDV8MjgwMDQ3OTh8MjQ0MTE1NDd8MTY3MTYyMzIwMjAwMHx3ZWJw/300x"
@@ -1293,6 +1294,8 @@
         {
             "title": "O Erro",
             "editora": "TopSeleer",
+            "day": 23,
+            "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/the-mistake-elle-kennedy/MXwyNjI1MTU2N3wyMjUyNTg3MnwxNjQ0NDE4MjI3MDAwfHdlYnA=/550x"
         },
