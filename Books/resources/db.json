@@ -121,9 +121,10 @@
         {
             "title": "Queen of Shadows",
             "editora": "Editorial Presença",
-            "month": 3,
+            "day": 5,
+            "month": 1,
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/71df5d2b-a033-404e-914b-ff36e2328162/1200/1200/False/queen-of-shadows-3.jpg"
+            "cover": "https://img.wook.pt/images/rainha-das-sombras-sarah-j-maas/MXwyNzk3OTAwNnwyNDM4NjcwN3wxNjcxMDE2Njk2MDAwfHdlYnA=/550x"
         },
         {
             "title": "Cerco e Tempestade",
@@ -275,10 +276,12 @@
             "cover": "https://kbimages1-a.akamaihd.net/c1aa4e66-91be-4f5c-b6fe-e668107e0745/1200/1200/False/tower-of-dawn.jpg"
         },
         {
-            "title": "A Court of Wings and Ruin",
-            "editora": "",
+            "title": "Corte de Asas e Ruina",
+            "editora": "Marcador",
+            "day": 2,
+            "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-court-of-wings-and-ruin-sarah-j-maas/MXwyNDA2Njc0MXwyMDEyNDM1NHwxNTkwNTM0MDAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/corte-de-asas-e-ruina-sarah-j-maas/MXwyODA2NDQ3MXwyNDQ2NTk2N3wxNjczNDQ0OTQ3MDAwfHdlYnA=/550x"
         },
         {
             "title": "A Court of Frost and Starlight",
@@ -510,12 +513,12 @@
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_f5cf0146-663d-47c9-8efb-2810f4c8daf2_1024x1024.jpg?v=1649802616"
         },
         {
-            "title": "Culpa tuya",
+            "title": "Culpa tua",
             "editora": "Editorial Presença",
             "day": 18,
             "month": 1,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/81NiME+6FGL.jpg"
+            "cover": "https://img.wook.pt/images/culpa-tua-mercedes-ron/MXwyODAyMDAzNXwyNDQyNTQ3M3wxNjcyMTUzNTI3MDAwfHdlYnA=/550x"
         },
         {
             "title": "Culpa Nuestra",
@@ -858,12 +861,12 @@
             "cover": "https://www.leyaonline.com/fotos/produtos/500_9789892354361_nova_iorque_num_minuto.jpg"
         },
         {
-            "title": "A thousand heartbeats",
+            "title": "Mil batidas do coração",
             "editora": "Marcador",
             "day": 18,
             "month": 1,
             "year": 2023,
-            "cover": "https://m.media-amazon.com/images/I/41gAzC3LxSL.jpg"
+            "cover": "https://img.wook.pt/images/mil-batidas-do-coracao-kiera-cass/MXwyODAyMDAzOHwyNDQyNTQ3NnwxNjcyMTUzNTI4MDAwfHdlYnA=/550x"
         },
         {
             "title": "This time it's Real",
@@ -1126,12 +1129,12 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561400542i/45891343.jpg"
         },
         {
-            "title": "Sky Breaker",
+            "title": "Guerreira dos Céus",
             "editora": "TopSeller",
             "day": 11,
             "month": 1,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602830995i/54860493.jpg"
+            "cover": "https://img.wook.pt/images/guerreira-dos-ceus-addie-thorley/MXwyODAwNDc5NnwyNDQxMTU0NXwxNjcxNzI3OTk4MDAwfHdlYnA=/550x"
         },
         {
             "title": "Athenas Child",
@@ -1266,12 +1269,12 @@
             "cover": "https://img.wook.pt/images/the-girl-who-fell-beneath-the-sea-axie-oh/MXwyNjE0NzQ0MHwyMjQyMTcwMXwxNjY3OTAyMjk0MDAwfHdlYnA=/550x"
         },
         {
-            "title": "Kingdom of the Wicked",
+            "title": "O Reino dos Malditos",
             "editora": "Bertrand",
             "day": 12,
             "month": 1,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578938260l/52735921.jpg"
+            "cover": "https://img.wook.pt/images/o-reino-dos-malditos-kerri-maniscalco/MXwyNzc5ODEwMHwyNDE3NTA1MHwxNjcxMDk3ODk1MDAwfHdlYnA=/550x"
         },
         {
             "title": "Vicious",
@@ -1300,7 +1303,7 @@
             "day": 23,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/the-mistake-elle-kennedy/MXwyNjI1MTU2N3wyMjUyNTg3MnwxNjQ0NDE4MjI3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-erro-elle-kennedy/MXwyODA2NDI2MnwyNDQ2NTg2NnwxNjczNDMzNTgwMDAwfHdlYnA=/550x"
         },
         {
             "title": "The Score",
@@ -1347,12 +1350,12 @@
             "cover": "https://img.wook.pt/images/a-casa-do-outro-lado-do-lago-riley-sager/MXwyODAyMDc5NnwyNDQyNjEzOHwxNjcyMzA0ODI3MDAwfHdlYnA=/550x"
         },
         {
-            "title": "Apartamento em Paris",
+            "title": "O Apartamento em Paris",
             "editora": "Planeta",
             "day": 24,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/the-paris-apartment-lucy-foley/MXwyNTgyOTY4MHwyMjA5Mjg4NHwxNjQ0NDg1NjA2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-apartamento-em-paris-lucy-foley/MXwyODAzOTA0MHwyNDQ0MjE0NXwxNjcyODQ5MTk5MDAwfHdlYnA=/550x"
         },
         {
             "title": "A Mandibula de Caim",
