@@ -376,11 +376,12 @@
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614165901l/55926761.jpg"
         },
         {
-            "title": "The Hawthorne Legacy",
+            "title": "O Herdeiro Perdido",
             "editora": "Editorial Presença",
-            "month": 3,
+            "day": 2,
+            "month": 2,
             "year": 2023,
-            "cover": "https://www.lbyr.com/wp-content/uploads/2022/01/9780759557642-1.jpg?fit=1733%2C2600"
+            "cover": "https://img.wook.pt/images/o-herdeiro-perdido-jennifer-lynn-barnes/MXwyODA2NDQ2OXwyNDQ2NTk2NXwxNjczNDQ0OTQ2MDAwfHdlYnA=/550x"
         },
         {
             "title": "The Final Gambit",
@@ -1125,8 +1126,10 @@
         {
             "title": "Amor à Segunda Vista",
             "editora": "Porto Editora",
+            "day": 26,
+            "month": 2,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561400542i/45891343.jpg"
+            "cover": "https://img.wook.pt/images/amor-a-segunda-vista-alex-light/MXwyNzI2MDAzOHwyMzU5NjkxMnwxNjY2MTY4NTk0MDAwfHdlYnA=/550x"
         },
         {
             "title": "Guerreira dos Céus",
@@ -1392,6 +1395,12 @@
             "editora": "Leya",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg"
+        },
+        {
+            "title": "Icebreaker",
+            "editora": "",
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/icebreaker-hannah-grace/MXwyNzk0MTU4NnwyNDM0OTc1M3wxNjcyMjM0Njk0MDAwfHdlYnA=/550x"
         }
         
     ]
