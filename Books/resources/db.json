@@ -676,7 +676,8 @@
             "day": 11,
             "month": 1,
             "year": 2023,
-            "cover": "https://www.clubedoautor.pt/storage/images/2022-11-30-175814-capa-twisted-games-low.jpg"
+            "cover": "https://www.clubedoautor.pt/storage/images/2022-11-30-175814-capa-twisted-games-low.jpg",
+            "bought": true
         },
         {
             "title": "Twisted Hate",
@@ -1298,7 +1299,8 @@
             "day": 10,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.bertrand.pt/images/o-pacto-elle-kennedy/NDV8MjgwMDQ3OTh8MjQ0MTE1NDd8MTY3MTYyMzIwMjAwMHx3ZWJw/300x"
+            "cover": "https://img.bertrand.pt/images/o-pacto-elle-kennedy/NDV8MjgwMDQ3OTh8MjQ0MTE1NDd8MTY3MTYyMzIwMjAwMHx3ZWJw/300x",
+            "bought": true
         },
         {
             "title": "O Erro",
@@ -1306,7 +1308,8 @@
             "day": 23,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-erro-elle-kennedy/MXwyODA2NDI2MnwyNDQ2NTg2NnwxNjczNDMzNTgwMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-erro-elle-kennedy/MXwyODA2NDI2MnwyNDQ2NTg2NnwxNjczNDMzNTgwMDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "The Score",
@@ -1401,6 +1404,20 @@
             "editora": "",
             "year": 2023,
             "cover": "https://img.wook.pt/images/icebreaker-hannah-grace/MXwyNzk0MTU4NnwyNDM0OTc1M3wxNjcyMjM0Njk0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Rádio Silencio",
+            "editora": "Desrotina",
+            "month": 2,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/radio-silencio-alice-oseman/MXwyODA4MTE4OHwyNDQ3OTY5OXwxNjc0MjE0NDAzMDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Os Seis Grous",
+            "editora": "Desrotina",
+            "month": 2,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/os-seis-grous-elizabeth-lim/MXwyODA4MTE4OXwyNDQ3OTcwMHwxNjc0MjE0NDA0MDAwfHdlYnA=/550x"
         }
         
     ]
