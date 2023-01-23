@@ -1389,6 +1389,7 @@
         {
             "title": "I'm glad my mom died",
             "editora": "Leya",
+            "day": 14,
             "month": 3,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649286799i/59364173.jpg"
@@ -1418,6 +1419,14 @@
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/os-seis-grous-elizabeth-lim/MXwyODA4MTE4OXwyNDQ3OTcwMHwxNjc0MjE0NDA0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Os Nossos Fins Violentos",
+            "editora": "Desrotina",
+            "day": 14,
+            "month": 2,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612451534i/44084762.jpg"
         }
         
     ]
