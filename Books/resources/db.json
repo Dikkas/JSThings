@@ -253,7 +253,8 @@
         {
             "title": "Once upon a Broken heart",
             "editora": "Editorial Presença",
-            "month": 3,
+            "day": 15
+            "month": 2,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/a3a67564-4267-4722-b4f6-0ec3c167e44f/1200/1200/False/once-upon-a-broken-heart-4.jpg"
         },
@@ -772,6 +773,8 @@
         {
             "title": "Gild",
             "editora": "Saida de Emergencia",
+            "day": 2,
+            "month": 3,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618502656l/56212081.jpg"
         },
@@ -1000,6 +1003,8 @@
         {
             "title": "Things We Never Got Over",
             "editora": "Marcador",
+            "day": 15,
+            "month": 2,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641629293i/60060431.jpg"
         },
@@ -1443,6 +1448,18 @@
             "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516019348i/36373463.jpg"
+        },
+        {
+            "title": "Kisses and Croissants",
+            "editora": "Zero a Oito",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594315639i/51238609.jpg"
+        },
+        {
+            "title": "The Princess and the Grilled Cheese Sandwich",
+            "editora": "Porto Editora",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663706930i/60656848.jpg"
         }
         
     ]
