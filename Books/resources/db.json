@@ -824,9 +824,10 @@
         {
             "title": "The Dead Romantics",
             "editora": "Porto Editora",
-            "month": 3,
+            "day": 9,
+            "month": 2,
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/55e09273-17a5-42de-9b86-e96cbadb7b36/1200/1200/False/the-dead-romantics.jpg"
+            "cover": "https://img.wook.pt/images/o-amor-nao-morreu-ashley-poston/MXwyNzk4MjI0OHwyNDM4OTU2MnwxNjc0NzQwMzkxMDAwfHdlYnA=/550x"
         },
         {
             "title": "Carrie Soto Está de Volta",
@@ -1351,6 +1352,8 @@
         {
             "title": "Nora Goes off script",
             "editora": "Topseller",
+            "day":  20,
+            "month": 2,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647259860l/58988426.jpg"
         },
