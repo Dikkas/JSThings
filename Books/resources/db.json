@@ -1299,7 +1299,9 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670752670i/40874032.jpg"
         },
         {
-            "title": "How the King of Elfhame Learned to Hate Stories",
+            "title": "Como o Rei de Elfhame aprendeu a odiar histórias",
+            "day": 20,
+            "month": 2,
             "editora": "Topseller",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589827409i/53439886.jpg"
@@ -1492,6 +1494,13 @@
             "editora": "Clube do Autor",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633986670i/59227936.jpg"
+        },
+        {
+            "title": "Lore Olympus",
+            "editora": "Penguin Livros",
+            "month": 3,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614887007i/57282218.jpg"
         }
     ]
 }
