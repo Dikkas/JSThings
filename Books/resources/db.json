@@ -801,6 +801,7 @@
         {
             "title": "O Olhar da Medusa",
             "editora": "Topseller",
+            "day": 6,
             "month": 3,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51grHv0vAZL.jpg"
@@ -971,6 +972,7 @@
         {
             "title": "The First To Die At The End",
             "editora": "TopSeller",
+            "month": 5,
             "year": 2023,
             "cover": "https://images.squarespace-cdn.com/content/v1/52bd29c9e4b013dbd6fc9a1c/4c8869fc-497b-42be-977d-adfa74bfc915/TheFirsttoDieattheEnd+hc+c.jpg?format=500w"
         },
@@ -1042,6 +1044,7 @@
         {
             "title": "Book of Night",
             "editora": "Penguin",
+            "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639163872i/58293924.jpg"
         },
@@ -1327,18 +1330,23 @@
         {
             "title": "The Score",
             "editora": "TopSeleer",
+            "day": 6,
+            "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/the-score-elle-kennedy/MXwyNjI1MTU2OXwyMjUyNTg3NHwxNjQ0NDE4MjI3MDAwfHdlYnA=/550x"
         },
         {
-            "title": "Love and Other Worlds",
+            "title": "Love and Other Words",
             "editora": "Topseller",
+            "day": 20,
+            "month": 3,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51XunovVD5L._AC_SY780_.jpg"
         },
         {
             "title": "Finlay Donovan Knock 'em dead",
             "editora": "Topseller",
+            "month": 5,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621591318l/57693474.jpg"
         },
@@ -1501,6 +1509,33 @@
             "month": 3,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614887007i/57282218.jpg"
+        },
+        {
+            "title": "Meet me at the lake",
+            "editora": "Penguin Livros",
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664246880i/61797464.jpg"
+        },
+        {
+            "title": "Tokyo Ever After",
+            "editora": "Penguin Livros",
+            "month": 5,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601695675i/54860605.jpg"
+        },
+        {
+            "title": "Mika in Real Life",
+            "editora": "Penguin Livros",
+            "month": 6,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659449108i/59430548.jpg"
+        },
+        {
+            "title": "Aquorea Expira: Mundos Secretos",
+            "editora": "Penguin Livros",
+            "year": 2023,
+            "cover": ""
         }
     ]
 }
