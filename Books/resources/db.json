@@ -779,7 +779,8 @@
             "day": 2,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/gild-raven-kennedy/MXwyODEyOTk5MXwyNDUyNDU2NHwxNjc1MDkwOTE2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/gild-raven-kennedy/MXwyODEyOTk5MXwyNDUyNDU2NHwxNjc1MDkwOTE2MDAwfHdlYnA=/550x",
+            "bough": true
         },
         {
             "title": "Glint",
@@ -1399,7 +1400,8 @@
             "day": 24,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-mandibula-de-caim-torquemada/MXwyNzgzMTc4NnwyNDIwOTM2MnwxNjczMDA3ODIyMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-mandibula-de-caim-torquemada/MXwyNzgzMTc4NnwyNDIwOTM2MnwxNjczMDA3ODIyMDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "Circo da Noite",
