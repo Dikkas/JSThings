@@ -785,12 +785,14 @@
         {
             "title": "Glint",
             "editora": "Saida de Emergencia",
+            "month": 7,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51l1oSrh+XL.jpg"
         },
         {
             "title": "Gleam",
             "editora": "Saida de Emergencia",
+            "month": 8,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621972301l/58159314._SY475_.jpg"
         },
@@ -1219,12 +1221,14 @@
         {
             "title": "Flock",
             "editora": "Saida de Emergencia",
+            "month": 4,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594825119i/40748777.jpg"
         },
         {
             "title": "Exodus",
             "editora": "Saida de Emergencia",
+            "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595423359i/53312623.jpg"
         },
@@ -1498,12 +1502,14 @@
         {
             "title": "Delilah Green Doesn't Care",
             "editora": "Saida de Emergencia",
+            "month": 5,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643753957i/54756850.jpg"
         },
         {
             "title": "Astrid Parker Doesn't Fail",
             "editora": "Saida de Emergencia",
+            "month": 8,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg"
         },
@@ -1546,6 +1552,13 @@
             "editora": "Penguin Livros",
             "year": 2023,
             "cover": ""
+        },
+        {
+            "title": "Heavenly Tyrant",
+            "editora": "Saida de Emergencia",
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666660910i/52934483.jpg"
         }
     ]
 }
