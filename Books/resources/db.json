@@ -1,14 +1,6 @@
 {
     "data": [
         {
-            "title": "O anti-namorado",
-            "editora": "Topseller",
-            "day": 21,
-            "month": 3,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/o-anti-namorado-penelope-ward/MXwyNjczMjAwNHwyMzAxMzkwNnwxNjQ2Nzg0MDAwMDAw/502x"
-        },
-        {
             "title": "Os Jogos da Herança",
             "editora": "Editorial Presença",
             "day": 2,
@@ -56,14 +48,6 @@
             "month": 9,
             "year": 2022,
             "cover": "https://img.wook.pt/images/gallant-v-e-schwab/MXwyNzM2ODI0MHwyMzcyMzQ0NnwxNjYxODUyMTUxMDAwfHdlYnA=/550x"
-        },
-        {
-            "title": "Tempo de reacender estrelas",
-            "editora": "Editorial Presença",
-            "day": 20,
-            "month": 4,
-            "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/81gsiyHVKOL.jpg"
         },
         {
             "title": "O Gato que salvava Livros",
@@ -143,20 +127,6 @@
             "year": 2022,
             "cover": "https://img.wook.pt/images/corte-de-nevoa-e-furia-sarah-j-maas/MXwyNzE4MTkyMHwyMzUwNjY0OHwxNjU2NTAwNzQ3MDAwfHdlYnA=/550x",
             "bought": true
-        },
-        {
-            "title": "A primeira vez para sempre",
-            "editora": "",
-            "month": 2,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/a-primeira-vez-para-sempre-sarah-morgan/MXwyNTg3NzYyMHwyMjE0ODk2NXwxNjQzMDY4ODAwMDAw/500x"
-        },
-        {
-            "title": "A Fórmula feminina para o amor",
-            "editora": "",
-            "month": 2,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/a-formula-feminina-para-o-amor-elizabeth-everett/MXwyNTgzNzY0OXwyMjEwMTE1NXwxNjQxNzcyODAwMDAw/500x"
         },
         {
             "title": "Nós dois na lua",
@@ -398,14 +368,6 @@
             "editora": "Cada das Letras",
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/37a92fa3-5b11-40e3-b595-5fc94b3642da/1200/1200/False/go-tell-the-bees-that-i-am-gone-1.jpg"
-        },
-        {
-            "title": "Manual de Caos e Desordem para Jovens Senhoras",
-            "editora": "Leya",
-            "day": 26,
-            "month": 4,
-            "year": 2022,
-            "cover": "https://leyaonline.com/fotos/produtos/350_9789896613822_manual_de_caos_e_desordem_para_jovens_senhoras.jpg"
         },
         {
             "title": "A casa no mar cerúleo",
@@ -686,6 +648,8 @@
         {
             "title": "Twisted Hate",
             "editora": "Clube do Autor",
+            "day": 22,
+            "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/twisted-hate-ana-huang/MXwyNjc1MzA5OHwyMzAzNzQxNHwxNjQ3ODIwMTQ5MDAw/502x%20500w"
         },
@@ -847,14 +811,6 @@
             "bought": true
         },
         {
-            "title": "O Meu Polícia",
-            "editora": "Cultura Editora",
-            "day": 27,
-            "month": 10,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/o-meu-policia-bethan-roberts/MXwyNzYxOTY2MXwyMzk5Mjg2NHwxNjY0NzkwODA5MDAwfHdlYnA=/550x"
-        },
-        {
             "title": "ola adeus e tudo o resto",
             "editora": "Cultura Editora",
             "month": 9,
@@ -866,14 +822,6 @@
             "editora": "Cultura Editora",
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-probabilidade-estatistica-do-amor-a-primeira-vista-jennifer-e-smith/MXwxNDEyMjc3M3w5Njg3MTU1fDE0Mjk3OTU3NDUwMDA=/500x"
-        },
-        {
-            "title": "Nova Iorque num minuto",
-            "editora": "Leya",
-            "day": 13,
-            "month": 7,
-            "year": 2022,
-            "cover": "https://www.leyaonline.com/fotos/produtos/500_9789892354361_nova_iorque_num_minuto.jpg"
         },
         {
             "title": "Mil batidas do coração",
@@ -1079,9 +1027,11 @@
         },
         {
             "title": "Spells for Lost Things",
-            "editora": "Zero a Oito Editora",
+            "editora": "Zero a Oito Editora",            
+            "day": 22,
+            "month": 2,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662912543l/60320509.jpg"
+            "cover": "https://img.wook.pt/images/feiticos-para-coisas-perdidas-jenna-evans-welch/MXwyODEzMzE5NnwyNDUyODI2NnwxNjc1MjQ5MTA3MDAwfHdlYnA=/550x"
         },
         {
             "title": "filhas de Esparta",
@@ -1098,14 +1048,6 @@
             "month": 11,
             "year": 2022,
             "cover": "https://img.wook.pt/images/o-ultimo-jantar-b-p-walter/MXwyNzc2MjU4OHwyNDEzNzY3MHwxNjY1NTg5Mzc0MDAwfHdlYnA=/550x"
-        },
-        {
-            "title": "ontem a noite no telegraph club",
-            "editora": "Desrotina",
-            "day": 17,
-            "month": 11,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/ontem-a-noite-no-telegraph-club-malinda-lo/MXwyNzgzMDEyMHwyNDIwNzQyOHwxNjY2NjI0MDUyMDAwfHdlYnA=/550x"
         },
         {
             "title": "os nossos corações perdidos",
@@ -1559,6 +1501,13 @@
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666660910i/52934483.jpg"
+        },
+        {
+            "title": "Love Theoretically",
+            "editora": "Desrotina",
+            "month": 3,
+            "year": 2023,
+            "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg"
         }
     ]
 }
