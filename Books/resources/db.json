@@ -1026,7 +1026,7 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg"
         },
         {
-            "title": "Spells for Lost Things",
+            "title": "Feitiços para coisas perdidas",
             "editora": "Zero a Oito Editora",            
             "day": 22,
             "month": 2,
@@ -1508,6 +1508,13 @@
             "month": 3,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg"
+        },
+        {
+            "title": "Finlay Donovan Vai Arrasar",
+            "editora": "Desrotina",
+            "month": 9,
+            "year": 2022,
+            "cover": "https://img.wook.pt/images/finlay-donovan-vai-arrasar-elle-cosimano/MXwyNzQxMjg3NXwyMzc3NjI3OHwxNjYzMTYxMDU4MDAwfHdlYnA=/550x"
         }
     ]
 }
