@@ -570,6 +570,7 @@
         {
             "title": "From Lukov With Love",
             "editora": "Editorial Presença",
+            "day": 15,
             "month": 3,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51wdvZS2eYL.jpg"
@@ -1515,6 +1516,14 @@
             "month": 9,
             "year": 2022,
             "cover": "https://img.wook.pt/images/finlay-donovan-vai-arrasar-elle-cosimano/MXwyNzQxMjg3NXwyMzc3NjI3OHwxNjYzMTYxMDU4MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "O Segredo da Medusa",
+            "editora": "Topseller",
+            "day": 15,
+            "month": 3,
+            "year": 2023,
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040813_Segredo_Medusa_1024x1024.jpg?v=1677057223"
         }
     ]
 }
