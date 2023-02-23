@@ -735,7 +735,7 @@
         {
             "title": "Ignite me",
             "editora": "Topseller",
-            "year": 2023,
+            "year": 2024,
             "cover": "https://kbimages1-a.akamaihd.net/9d958576-452d-4dad-a5d4-78abcf5a7971/1200/1200/False/ignite-me-1.jpg"
         },
         {
@@ -1524,6 +1524,32 @@
             "month": 3,
             "year": 2023,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040813_Segredo_Medusa_1024x1024.jpg?v=1677057223"
+        },
+        {
+            "title": "Check & Mate",
+            "editora": "Editorial Presença",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676908301i/60683957.jpg"
+        },
+        {
+            "title": "The Goal",
+            "editora": "TopSeleer",
+            "month": 6,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475180973i/32315591.jpg"
+        },
+        {
+            "title": "The Legacy",
+            "editora": "TopSeleer",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631147889i/58953656.jpg"
+        },
+        {
+            "title": "The Stolen Heir",
+            "editora": "TopSeleer",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg"
         }
     ]
 }
