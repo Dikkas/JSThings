@@ -978,9 +978,10 @@
         {
             "title": "Coração do Guerreiro do Sol",
             "editora": "Porto Editora",
-            "month": 6,
+            "day": 9,
+            "month": 3,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659405649i/60461898.jpg"
+            "cover": "https://img.wook.pt/images/coracao-do-guerreiro-do-sol-sue-lynn-tan/MXwyNzQzMzMzOHwyMzgwMzczMHwxNjc3MDU3OTQzMDAwfHdlYnA=/550x"
         },
         {
             "title": "Quebra-Corações",
@@ -1550,6 +1551,19 @@
             "editora": "TopSeleer",
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg"
+        },
+        {
+            "title": "Kingdom of the Cursed",
+            "editora": "Bertrand",
+            "month": 6
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613554873i/52772417.jpg"
+        },
+        {
+            "title": "The Lesbian Guide to Catholic School",
+            "editora": "Penguin",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634305789i/58842731.jpg"
         }
     ]
 }
