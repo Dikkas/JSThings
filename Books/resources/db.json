@@ -1564,6 +1564,14 @@
             "editora": "Penguin",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634305789i/58842731.jpg"
+        },
+        {
+            "title": "Cordialmente Cruel",
+            "editora": "Desrotina",            
+            "day": 23,
+            "month": 3,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/truly-devious-maureen-johnson/MXwyMTQyMDQzNnwxNzI4Njg0NXwxNjc0NTA5MDk2MDAwfHdlYnA=/550x"
         }
     ]
 }
