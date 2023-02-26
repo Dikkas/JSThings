@@ -835,7 +835,7 @@
         {
             "title": "This time it's Real",
             "editora": "Planeta",
-            "month": 2,
+            "month": 3,
             "year": 2023,
             "cover": "https://images.squarespace-cdn.com/content/v1/600e9065cbc1b3601da39fb7/d57b746c-98e9-4955-b0aa-cbf68af8c333/ThisTimeIt%27sReal_Social+Media_Cover.jpg?format=1000w"
         },
@@ -1389,6 +1389,7 @@
         {
             "title": "Rádio Silencio",
             "editora": "Desrotina",
+            "day": 16,
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/radio-silencio-alice-oseman/MXwyODA4MTE4OHwyNDQ3OTY5OXwxNjc0MjE0NDAzMDAwfHdlYnA=/550x"
@@ -1396,6 +1397,7 @@
         {
             "title": "Os Seis Grous",
             "editora": "Desrotina",
+            "day": 16,
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/os-seis-grous-elizabeth-lim/MXwyODA4MTE4OXwyNDQ3OTcwMHwxNjc0MjE0NDA0MDAwfHdlYnA=/550x"
