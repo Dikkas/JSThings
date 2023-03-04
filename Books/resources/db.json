@@ -582,7 +582,8 @@
             "day": 6,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/tudo-me-lembra-de-ti-colleen-hoover/MXwyODA2NDMwNHwyNDQ2NTkyOHwxNjczNDMzNTg1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/tudo-me-lembra-de-ti-colleen-hoover/MXwyODA2NDMwNHwyNDQ2NTkyOHwxNjczNDMzNTg1MDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "Golden Boys",
@@ -746,7 +747,7 @@
             "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/gild-raven-kennedy/MXwyODEyOTk5MXwyNDUyNDU2NHwxNjc1MDkwOTE2MDAwfHdlYnA=/550x",
-            "bough": true
+            "bought": true
         },
         {
             "title": "Glint",
