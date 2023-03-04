@@ -10,7 +10,6 @@
             "bought": true
         },
         {
-            "title": "Aristóteles e Dante descobrem os segredos do universo",
             "editora": "Editorial Presença",
             "day": 18,
             "month": 5,
@@ -103,12 +102,13 @@
             "bought": true
         },
         {
-            "title": "Queen of Shadows",
+            "title": "Rainha das Sombras",
             "editora": "Editorial Presença",
             "day": 5,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/rainha-das-sombras-sarah-j-maas/MXwyNzk3OTAwNnwyNDM4NjcwN3wxNjcxMDE2Njk2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/rainha-das-sombras-sarah-j-maas/MXwyNzk3OTAwNnwyNDM4NjcwN3wxNjcxMDE2Njk2MDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "Cerco e Tempestade",
@@ -254,7 +254,8 @@
             "day": 2,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/corte-de-asas-e-ruina-sarah-j-maas/MXwyODA2NDQ3MXwyNDQ2NTk2N3wxNjczNDQ0OTQ3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/corte-de-asas-e-ruina-sarah-j-maas/MXwyODA2NDQ3MXwyNDQ2NTk2N3wxNjczNDQ0OTQ3MDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "A Court of Frost and Starlight",
@@ -1217,7 +1218,8 @@
             "editora": "ASA",
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/como-se-fossemos-viloes-m-l-rio/MXwyNzA2MTQ0MHwyMzM2Nzg5OHwxNjUzNjQzNTY0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/como-se-fossemos-viloes-m-l-rio/MXwyNzA2MTQ0MHwyMzM2Nzg5OHwxNjUzNjQzNTY0MDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "Sonhar - Again 4",
@@ -1262,7 +1264,8 @@
             "day":20,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/como-o-rei-de-elfhame-aprendeu-a-odiar-historias-holly-black/MXwyODE1NTQ5M3wyNDU0MzM3M3wxNjc1ODU2Mjc4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/como-o-rei-de-elfhame-aprendeu-a-odiar-historias-holly-black/MXwyODE1NTQ5M3wyNDU0MzM3M3wxNjc1ODU2Mjc4MDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "O Pacto",
