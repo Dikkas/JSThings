@@ -743,7 +743,7 @@
         {
             "title": "Gild",
             "editora": "Saida de Emergencia",
-            "day": 2,
+            "day": 3,
             "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/gild-raven-kennedy/MXwyODEyOTk5MXwyNDUyNDU2NHwxNjc1MDkwOTE2MDAwfHdlYnA=/550x",
@@ -970,11 +970,12 @@
             "cover": "https://img.wook.pt/images/coisas-que-nunca-superamos-lucy-score/MXwyODA5MzEzMnwyNDQ5MDI2NHwxNjc0NTY3Nzg3MDAwfHdlYnA=/550x"
         },
         {
-            "title": "Elektra",
+            "title": "Electra",
             "editora": "Minotauro",
+            "day": 2,
             "month": 3,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650240624i/58725016.jpg"
+            "cover": "https://img.wook.pt/images/electra-jennifer-saint/MXwyODM1MzU5MnwyNDcxNDY2M3wxNjc3NTc0NzQ1MDAwfHdlYnA=/550x"
         },
         {
             "title": "Coração do Guerreiro do Sol",
@@ -1576,7 +1577,7 @@
             "day": 23,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/truly-devious-maureen-johnson/MXwyMTQyMDQzNnwxNzI4Njg0NXwxNjc0NTA5MDk2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/cordialmente-cruel-maureen-johnson/MXwyODM2ODEzNnwyNDcyOTkyN3wxNjc3NzY5MTI2MDAwfHdlYnA=/550x"
         },
         {
             "title": "Better than the movies",
