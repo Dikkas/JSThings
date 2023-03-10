@@ -1597,6 +1597,20 @@
             "editora": "Editorial Presença",            
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/41p7u5HxgpL._SX331_BO1,204,203,200_.jpg"
+        },
+        {
+            "title": "A Guarda-Redes",
+            "editora": "Porto Editora",
+            "day": 23,
+            "month": 3,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/a-guarda-costas-katherine-center/MXwyODA2NjQ0OXwyNDQ2NzgxN3wxNjc4MDkzMjk5MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Scandalized",
+            "editora": "",            
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658939592i/59366296.jpg"
         }
     ]
 }
