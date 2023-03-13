@@ -1611,6 +1611,14 @@
             "editora": "",            
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658939592i/59366296.jpg"
+        },
+        {
+            "title": "Lugar Feliz",
+            "editora": "Leya",   
+            "day": 25,
+            "month": 4,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg"
         }
     ]
 }
