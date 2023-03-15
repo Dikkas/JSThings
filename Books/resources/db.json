@@ -1135,8 +1135,10 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665095834i/60864116.jpg"
         },
         {
-            "title": "The American Roomate Experiment",
-            "editora": "Marcador",
+            "title": "Experiencia de Amor em Nova Iorque",
+            "editora": "Marcador",            
+            "day": 5,
+            "month": 4,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660147951i/60114057.jpg"
         },
@@ -1241,7 +1243,8 @@
         {
             "title": "The Girl who fell beneath the sea",
             "editora": "Editorial Presença",
-            "month": 3,
+            "day": 5,
+            "month": 4,
             "year": 2023,
             "cover": "https://img.wook.pt/images/the-girl-who-fell-beneath-the-sea-axie-oh/MXwyNjE0NzQ0MHwyMjQyMTcwMXwxNjY3OTAyMjk0MDAwfHdlYnA=/550x"
         },
@@ -1363,13 +1366,6 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-circo-da-noite-erin-morgenstern/MXwyODA2OTIxMXwyNDQ3MDIyOHwxNjczNjE3NTg0MDAwfHdlYnA=/550x"
-        },
-        {
-            "title": "Happy Place",
-            "editora": "Leya",
-            "month": 4,
-            "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg"
         },
         {
             "title": "Ainda bem que a minha mãe morreu",
@@ -1619,6 +1615,12 @@
             "month": 4,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg"
+        },
+        {
+            "title": "Magnolia Parks",
+            "editora": "ASA Editora",   
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625926657i/58527403.jpg"
         }
     ]
 }
