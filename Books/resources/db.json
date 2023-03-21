@@ -1211,6 +1211,7 @@
         {
             "title": "Save Me",
             "editora": "Editorial Presença",
+            "day": 17,
             "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/so-um-beijo-me-pode-salvar-mona-kasten/MXwyODE1NTk4OHwyNDU0NzAwOHwxNjc2MDQ3NDk2MDAwfHdlYnA=/550x"
@@ -1514,7 +1515,6 @@
         {
             "title": "Love Theoretically",
             "editora": "Desrotina",
-            "month": 3,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg"
         },
@@ -1663,6 +1663,14 @@
             "month": 4,
             "year": 2023,
             "cover": "https://img.wook.pt/images/um-desastre-maravilhoso-jamie-mcguire/MXwxNDkzNzgxMXwxMDQyMTk3OHwxMzgzNTkwMjI5MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Odeio Amar-te",
+            "editora": "Desrotina",
+            "day": 23,
+            "month": 4,
+            "year": 2023,
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP239DE019_720x.jpg?v=1678990238"
         }
     ]
 }
