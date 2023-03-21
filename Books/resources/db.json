@@ -1157,8 +1157,10 @@
         {
             "title": "The Ex Hex",
             "editora": "Zero A Oito Editora",
+            "day": 4,
+            "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619305366i/56554626.jpg"
+            "cover": "https://img.wook.pt/images/a-maldicao-do-ex-erin-sterling/MXwyODM5ODYyM3wyNDc2NDA3MXwxNjc4OTY5ODIwMDAwfHdlYnA=/550x"
         },
         {
             "title": "The Kiss Curse",
@@ -1629,6 +1631,36 @@
             "month": 5,
             "year": 2022,
             "cover": "https://img.wook.pt/images/viuva-de-ferro-xiran-jay-zhao/MXwyNjg0MTA4MnwyMzEzMDc4NHwxNjUxNTg1Njg0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Immortal Longings",
+            "editora": "Leya",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675281549i/95561014.jpg"
+        },
+        {
+            "title": "A Voz de Archer",
+            "editora": "Leya",
+            "day": 25,
+            "month": 4,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656593818i/32822135.jpg"
+        },
+        {
+            "title": "Gémeas para uma só coroa",
+            "editora": "Gailivro",
+            "day": 2,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643305315i/58733682.jpg"
+        },
+        {
+            "title": "Beautiful Disaster",
+            "editora": "Gailivro",
+            "day": 11,
+            "month": 4,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/um-desastre-maravilhoso-jamie-mcguire/MXwxNDkzNzgxMXwxMDQyMTk3OHwxMzgzNTkwMjI5MDAwfHdlYnA=/550x"
         }
     ]
 }
