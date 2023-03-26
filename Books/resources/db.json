@@ -1142,7 +1142,7 @@
             "day": 5,
             "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660147951i/60114057.jpg"
+            "cover": "https://img.wook.pt/images/experiencia-de-amor-em-nova-iorque-elena-armas/MXwyODM5NDk5MXwyNDc2MDAyOHwxNjc4ODA1NTk5MDAwfHdlYnA=/550x"
         },
         {
             "title": "El Mapa de los anhelos",
@@ -1171,12 +1171,13 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647103771i/59949720.jpg"
         },
         {
-            "title": "Flock",
+            "title": "Bando",
             "editora": "Saida de Emergencia",
             "day": 20,
             "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594825119i/40748777.jpg"
+            "cover": "http://www.saidadeemergencia.com/images//products/Bando.jpg",
+            "bought": true
         },
         {
             "title": "Exodus",
@@ -1246,12 +1247,12 @@
             "cover": "https://img.wook.pt/images/kill-joy-holly-jackson/MXwyNjg1OTIyNnwyMzE1MTM1MnwxNjYwOTQ1NTgyMDAwfHdlYnA=/550x"
         },
         {
-            "title": "The Girl who fell beneath the sea",
+            "title": "A Rapariga que caiu no mar",
             "editora": "Editorial Presença",
             "day": 5,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/the-girl-who-fell-beneath-the-sea-axie-oh/MXwyNjE0NzQ0MHwyMjQyMTcwMXwxNjY3OTAyMjk0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-rapariga-que-caiu-no-mar-axie-oh/MXwyODM5NDk4OHwyNDc2MDAyNXwxNjc4ODA1NTk4MDAwfHdlYnA=/550x"
         },
         {
             "title": "O Reino dos Malditos",
@@ -1305,12 +1306,12 @@
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/02/O_Jogo_WEB.jpg"
         },
         {
-            "title": "Love and Other Words",
+            "title": "Amor e outras palavras",
             "editora": "Topseller",
             "day": 20,
             "month": 3,
             "year": 2023,
-            "cover": "https://m.media-amazon.com/images/I/51XunovVD5L._AC_SY780_.jpg"
+            "cover": "https://img.wook.pt/images/amor-e-outras-palavras-christina-lauren/MXwyODM4MTkzN3wyNDc0NTMyNHwxNjc4Mjc3NDY5MDAwfHdlYnA=/550x"
         },
         {
             "title": "Finlay Donovan Knock 'em dead",
@@ -1578,7 +1579,8 @@
             "day": 23,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/cordialmente-cruel-maureen-johnson/MXwyODM2ODEzNnwyNDcyOTkyN3wxNjc3NzY5MTI2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/cordialmente-cruel-maureen-johnson/MXwyODM2ODEzNnwyNDcyOTkyN3wxNjc3NzY5MTI2MDAwfHdlYnA=/550x",
+            "bought": true
         },
         {
             "title": "Better than the movies",
@@ -1670,7 +1672,8 @@
             "day": 23,
             "month": 3,
             "year": 2023,
-            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP239DE019_720x.jpg?v=1678990238"
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP239DE019_720x.jpg?v=1678990238",
+            "bought": true
         },
         {
             "title": "A Guera das Papoilas",
