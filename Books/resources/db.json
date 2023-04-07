@@ -1476,8 +1476,10 @@
         {
             "title": "Lore Olympus",
             "editora": "Penguin Livros",
+            "day": 14,
+            "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614887007i/57282218.jpg"
+            "cover": "https://img.wook.pt/images/lore-olympus-rachel-smythe/MXwyODQ3NjM2MHwyNDg0NzQyNHwxNjgwNjgyNzU4MDAwfHdlYnA=/550x"
         },
         {
             "title": "Meet me at the lake",
@@ -1561,8 +1563,9 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg"
         },
         {
-            "title": "Kingdom of the Cursed",
+            "title": "O Reino dos amaldiçoados",
             "editora": "Bertrand",
+            "day": 1,
             "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613554873i/52772417.jpg"
@@ -1684,6 +1687,18 @@
             "month": 4,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515691735i/35068705.jpg"
+        },
+        {
+            "title": "The FoxGlove King",
+            "editora": "Leya",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654300847i/59397314.jpg"
+        },
+        {
+            "title": "Atalanta",
+            "editora": "Minotauro",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675082381i/61884838.jpg"
         }
     ]
 }
