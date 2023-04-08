@@ -574,7 +574,8 @@
             "day": 15,
             "month": 3,
             "year": 2023,
-            "cover": "https://m.media-amazon.com/images/I/51wdvZS2eYL.jpg"
+            "cover": "https://m.media-amazon.com/images/I/51wdvZS2eYL.jpg",
+            "bought": true
         },
         {
             "title": "Tudo me lembra de Ti",
@@ -1686,7 +1687,7 @@
             "day": 20,
             "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515691735i/35068705.jpg"
+            "cover": "https://img.wook.pt/images/a-guerra-das-papoilas-rf-kuang/MXwyODQxNzA1OHwyNDc4NDU4NHwxNjc5OTk5Njk0MDAwfHdlYnA=/550x"
         },
         {
             "title": "The FoxGlove King",
