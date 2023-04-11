@@ -1714,6 +1714,30 @@
             "month": 5,
             "year": 2023,
             "cover": "https://img.wook.pt/images/maresia-e-fortuna-andreia-ferreira/MXwxOTIzODE2OHwyMDc1NzM1MHwxNjE0MDA5NDk3MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "The Stardust Thief",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636396304i/58950705.jpg"
+        },
+        {
+            "title": "A Deadly Education",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596909044i/50548197.jpg"
+        },
+        {
+            "title": "The Last Graduate",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604391810i/55559887.jpg"
+        },
+        {
+            "title": "The Golden Enclaves",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642265345i/55858638.jpg"
         }
     ]
 }
