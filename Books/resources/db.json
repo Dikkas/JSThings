@@ -1266,12 +1266,12 @@
             "bought": true
         },
         {
-            "title": "Vicious",
+            "title": "Vicioso",
             "editora": "Minotauro",
             "day": 20,
             "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670752670i/40874032.jpg"
+            "cover": "https://img.wook.pt/images/vicioso-v-e-schwab/MXwyODQyNjk4NnwyNDc5NTgzMnwxNjgwNzg5NjMzMDAwfHdlYnA=/550x"
         },
         {
             "title": "Como o Rei de Elfhame aprendeu a odiar histórias",
@@ -1456,11 +1456,12 @@
             "cover": "https://cdn.shopify.com/s/files/1/0063/8835/1012/products/9789895700875_473x718.jpg?v=1675168757"
         },
         {
-            "title": "Delilah Green Doesn't Care",
+            "title": "Delilah Green não quer saber",
             "editora": "Saida de Emergencia",
+            "day": 4
             "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643753957i/54756850.jpg"
+            "cover": "https://img.wook.pt/images/delilah-green-nao-quer-saber-ashley-herring-blake/MXwyODQ3OTMxM3wyNDg1MDQ2MHwxNjgwNzg2OTkzMDAwfHdlYnA=/550x"
         },
         {
             "title": "Astrid Parker Doesn't Fail",
@@ -1570,7 +1571,7 @@
             "day": 1,
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613554873i/52772417.jpg"
+            "cover": "https://img.wook.pt/images/o-reino-dos-amaldicoados-kerri-maniscalco/MXwyNzc5ODEwMnwyNDE3NTA1NnwxNjgwNzk3MDEyMDAwfHdlYnA=/550x"
         },
         {
             "title": "The Lesbian Guide to Catholic School",
@@ -1627,7 +1628,7 @@
             "day": 25,
             "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg"
+            "cover": "https://img.wook.pt/images/lugar-feliz-emily-henry/MXwyODQyMjUxMXwyNDc5MDQ3NnwxNjgxMzE1MzU5MDAwfHdlYnA=/550x"
         },
         {
             "title": "Magnolia Parks",
