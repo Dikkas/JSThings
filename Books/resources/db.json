@@ -930,6 +930,7 @@
         {
             "title": "The First To Die At The End",
             "editora": "TopSeller",
+            "day": 1,
             "month": 5,
             "year": 2023,
             "cover": "https://images.squarespace-cdn.com/content/v1/52bd29c9e4b013dbd6fc9a1c/4c8869fc-497b-42be-977d-adfa74bfc915/TheFirsttoDieattheEnd+hc+c.jpg?format=500w"
@@ -1738,6 +1739,20 @@
             "editora": "Kathartika",
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642265345i/55858638.jpg"
+        },
+        {
+            "title": "Da minha janela um mar entre nós",
+            "editora": "Editorial Presença",
+            "day": 5,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740055_Da_Minha_Janela_Mar_Entre_Nos_1024x1024.jpg?v=1681287650"
+        },
+        {
+            "title": "Mexican Gothic",
+            "editora": "Infinito Particular",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607462569i/53152636.jpg"
         }
     ]
 }
