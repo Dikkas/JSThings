@@ -1477,7 +1477,7 @@
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633986670i/59227936.jpg"
         },
         {
-            "title": "Lore Olympus",
+            "title": "Lore Olympus Vol: 1 Parte 1",
             "editora": "Penguin Livros",
             "day": 14,
             "month": 4,
@@ -1754,6 +1754,22 @@
             "editora": "Infinito Particular",
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607462569i/53152636.jpg"
+        },
+        {
+            "title": "Talvez um Dia",
+            "editora": "TopSeller",
+            "day": 29,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/Talvez-um-Dia-WEB-1.jpg"
+        },
+        {
+            "title": "Lore Olympus Vol: 1 Parte 2",
+            "editora": "Penguin Livros",
+            "day": 1,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/K_Lore_Olympus_Vol1_Parte2_WEB.jpg"
         }
     ]
 }
