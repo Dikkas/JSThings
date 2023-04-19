@@ -928,12 +928,12 @@
             "bought": true
         },
         {
-            "title": "The First To Die At The End",
+            "title": "O Primeiro a morrer no final",
             "editora": "TopSeller",
             "day": 1,
             "month": 5,
             "year": 2023,
-            "cover": "https://images.squarespace-cdn.com/content/v1/52bd29c9e4b013dbd6fc9a1c/4c8869fc-497b-42be-977d-adfa74bfc915/TheFirsttoDieattheEnd+hc+c.jpg?format=500w"
+            "cover": "https://img.wook.pt/images/o-primeiro-a-morrer-no-final-adam-silvera/MXwyODUwNjE0OHwyNDg3OTg5NHwxNjgxODkzNzYzMDAwfHdlYnA=/550x"
         },
         {
             "title": "This Woven Kingdom",
@@ -1770,6 +1770,22 @@
             "month": 5,
             "year": 2023,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/K_Lore_Olympus_Vol1_Parte2_WEB.jpg"
+        },
+        {
+            "title": "O Gato e o Rato",
+            "editora": "Topseller",
+            "day": 1,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/o-gato-e-o-rato-m-j-arlidge/MXwyODUwNjE0OXwyNDg3OTg5NXwxNjgxODkzNzY0MDAwfHdlYnA=/550x"
+        },
+        {
+            "title": "Rainha Carlota",
+            "editora": "Asa Editora",
+            "day": 9,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/rainha-carlota-julia-quinn/MXwyODUwNDYwMnwyNDg3ODQ1OHwxNjgxODMwNzc1MDAwfHdlYnA=/550x"
         }
     ]
 }
