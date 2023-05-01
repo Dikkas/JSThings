@@ -7,14 +7,17 @@
             "month": 6,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740036_Jogos_Da_Heranca_1024x1024.jpg?v=1652343079",
+            "author" : "Jennifer Lynn Barnes ",
             "bought": true
         },
         {
+            "title": "Aristotles e Dante descobrem os segredos do universo",
             "editora": "Editorial Presença",
             "day": 18,
             "month": 5,
             "year": 2022,
-            "cover": "https://m.media-amazon.com/images/I/51pbO2Ohi-L.jpg"
+            "cover": "https://m.media-amazon.com/images/I/51pbO2Ohi-L.jpg",
+            "author" : "Benjamin Alire Sáenz"
         },
         {
             "title": "Através da minha janela",
@@ -22,7 +25,8 @@
             "day": 15,
             "month": 6,
             "year": 2022,
-            "cover": "https://m.media-amazon.com/images/I/417jpfX33jL.jpg"
+            "cover": "https://m.media-amazon.com/images/I/417jpfX33jL.jpg",
+            "author" : "Ariana Godoy"
         },
         {
             "title": "As Musas",
@@ -30,7 +34,8 @@
             "day": 20,
             "month": 4,
             "year": 2022,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/41vAMQat0uS._SX335_BO1,204,203,200_.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/41vAMQat0uS._SX335_BO1,204,203,200_.jpg",
+            "author" : "Alex Michaelides"
         },
         {
             "title": "Daqui Fala Sam",
@@ -38,7 +43,8 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/daqui-fala-o-sam-dustin-thao/MXwyNzc2MjU5MHwyNDEzNzY3MnwxNjY1NTg5Mzc1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/daqui-fala-o-sam-dustin-thao/MXwyNzc2MjU5MHwyNDEzNzY3MnwxNjY1NTg5Mzc1MDAwfHdlYnA=/550x",
+            "author" : "Dustin Thao"
         },
         {
             "title": "Gallant",
@@ -46,7 +52,8 @@
             "day": 8,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/gallant-v-e-schwab/MXwyNzM2ODI0MHwyMzcyMzQ0NnwxNjYxODUyMTUxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/gallant-v-e-schwab/MXwyNzM2ODI0MHwyMzcyMzQ0NnwxNjYxODUyMTUxMDAwfHdlYnA=/550x",
+            "author" : "V.E. Schwab"
         },
         {
             "title": "O Gato que salvava Livros",
@@ -55,6 +62,7 @@
             "month": 4,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_6bd1e1fb-10bf-4c24-afdb-9f5e81a2ce65_1024x1024.jpg?v=1649244843",
+            "author" : "Sosuke Natsukawa",
             "bought": true
         },
         {
@@ -64,15 +72,17 @@
             "month": 4,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/A-Variavel-do-Amor_WEB.jpg",
+            "author" : "Christina Lauren",
             "bought": true
         },
         {
             "title": "Amor e Sorte",
-            "editora": "",
+            "editora": "In",
             "day": 19,
             "month": 4,
             "year": 2022,
-            "cover": "https://m.media-amazon.com/images/I/41cLqMETEhL.jpg"
+            "cover": "https://m.media-amazon.com/images/I/41cLqMETEhL.jpg",
+            "author" : "Jenna Evans Welch"
         },
         {
             "title": "Os Primos",
@@ -81,6 +91,7 @@
             "month": 4,
             "year": 2022,
             "cover": "https://img.bertrand.pt/images/os-primos-karen-m-mcmanus/NDV8MjY2ODA0MDF8MjI5NjA2MDZ8MTY0NTc0NzIwMDAwMA==/500x",
+            "author" : "Karen M. McManus",
             "bought": true
         },
         {
@@ -90,15 +101,17 @@
             "month": 4,
             "year": 2022,
             "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEgqpld4dK9LqLZaZXwjC6H41Pro_TSrxEFFSidlM2lXfAuLEtvuFbzjVA0vny0Ap-_vldLoerBpVv7HhNmHaFnMThYXp0LLY35AGoNeGcAYxMT6P8fJ0Zl9ZwIsian2YbvgrglAcjoc9CBTpVzU7MvG1uOhttqeui_etYt6Te25k-egZO_bmsC_3rCp3g=s320",
+            "author" : "Holly Jackson",
             "bought": true
         },
         {
             "title": "Herdeira do Fogo",
-            "editora": "",
+            "editora": "Editorial Presença",
             "day": 16,
             "month": 3,
             "year": 2022,
             "cover": "https://img.wook.pt/images/herdeira-do-fogo-sarah-j-maas/MXwyNjY3NjUwNnwyMjk1NTgzM3wxNjQ1NDg4MDAwMDAw/500x",
+            "author" : "Sarah J. Maas",
             "bought": true
         },
         {
@@ -108,24 +121,27 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/rainha-das-sombras-sarah-j-maas/MXwyNzk3OTAwNnwyNDM4NjcwN3wxNjcxMDE2Njk2MDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas",
             "bought": true
         },
         {
             "title": "Cerco e Tempestade",
-            "editora": "",
+            "editora": "Leya",
             "day": 22,
             "month": 3,
             "year": 2022,
             "cover": "https://img.wook.pt/images/cerco-e-tempestade-leigh-bardugo/MXwyNjY4MDM3M3wyMjk2MDU3OHwxNjQ1NzQ3MjAwMDAw/500x",
+            "author" : "Leigh Bardugo",
             "bought": true
         },
         {
             "title": "Corte de Nevoa e Furia",
-            "editora": "",
+            "editora": "Marcador",
             "day": 20,
             "month": 7,
             "year": 2022,
             "cover": "https://img.wook.pt/images/corte-de-nevoa-e-furia-sarah-j-maas/MXwyNzE4MTkyMHwyMzUwNjY0OHwxNjU2NTAwNzQ3MDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas",
             "bought": true
         },
         {
@@ -135,6 +151,7 @@
             "month": 3,
             "year": 2022,
             "cover": "https://img.bertrand.pt/images/nos-os-dois-na-lua-alice-kellen/NDV8MjY2NzY1MDR8MjI5NTU4MzF8MTY0NTQ4ODAwMDAwMA==/500x",
+            "author" : "Alice Kellen",
             "bought": true
         },
         {
@@ -143,7 +160,8 @@
             "day": 2,
             "month": 6,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01950211_Ilusao_Amor_Espanhola_1024x1024.jpg?v=1652343310"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01950211_Ilusao_Amor_Espanhola_1024x1024.jpg?v=1652343310",
+            "author" : "Elena Armas"
         },
         {
             "title": "12 horas para dizer que te amo",
@@ -151,33 +169,37 @@
             "day": 15,
             "month": 6,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040789_12_Horas_Para_Dizer_Que_Te_Amo_1024x1024.jpg?v=1653466467"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040789_12_Horas_Para_Dizer_Que_Te_Amo_1024x1024.jpg?v=1653466467",
+            "author" : "Olivia Poulet & Laurance Dobiesz"
         },
         {
             "title": "Finale",
-            "editora": "",
+            "editora": "Editorial Presença",
             "day": 3,
             "month": 8,
             "year": 2022,
             "cover": "https://img.wook.pt/images/finale-stephanie-garber/MXwyNzIxNzI3OXwyMzU0NjQ4MXwxNjU3NjIxODMwMDAwfHdlYnA=/550x",
+            "author" : "Stephanie Garber",
             "bought": true
         },
         {
             "title": "A Rainha do Nada",
-            "editora": "",
+            "editora": "TopSeller",
             "day": 4,
             "month": 4,
             "year": 2022,
             "cover": "https://img.wook.pt/images/a-rainha-do-nada-holly-black/MXwyNjc3Njg0MnwyMzA2MjAyM3wxNjQ3OTkzNjAwMDAw/500x",
+            "author" : "Holly Black",
             "bought": true
         },
         {
             "title": "Malibu Renasce",
-            "editora": "",
+            "editora": "TopSeller",
             "day": 2,
             "month": 5,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Malibu-Renasce_WEB-677x1024.jpg",
+            "author" : "Taylor Jenkins Reid",
             "bought": true
         },
         {
@@ -187,6 +209,7 @@
             "month": 5,
             "year": 2022,
             "cover": "https://img.wook.pt/images/o-canto-de-aquiles-madeline-miller/MXwyNjg5Nzk1N3wyMzE5MzMzOXwxNjUxMTQ0NzE5MDAwfHdlYnA=/502x",
+            "author" : "Madeline Miller",
             "bought": true
         },
         {
@@ -196,6 +219,7 @@
             "month": 9,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01950216_Sangue_Cinzas_1024x1024.jpg?v=1660829421",
+            "author" : "Jennifer L. Armentrout",
             "bought": true
         },
         {
@@ -204,13 +228,15 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/deuses-de-neon-olimpo-1-katee-robert/MXwyNzc2MjU5NXwyNDEzNzY3N3wxNjY1NTg5Mzc4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/deuses-de-neon-olimpo-1-katee-robert/MXwyNzc2MjU5NXwyNDEzNzY3N3wxNjY1NTg5Mzc4MDAwfHdlYnA=/550x",
+            "author" : "Katee Robert"
         },
         {
             "title": "Electric Idol",
             "editora": "",
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/365f0962-2fba-47f1-89e6-cf634b2c9e25/1200/1200/False/electric-idol.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/365f0962-2fba-47f1-89e6-cf634b2c9e25/1200/1200/False/electric-idol.jpg",
+            "author" : "Katee Robert"
         },
         {
             "title": "Quando danças com o coração",
@@ -218,7 +244,8 @@
             "day": 21,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/quando-dancas-com-o-coracao-nicola-yoon/MXwyNzM3MDM4NHwyMzcyNjcwNnwxNjYxOTQyMDQ2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/quando-dancas-com-o-coracao-nicola-yoon/MXwyNzM3MDM4NHwyMzcyNjcwNnwxNjYxOTQyMDQ2MDAwfHdlYnA=/550x",
+            "author" : "Nicola Yoon"
         },
         {
             "title": "Era uma vez um coração partido",
@@ -226,7 +253,8 @@
             "day": 15,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/era-uma-vez-um-coracao-partido-stephanie-garber/MXwyODA5MzEzMXwyNDQ5MDI2M3wxNjc0NTY3Nzg2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/era-uma-vez-um-coracao-partido-stephanie-garber/MXwyODA5MzEzMXwyNDQ5MDI2M3wxNjc0NTY3Nzg2MDAwfHdlYnA=/550x",
+            "author" : "Stephanie Garber"
         },
         {
             "title": "Reino de Carne e Fogo",
@@ -234,19 +262,22 @@
             "day": 2,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/reino-de-carne-e-fogo-jennifer-l-armentrout/MXwyODE1NTk5MHwyNDU0NzAxMHwxNjc1ODcwOTYyMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/reino-de-carne-e-fogo-jennifer-l-armentrout/MXwyODE1NTk5MHwyNDU0NzAxMHwxNjc1ODcwOTYyMDAwfHdlYnA=/550x",
+            "author" : "Jennifer L. Armentrout"
         },
         {
             "title": "Empire of Storms",
             "editora": "",
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463107108l/28260587.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463107108l/28260587.jpg",
+            "author" : "Sarah J. Maas"
         },
         {
             "title": "Tower of Dawn",
             "editora": "",
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/c1aa4e66-91be-4f5c-b6fe-e668107e0745/1200/1200/False/tower-of-dawn.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/c1aa4e66-91be-4f5c-b6fe-e668107e0745/1200/1200/False/tower-of-dawn.jpg",
+            "author" : "Sarah J. Maas"
         },
         {
             "title": "Corte de Asas e Ruina",
@@ -255,13 +286,15 @@
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/corte-de-asas-e-ruina-sarah-j-maas/MXwyODA2NDQ3MXwyNDQ2NTk2N3wxNjczNDQ0OTQ3MDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas",
             "bought": true
         },
         {
             "title": "A Court of Frost and Starlight",
             "editora": "",
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/e1bcc3f5-a1ef-4d58-b8ef-7e9f47521643/353/569/90/False/a-court-of-frost-and-starlight-1.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/e1bcc3f5-a1ef-4d58-b8ef-7e9f47521643/353/569/90/False/a-court-of-frost-and-starlight-1.jpg",
+            "author" : "Sarah J. Maas"
         },
         {
             "title": "Tudo o que restou de nós",
@@ -269,7 +302,8 @@
             "day": 30,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/tudo-o-que-restou-de-nos-adam-silvera/MXwyNzAzMjI3OHwyMzMzMzc2N3wxNjUyODc3OTAyMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/tudo-o-que-restou-de-nos-adam-silvera/MXwyNzAzMjI3OHwyMzMzMzc2N3wxNjUyODc3OTAyMDAwfHdlYnA=/502x",
+            "author" : "Adam Silvera"
         },
         {
             "title": "Os Seis de Atlas",
@@ -278,6 +312,7 @@
             "month": 4,
             "year": 2022,
             "cover": "./resources/AtlasSix.jpg",
+            "author" : "Olivie Blake",
             "bought": true
         },
         {
@@ -286,7 +321,8 @@
             "day": 21,
             "month": 7,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP187DE007_720x.jpg?v=1654784919"
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP187DE007_720x.jpg?v=1654784919",
+            "author" : "Tessa Bailey"
         },
         {
             "title": "Romance de Verão",
@@ -295,6 +331,7 @@
             "month": 6,
             "year": 2022,
             "cover": "https://img.wook.pt/images/romance-de-verao-emily-henry/MXwyNzA1NDYyMHwyMzM1ODY2MnwxNjU0MTU4OTkwMDAwfHdlYnA=/502x",
+            "author" : "Emily Henry",
             "bought": true
         },
         {
@@ -303,19 +340,22 @@
             "day": 27,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/se-nunca-te-conhecesse-mhairi-mcfarlane/MXwyNzE0NDAwNHwyMzQ2MjA2NnwxNjU1Mjk4MDg2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/se-nunca-te-conhecesse-mhairi-mcfarlane/MXwyNzE0NDAwNHwyMzQ2MjA2NnwxNjU1Mjk4MDg2MDAwfHdlYnA=/550x",
+            "author" : "Mhairi McFarlane"
         },
         {
             "title": "What might Have Been",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/61xLqa5WzrL.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/61xLqa5WzrL.jpg",
+            "author" : "Holly Miller"
         },
         {
             "title": "Free Love",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://images.randomhouse.com/cover/9781039003057"
+            "cover": "https://images.randomhouse.com/cover/9781039003057",
+            "author" : "Tessa Hadley"
         },
         {
             "title": "o rapaz que desenhava constelações",
@@ -323,7 +363,8 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/o-rapaz-que-desenhava-constelacoes-alice-kellen/MXwyNzc2MjU5MXwyNDEzNzY3M3wxNjY1NTg5Mzc2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-rapaz-que-desenhava-constelacoes-alice-kellen/MXwyNzc2MjU5MXwyNDEzNzY3M3wxNjY1NTg5Mzc2MDAwfHdlYnA=/550x",
+            "author" : "Alice Kellen"
         },
         {
             "title": "Heartstopper Volume 4",
@@ -332,6 +373,7 @@
             "month": 4,
             "year": 2022,
             "cover": "https://img.wook.pt/images/heartstopper-volume-4-oseman-alice/MXwyMzI2NDQwNHwxOTIwMzE0NnwxNjIxODk3MjAwMDAw/500x",
+            "author" : "Alice Oseman",
             "bought": true
         },
         {
@@ -339,7 +381,8 @@
             "editora": "Editorial Presença",
             "month": 6,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632933446l/56651467.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632933446l/56651467.jpg",
+            "author" : "Gayle Forman"
         },
         {
             "title": "Blackout",
@@ -347,7 +390,8 @@
             "day": 7,
             "month": 9,
             "year": 2022,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614165901l/55926761.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614165901l/55926761.jpg",
+            "author" : "Vários"
         },
         {
             "title": "O Herdeiro Perdido",
@@ -356,19 +400,22 @@
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-herdeiro-perdido-jennifer-lynn-barnes/MXwyODA2NDQ2OXwyNDQ2NTk2NXwxNjczNDQ0OTQ2MDAwfHdlYnA=/550x",
+            "author" : "Jennifer Lynn Barnes",
             "bought": true
         },
         {
             "title": "The Final Gambit",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634068432l/59233594.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634068432l/59233594.jpg",
+            "author" : "Jennifer Lynn Barnes"
         },
         {
             "title": "Go Tell the Bees That I am Gone",
             "editora": "Cada das Letras",
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/37a92fa3-5b11-40e3-b595-5fc94b3642da/1200/1200/False/go-tell-the-bees-that-i-am-gone-1.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/37a92fa3-5b11-40e3-b595-5fc94b3642da/1200/1200/False/go-tell-the-bees-that-i-am-gone-1.jpg",
+            "author" : "Diana Gabaldon"
         },
         {
             "title": "A casa no mar cerúleo",
@@ -377,6 +424,7 @@
             "month": 5,
             "year": 2022,
             "cover": "https://img.wook.pt/images/a-casa-no-mar-ceruleo-tj-klune/MXwyNjg3NzE1MXwyMzE3MTAzM3wxNjUxNTg1NjY1MDAwfHdlYnA=/502x",
+            "author" : "TJ Klune",
             "bought": true
         },
         {
@@ -386,13 +434,15 @@
             "month": 5,
             "year": 2022,
             "cover": "https://www.leyaonline.com/fotos/produtos/500_9789896614089_esses_prazeres_violentos.jpg",
+            "author" : "Chloe Gong",
             "bought": true
         },
         {
             "title": "The Ballad of Never After",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/3b3b14a9-a61e-4058-a3ca-965486c44e0f/1200/1200/False/the-ballad-of-never-after.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/3b3b14a9-a61e-4058-a3ca-965486c44e0f/1200/1200/False/the-ballad-of-never-after.jpg",
+            "author" : "Stephanie Garber"
         },
         {
             "title": "Cidade da Lua Crescente",
@@ -401,40 +451,46 @@
             "month": 11,
             "year": 2022,
             "cover": "https://img.wook.pt/images/casa-de-terra-e-sangue-cidade-da-lua-crescente-1-sarah-j-maas/MXwyNzc2MjU5NHwyNDEzNzY3NnwxNjY1NzQyMzIyMDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas",
             "bought": true
         },
         {
             "title": "The Cemetery Boys",
             "editora": "",
             "year": 2023,
-            "cover": "https://img.wook.pt/images/cemetery-boys-aiden-thomas/MXwyMzk0Nzk4NXwxOTk4MTY0NHwxNjE0MDM4NDAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/cemetery-boys-aiden-thomas/MXwyMzk0Nzk4NXwxOTk4MTY0NHwxNjE0MDM4NDAwMDAw/500x",
+            "author" : "Aiden Thomas"
         },
         {
             "title": "Otra vez Tu",
             "editora": "Editorial Presença",
             "month": 9,
             "year": 2023,
-            "cover": "https://www.planetadelibros.com.mx/usuaris/libros/fotos/335/m_libros/portada_otra-vez-tu_alice-kellen_202105261653.jpg"
+            "cover": "https://www.planetadelibros.com.mx/usuaris/libros/fotos/335/m_libros/portada_otra-vez-tu_alice-kellen_202105261653.jpg",
+            "author" : "Alice Kellen"
         },
         {
             "title": "Tal Vez tu",
             "editora": "Editorial Presença",
             "month": 9,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg",
+            "author" : "Alice Kellen"
         },
         {
             "title": "O Ausente",
             "editora": "Topseller",
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/o-ausente-beth-oleary/MXwyNzgzNDQ5OXwyNDIxNTk4MHwxNjY2ODc5MTAzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-ausente-beth-oleary/MXwyNzgzNDQ5OXwyNDIxNTk4MHwxNjY2ODc5MTAzMDAwfHdlYnA=/550x",
+            "author" : "Beth O'Leary"
         },
         {
             "title": "Something Wilder",
             "editora": "Penguin",
             "year": 2023,
-            "cover": "https://img.wook.pt/images/something-wilder-christina-lauren/MXwyNTg5MTMxMHwyMjE2MzkxN3wxNjQ2MDA2NDAwMDAw/500x"
+            "cover": "https://img.wook.pt/images/something-wilder-christina-lauren/MXwyNTg5MTMxMHwyMjE2MzkxN3wxNjQ2MDA2NDAwMDAw/500x",
+            "author" : "Christina Lauren"
         },
         {
             "title": "Corações Feridos",
@@ -443,6 +499,7 @@
             "month": 5,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/04/Coracoes-Feridos_WEB-677x1024.jpg",
+            "author" : "Colleen Hoover",
             "bought": true
         },
         {
@@ -452,6 +509,7 @@
             "month": 11,
             "year": 2022,
             "cover": "https://img.wook.pt/images/uma-pequena-vida-hanya-yanagihara/MXwyNzgzMTc5MnwyNDIwOTM3MnwxNjY2NzEzNzcxMDAwfHdlYnA=/550x",
+            "author" : "Hanya Yanagihara",
             "bought": true
         },
         {
@@ -461,6 +519,7 @@
             "month": 4,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/03/K-Toda-a-Gente-Nesta-Sala-um-dia-Ha-de-Morrer_outline_WEB-677x1024.jpg",
+            "author" : "Emily Austin",
             "bought": true
         },
         {
@@ -470,6 +529,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/percebe-a-dica-dani-brown-talia-hibbert/MXwyNzk3ODk1MnwyNDM4NjY5OXwxNjcxNjM0NzE3MDAwfHdlYnA=/550x",
+            "author" : "Talia Hibbert",
             "bought": true
         },
         {
@@ -478,7 +538,8 @@
             "day": 4,
             "month": 5,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_f5cf0146-663d-47c9-8efb-2810f4c8daf2_1024x1024.jpg?v=1649802616"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_f5cf0146-663d-47c9-8efb-2810f4c8daf2_1024x1024.jpg?v=1649802616",
+            "author" : "Mercedes Ron"
         },
         {
             "title": "Culpa tua",
@@ -486,14 +547,16 @@
             "day": 18,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/culpa-tua-mercedes-ron/MXwyODAyMDAzNXwyNDQyNTQ3M3wxNjcyMTUzNTI3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/culpa-tua-mercedes-ron/MXwyODAyMDAzNXwyNDQyNTQ3M3wxNjcyMTUzNTI3MDAwfHdlYnA=/550x",
+            "author" : "Mercedes Ron"
         },
         {
             "title": "Culpa Nuestra",
             "editora": "Editorial Presença",
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg",
+            "author" : "Mercedes Ron"
         },
         {
             "title": "Perfeitos Mentirosos",
@@ -501,7 +564,8 @@
             "day": 6,
             "month": 7,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740038_Perfeitos_Mentirosos_1_1024x1024.jpg?v=1655281702"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740038_Perfeitos_Mentirosos_1_1024x1024.jpg?v=1655281702",
+            "author" : "Alex Mírez"
         },
         {
             "title": "Desejar - Again 5",
@@ -509,7 +573,8 @@
             "day": 17,
             "month": 8,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/desejar-mona-kasten/MXwyNzI1MjQyN3wyMzU4Nzk4OXwxNjU4ODI2ODk3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/desejar-mona-kasten/MXwyNzI1MjQyN3wyMzU4Nzk4OXwxNjU4ODI2ODk3MDAwfHdlYnA=/550x",
+            "author" : "Mona Kasten"
         },
         {
             "title": "A Lista do Sr. Malcolm",
@@ -517,7 +582,8 @@
             "day": 3,
             "month": 5,
             "year": 2022,
-            "cover": "https://www.planetadelivros.pt/usuaris/libros/fotos/354/original/portada_a-lista-do-sr-malcolm_suzanne-allain_202204071758.jpg"
+            "cover": "https://www.planetadelivros.pt/usuaris/libros/fotos/354/original/portada_a-lista-do-sr-malcolm_suzanne-allain_202204071758.jpg",
+            "author" : "Suzanne Allain"
         },
         {
             "title": "bromance: o clube de leitura secreto",
@@ -525,7 +591,8 @@
             "day": 11,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/bromance-lyssa-kay-adams/MXwyNzQ2OTcyMnwyMzg0MTI0NnwxNjY0NDQ4MjgxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/bromance-lyssa-kay-adams/MXwyNzQ2OTcyMnwyMzg0MTI0NnwxNjY0NDQ4MjgxMDAwfHdlYnA=/550x",
+            "author" : "Lyssa Kay Adams"
         },
         {
             "title": "O Convite",
@@ -533,7 +600,8 @@
             "day": 30,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/o-convite-vi-keeland/MXwyNzAzMjI4MHwyMzMzMzc2OXwxNjUyODc3OTAzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-convite-vi-keeland/MXwyNzAzMjI4MHwyMzMzMzc2OXwxNjUyODc3OTAzMDAwfHdlYnA=/550x",
+            "author" : "Vi Keeland"
         },
         {
             "title": "Procura-se Namorado",
@@ -541,7 +609,8 @@
             "day": 30,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/procura-se-namorado-alexis-hall/MXwyNzA5Nzg2NXwyMzQwNjgxMXwxNjU0MTg0NDUxMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/procura-se-namorado-alexis-hall/MXwyNzA5Nzg2NXwyMzQwNjgxMXwxNjU0MTg0NDUxMDAwfHdlYnA=/502x",
+            "author" : "Alexis Hall"
         },
         {
             "title": "Isto pode doer",
@@ -549,7 +618,8 @@
             "day": 31,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/isto-pode-doer-stephanie-wrobel/MXwyNzAyODI5N3wyMzMyODc5OXwxNjUyNjg4NzExMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/isto-pode-doer-stephanie-wrobel/MXwyNzAyODI5N3wyMzMyODc5OXwxNjUyNjg4NzExMDAwfHdlYnA=/502x",
+            "author" : "Stephanie Wrobel"
         },
         {
             "title": "Liga às Tias",
@@ -558,6 +628,7 @@
             "month": 9,
             "year": 2022,
             "cover": "https://img.wook.pt/images/liga-as-tias-jesse-q-sutanto/MXwyNzI5NjYxOHwyMzYzODExOXwxNjYwMTE3MDYzMDAw/500x",
+            "author" : "Jesse Q. Sutanto",
             "bought": true
         },
         {
@@ -566,15 +637,17 @@
             "day": 14,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/corrente-de-ouro-cassandra-clare/MXwyNzA1ODU3NXwyMzM2MzcwNXwxNjUzNDg3MDA0MDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/corrente-de-ouro-cassandra-clare/MXwyNzA1ODU3NXwyMzM2MzcwNXwxNjUzNDg3MDA0MDAwfHdlYnA=/502x",
+            "author" : "Cassandra Clare"
         },
         {
-            "title": "From Lukov With Love",
+            "title": "De Lukov, com amor",
             "editora": "Editorial Presença",
             "day": 15,
             "month": 3,
             "year": 2023,
             "cover": "https://m.media-amazon.com/images/I/51wdvZS2eYL.jpg",
+            "author" : "Mariana Zapata",
             "bought": true
         },
         {
@@ -584,6 +657,7 @@
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/tudo-me-lembra-de-ti-colleen-hoover/MXwyODA2NDMwNHwyNDQ2NTkyOHwxNjczNDMzNTg1MDAwfHdlYnA=/550x",
+            "author" : "Colleen Hoover",
             "bought": true
         },
         {
@@ -592,7 +666,8 @@
             "day": 27,
             "month": 7,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/golden-boys-phil-stamper/MXwyNzIxNjU3N3wyMzU0NTMzOXwxNjU3NTUxNjg5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/golden-boys-phil-stamper/MXwyNzIxNjU3N3wyMzU0NTMzOXwxNjU3NTUxNjg5MDAwfHdlYnA=/550x",
+            "author" : "Phil Stamper"
         },
         {
             "title": "Cada Verão passado",
@@ -600,7 +675,8 @@
             "day": 15,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/cada-verao-passado-carley-fortune/MXwyNzM0ODE3OHwyMzY5OTM4MHwxNjYxNDE1NjIxMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/cada-verao-passado-carley-fortune/MXwyNzM0ODE3OHwyMzY5OTM4MHwxNjYxNDE1NjIxMDAwfHdlYnA=/502x",
+            "author" : "Carley Fortune"
         },
         {
             "title": "O Sonho Americano de Ivy Lin",
@@ -608,14 +684,16 @@
             "day": 1,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/o-sonho-americano-de-ivy-lin-susie-yang/MXwyNTg4MDk3OXwyMjE1MzQ5MHwxNjUwNjE2MTczMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/o-sonho-americano-de-ivy-lin-susie-yang/MXwyNTg4MDk3OXwyMjE1MzQ5MHwxNjUwNjE2MTczMDAwfHdlYnA=/502x",
+            "author" : "Susie Yang"
         },
         {
             "title": "Já sou Normal?",
             "editora": "Topseller",
             "month": 5,
             "year": 2021,
-            "cover": "https://img.wook.pt/images/ja-sou-normal-holly-bourne/MXwyNDc3ODYzMHwyMDk1OTczOXwxNjIxNDExMTQwMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/ja-sou-normal-holly-bourne/MXwyNDc3ODYzMHwyMDk1OTczOXwxNjIxNDExMTQwMDAwfHdlYnA=/502x",
+            "author" : "Holly Bourne"
         },
         {
             "title": "Será que o amor é isto?",
@@ -623,13 +701,15 @@
             "day": 24,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/sera-que-o-amor-e-isto-holly-bourne/MXwyNzc2MjUxOHwyNDEzNzU4OHwxNjY1NTgzNjA5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/sera-que-o-amor-e-isto-holly-bourne/MXwyNzc2MjUxOHwyNDEzNzU4OHwxNjY1NTgzNjA5MDAwfHdlYnA=/550x",
+            "author" : "Holly Bourne"
         },
         {
             "title": "What's a girl gotta do?",
             "editora": "Topseller",
             "year": 2023,
-            "cover": "https://img.wook.pt/images/whats-a-girl-gotta-do-holly-bourne/MXwxNzg5NDM2NnwxMzUzNjM3NXwxNjEzNzI2NDA1MDAw/500x"
+            "cover": "https://img.wook.pt/images/whats-a-girl-gotta-do-holly-bourne/MXwxNzg5NDM2NnwxMzUzNjM3NXwxNjEzNzI2NDA1MDAw/500x",
+            "author" : "Holly Bourne"
         },
         {
             "title": "Twisted Love",
@@ -638,6 +718,7 @@
             "month": 10,
             "year": 2022,
             "cover": "https://img.wook.pt/images/twisted-love-ana-huang/MXwyNzM3MDQ5NXwyMzcyNzA1OHwxNjYxOTY3OTczMDAwfHdlYnA=/550x",
+            "author" : "Ana Huang",
             "bought": true
         },
         {
@@ -647,6 +728,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://www.clubedoautor.pt/storage/images/2022-11-30-175814-capa-twisted-games-low.jpg",
+            "author" : "Ana Huang",
             "bought": true
         },
         {
@@ -655,7 +737,8 @@
             "day": 22,
             "month": 3,
             "year": 2023,
-            "cover": "https://www.clubedoautor.pt/storage/images/2023-02-20-110642-capa-twisted-hate-low.jpg"
+            "cover": "https://www.clubedoautor.pt/storage/images/2023-02-20-110642-capa-twisted-hate-low.jpg",
+            "author" : "Ana Huang"
         },
         {
             "title": "Punk 57",
@@ -663,7 +746,8 @@
             "day": 14,
             "month": 6,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/punk-57-penelope-douglas/MXwyNzA2MTQ1N3wyMzM2NzkxNXwxNjUzNjQzNTcyMDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/punk-57-penelope-douglas/MXwyNzA2MTQ1N3wyMzM2NzkxNXwxNjUzNjQzNTcyMDAwfHdlYnA=/502x",
+            "author" : "Penelope Douglas"
         },
         {
             "title": "Com Amizade",
@@ -671,7 +755,8 @@
             "day": 13,
             "month": 6,
             "year": 2022,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/05/Com-Amizade-WEB.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/05/Com-Amizade-WEB.jpg",
+            "author" : "AJ Pearce"
         },
         {
             "title": "uma última pagarem",
@@ -679,7 +764,8 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/uma-ultima-paragem-casey-mcquiston/MXwyNzc2MjU4OXwyNDEzNzY3MXwxNjY1NTg5Mzc1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/uma-ultima-paragem-casey-mcquiston/MXwyNzc2MjU4OXwyNDEzNzY3MXwxNjY1NTg5Mzc1MDAwfHdlYnA=/550x",
+            "author" : "Casey McQuiston"
         },
         {
             "title": "Letra Miudinha",
@@ -688,6 +774,7 @@
             "month": 10,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01950218_Letra_Miudinha_1024x1024.jpg?v=1663234197",
+            "author" : "Lauren Asher",
             "bought": true
         },
         {
@@ -696,13 +783,15 @@
             "day": 6,
             "month": 7,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/deixo-te-para-nao-te-perder-taylor-jenkins-reid/MXwyNzE0MjM5NXwyMzQ2MDE5OHwxNjU1MjAyNzM4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/deixo-te-para-nao-te-perder-taylor-jenkins-reid/MXwyNzE0MjM5NXwyMzQ2MDE5OHwxNjU1MjAyNzM4MDAwfHdlYnA=/550x",
+            "author" : "Taylor Jenkins Reid"
         },
         {
             "title": "Terms and Conditions",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://img.wook.pt/images/terms-and-conditions-lauren-asher/MXwyNTkyOTE3MXwyMjIwMzQ3NHwxNjQ2NzM3MzE3MDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/terms-and-conditions-lauren-asher/MXwyNTkyOTE3MXwyMjIwMzQ3NHwxNjQ2NzM3MzE3MDAwfHdlYnA=/502x",
+            "author" : "Lauren Asher"
         },
         {
             "title": "A Vingança Perfeita",
@@ -711,6 +800,7 @@
             "month": 10,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740042_Vinganca_Perfeita_1024x1024.jpg?v=1663234164",
+            "author" : "Holly Jackson",
             "bought": true
         },
         {
@@ -718,14 +808,16 @@
             "editora": "Editorial Presença",
             "month": 8,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/alvorada-vermelha-pierce-brown/MXwxNjI0ODM2NHwxMTgyODQ2NHwxNDI1OTAzNTg1MDAw/500x"
+            "cover": "https://img.wook.pt/images/alvorada-vermelha-pierce-brown/MXwxNjI0ODM2NHwxMTgyODQ2NHwxNDI1OTAzNTg1MDAw/500x",
+            "author" : "Pierce Brown"
         },
         {
             "title": "O Filho Dourado",
             "editora": "Editorial Presença",
             "month": 8,
             "year": 2022,
-            "cover": "http://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_5bf26d8a-3585-4e7d-8b3e-86c1eace1267_grande.jpg?v=1604860491"
+            "cover": "http://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_5bf26d8a-3585-4e7d-8b3e-86c1eace1267_grande.jpg?v=1604860491",
+            "author" : "Pierce Brown"
         },
         {
             "title": "A Estrela do Amanhecer",
@@ -733,13 +825,15 @@
             "day": 3,
             "month": 8,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01220151_Estrela_Do_Amanhecer_1024x1024.jpg?v=1657718217"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01220151_Estrela_Do_Amanhecer_1024x1024.jpg?v=1657718217",
+            "author" : "Pierce Brown"
         },
         {
             "title": "Ignite me",
             "editora": "Topseller",
             "year": 2024,
-            "cover": "https://kbimages1-a.akamaihd.net/9d958576-452d-4dad-a5d4-78abcf5a7971/1200/1200/False/ignite-me-1.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/9d958576-452d-4dad-a5d4-78abcf5a7971/1200/1200/False/ignite-me-1.jpg",
+            "author" : "Tahereh Mafi"
         },
         {
             "title": "Gild",
@@ -748,6 +842,7 @@
             "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/gild-raven-kennedy/MXwyODEyOTk5MXwyNDUyNDU2NHwxNjc1MDkwOTE2MDAwfHdlYnA=/550x",
+            "author" : "Raven Kennedy",
             "bought": true
         },
         {
@@ -755,14 +850,16 @@
             "editora": "Saida de Emergencia",
             "month": 7,
             "year": 2023,
-            "cover": "https://m.media-amazon.com/images/I/51l1oSrh+XL.jpg"
+            "cover": "https://m.media-amazon.com/images/I/51l1oSrh+XL.jpg",
+            "author" : "Raven Kennedy"
         },
         {
             "title": "Gleam",
             "editora": "Saida de Emergencia",
             "month": 8,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621972301l/58159314._SY475_.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621972301l/58159314._SY475_.jpg",
+            "author" : "Raven Kennedy"
         },
         {
             "title": "doidos por livros",
@@ -770,7 +867,8 @@
             "day": 2,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/doidos-por-livros-emily-henry/MXwyNzQ3MDQ0MnwyMzg0Mjg4N3wxNjY2OTY1NDQyMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/doidos-por-livros-emily-henry/MXwyNzQ3MDQ0MnwyMzg0Mjg4N3wxNjY2OTY1NDQyMDAwfHdlYnA=/550x",
+            "author" : "Emily Henry"
         },
         {
             "title": "O Olhar da Medusa",
@@ -778,7 +876,8 @@
             "day": 6,
             "month": 3,
             "year": 2023,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/02/O_Olhar_da_Medusa_WEB.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/02/O_Olhar_da_Medusa_WEB.jpg",
+            "author" : ""
         },
         {
             "title": "Ciencia do Amor",
@@ -787,6 +886,7 @@
             "month": 8,
             "year": 2022,
             "cover": "https://img.wook.pt/images/a-ciencia-do-amor-ali-hazelwood/MXwyNzIzNTcwN3wyMzU2OTMwMHwxNjU4NDk1MjU1MDAwfHdlYnA=/550x",
+            "author" : "Ali Hazelwood",
             "bought": true
         },
         {
@@ -795,15 +895,17 @@
             "day": 18,
             "month": 8,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/trono-partido-victoria-aveyard/MXwyNzIzNTcwOXwyMzU2OTMwMnwxNjU4NDk1MjU2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/trono-partido-victoria-aveyard/MXwyNzIzNTcwOXwyMzU2OTMwMnwxNjU4NDk1MjU2MDAwfHdlYnA=/550x",
+            "author" : "Victoria Aveyard"
         },
         {
-            "title": "The Dead Romantics",
+            "title": "O Amor não morreu",
             "editora": "Porto Editora",
             "day": 9,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-amor-nao-morreu-ashley-poston/MXwyNzk4MjI0OHwyNDM4OTU2MnwxNjc0NzQwMzkxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-amor-nao-morreu-ashley-poston/MXwyNzk4MjI0OHwyNDM4OTU2MnwxNjc0NzQwMzkxMDAwfHdlYnA=/550x",
+            "author" : "Ashley Poston"
         },
         {
             "title": "Carrie Soto Está de Volta",
@@ -812,6 +914,7 @@
             "month": 8,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/07/Carrie-Soto-Esta-de-Volta-SITE-1.jpg",
+            "author" : "Taylor Jenkins Reid",
             "bought": true
         },
         {
@@ -819,13 +922,15 @@
             "editora": "Cultura Editora",
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/ola-adeus-e-tudo-o-resto-jennifer-e-smith/MXwyNzMwMDA0MHwyMzY0MjUzMXwxNjYwMzAxMzM2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/ola-adeus-e-tudo-o-resto-jennifer-e-smith/MXwyNzMwMDA0MHwyMzY0MjUzMXwxNjYwMzAxMzM2MDAwfHdlYnA=/550x",
+            "author" : "Jennifer E. Smith"
         },
         {
             "title": "A Probabilidade Estatistica do Amor à Primeira Vista",
             "editora": "Cultura Editora",
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-probabilidade-estatistica-do-amor-a-primeira-vista-jennifer-e-smith/MXwxNDEyMjc3M3w5Njg3MTU1fDE0Mjk3OTU3NDUwMDA=/500x"
+            "cover": "https://img.wook.pt/images/a-probabilidade-estatistica-do-amor-a-primeira-vista-jennifer-e-smith/MXwxNDEyMjc3M3w5Njg3MTU1fDE0Mjk3OTU3NDUwMDA=/500x",
+            "author" : "Jennifer E. Smith"
         },
         {
             "title": "Mil batidas do coração",
@@ -833,15 +938,17 @@
             "day": 18,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/mil-batidas-do-coracao-kiera-cass/MXwyODAyMDAzOHwyNDQyNTQ3NnwxNjcyMTUzNTI4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/mil-batidas-do-coracao-kiera-cass/MXwyODAyMDAzOHwyNDQyNTQ3NnwxNjcyMTUzNTI4MDAwfHdlYnA=/550x",
+            "author" : "Kiera Cass"
         },
         {
-            "title": "This time it's Real",
+            "title": "Desta Vez é mesmo verdade",
             "editora": "Planeta",
             "day": 2,
             "month": 5,
             "year": 2023,
-            "cover": "https://www.planetadelivros.pt/usuaris/libros/fotos/378/m_libros/portada_desta-vez-e-mesmo-verdade_ann-liang_202304131355.jpg"
+            "cover": "https://www.planetadelivros.pt/usuaris/libros/fotos/378/m_libros/portada_desta-vez-e-mesmo-verdade_ann-liang_202304131355.jpg",
+            "author" : "Ann Liang"
         },
         {
             "title": "Sem Amor",
@@ -849,7 +956,8 @@
             "day": 1,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/sem-amor-alice-oseman/MXwyNzI3OTg2MXwyMzYxOTA5NHwxNjU5NjkxNzU5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/sem-amor-alice-oseman/MXwyNzI3OTg2MXwyMzYxOTA5NHwxNjU5NjkxNzU5MDAwfHdlYnA=/550x",
+            "author" : "Alice Oseman"
         },
         {
             "title": "Paixão",
@@ -857,15 +965,17 @@
             "day": 23,
             "month": 8,
             "year": 2022,
-            "cover": "https://kbimages1-a.akamaihd.net/2c004ba4-2b43-4502-88f9-18a8ad56425e/1200/1200/False/paixao-6.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/2c004ba4-2b43-4502-88f9-18a8ad56425e/1200/1200/False/paixao-6.jpg",
+            "author" : "Tracy Wolff"
         },
         {
             "title": "Ruina e Revolta",
-            "editora": "Editorial Presença",
+            "editora": "Leya",
             "day": 31,
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/ruina-e-revolta-leigh-bardugo/MXwyODA2OTIwN3wyNDQ3MDIyNHwxNjczNjE3NTgzMDAwfHdlYnA=/550x",
+            "author" : "Leigh Bardugo",
             "bought": true
         },
         {
@@ -874,28 +984,32 @@
             "day": 5,
             "month": 1,
             "year": 2023,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740047_E_Quando_Te_Perdi_1024x1024.jpg?v=1671099877"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740047_E_Quando_Te_Perdi_1024x1024.jpg?v=1671099877",
+            "author" : "Estelle Maskame"
         },
         {
             "title": "The Winners",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://m.media-amazon.com/images/I/41qLt9-I7SL.jpg"
+            "cover": "https://m.media-amazon.com/images/I/41qLt9-I7SL.jpg",
+            "author" : "Frederik Backman"
         },
         {
             "title": "Amor e Santorini",
-            "editora": "Zero A Oito Editora",
+            "editora": "In",
             "day": 6,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/amor-e-santorini-jenna-evans-welch/MXwyNzI4MDIzN3wyMzYxOTU5OXwxNjU5NzA4OTY2MDAwfHdlYnA=/502x"
+            "cover": "https://img.wook.pt/images/amor-e-santorini-jenna-evans-welch/MXwyNzI4MDIzN3wyMzYxOTU5OXwxNjU5NzA4OTY2MDAwfHdlYnA=/502x",
+            "author" : "Jenna Evans Welch"
         },
         {
             "title": "Lightlark",
             "editora": "Editoral Presença",
             "month": 9,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/lightlark-alex-aster/MXwyNjc4NDIxNHwyMzA3MDUxM3wxNjU1MTIzMjYyMDAw/500x"
+            "cover": "https://img.wook.pt/images/lightlark-alex-aster/MXwyNjc4NDIxNHwyMzA3MDUxM3wxNjU1MTIzMjYyMDAw/500x",
+            "author" : "Alex Aster"
         },
         {
             "title": "Filha da deusa da lua",
@@ -903,7 +1017,8 @@
             "day": 6,
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/filha-da-deusa-da-lua-sue-lynn-tan/MXwyNzA5Nzg1N3wyMzQwNjc5OXwxNjYzODQyMTc1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/filha-da-deusa-da-lua-sue-lynn-tan/MXwyNzA5Nzg1N3wyMzQwNjc5OXwxNjYzODQyMTc1MDAwfHdlYnA=/550x",
+            "author" : "Sue Lynn Tan"
         },
         {
             "title": "Isto Começa Aqui",
@@ -912,13 +1027,15 @@
             "month": 10,
             "year": 2022,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2022/09/Isto_Comeca_Aqui_SITE.jpg",
+            "author" : "Colleen Hoover",
             "bought": true
         },
         {
             "title": "King of Wrath",
             "editora": "",
             "year": 2023,
-            "cover": "https://i0.wp.com/www.escapistbookblog.com/wp-content/uploads/2022/09/King-of-Wrath.jpg?w=200&ssl=1"
+            "cover": "https://i0.wp.com/www.escapistbookblog.com/wp-content/uploads/2022/09/King-of-Wrath.jpg?w=200&ssl=1",
+            "author" : "Ana Huang"
         },
         {
             "title": "Vais ser a minha morte",
@@ -927,6 +1044,7 @@
             "month": 10,
             "year": 2022,
             "cover": "https://img.wook.pt/images/vais-ser-a-minha-morte-karen-m-mcmanus/MXwyNzQ3MDMzMHwyMzg0MjI1NXwxNjY0NDQ4Mjg4MDAwfHdlYnA=/550x",
+            "author" : "Karen M. McManus",
             "bought": true
         },
         {
@@ -935,19 +1053,22 @@
             "day": 1,
             "month": 5,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-primeiro-a-morrer-no-final-adam-silvera/MXwyODUwNjE0OHwyNDg3OTg5NHwxNjgxODkzNzYzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-primeiro-a-morrer-no-final-adam-silvera/MXwyODUwNjE0OHwyNDg3OTg5NHwxNjgxODkzNzYzMDAwfHdlYnA=/550x",
+            "author" : "Adam Silvera"
         },
         {
             "title": "This Woven Kingdom",
             "editora": "TopSeller",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634235371i/56554281.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634235371i/56554281.jpg",
+            "author" : "Tahereh Mafi"
         },
         {
             "title": "These Infinite Threads",
             "editora": "TopSeller",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656264319i/61085925.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656264319i/61085925.jpg",
+            "author" : "Tahereh Mafi"
         },
         {
             "title": "Half Bad: entre o bem e o mal",
@@ -955,7 +1076,8 @@
             "day": 19,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/half-bad-entre-o-bem-e-o-mal-sally-green/MXwxNTYyNTkxM3wxMTExOTc1MHwxNjY0MjgzOTMzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/half-bad-entre-o-bem-e-o-mal-sally-green/MXwxNTYyNTkxM3wxMTExOTc1MHwxNjY0MjgzOTMzMDAwfHdlYnA=/550x",
+            "author" : "Sally Green"
         },
         {
             "title": "Aquele tempo contigo",
@@ -963,7 +1085,8 @@
             "day": 19,
             "month": 10,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740043_Aquele_Tempo_Contigo_1024x1024.jpg?v=1664357633"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740043_Aquele_Tempo_Contigo_1024x1024.jpg?v=1664357633",
+            "author" : "Joana Marcús"
         },
         {
             "title": "Coisas que nunca superamos",
@@ -971,7 +1094,8 @@
             "day": 15,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/coisas-que-nunca-superamos-lucy-score/MXwyODA5MzEzMnwyNDQ5MDI2NHwxNjc0NTY3Nzg3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/coisas-que-nunca-superamos-lucy-score/MXwyODA5MzEzMnwyNDQ5MDI2NHwxNjc0NTY3Nzg3MDAwfHdlYnA=/550x",
+            "author" : "Lucy Score"
         },
         {
             "title": "Electra",
@@ -979,7 +1103,8 @@
             "day": 2,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/electra-jennifer-saint/MXwyODM1MzU5MnwyNDcxNDY2M3wxNjc3NTc0NzQ1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/electra-jennifer-saint/MXwyODM1MzU5MnwyNDcxNDY2M3wxNjc3NTc0NzQ1MDAwfHdlYnA=/550x",
+            "author" : "Jennifer Saint"
         },
         {
             "title": "Coração do Guerreiro do Sol",
@@ -987,7 +1112,8 @@
             "day": 9,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/coracao-do-guerreiro-do-sol-sue-lynn-tan/MXwyNzQzMzMzOHwyMzgwMzczMHwxNjc3MDU3OTQzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/coracao-do-guerreiro-do-sol-sue-lynn-tan/MXwyNzQzMzMzOHwyMzgwMzczMHwxNjc3MDU3OTQzMDAwfHdlYnA=/550x",
+            "author" : "Sue Lynn Tan"
         },
         {
             "title": "Quebra-Corações",
@@ -995,7 +1121,8 @@
             "day": 20,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/quebra-coracoes-sarah-maclean/MXwyODE1NTQ5NXwyNDU0Njk3NXwxNjc1ODU2Mjc5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/quebra-coracoes-sarah-maclean/MXwyODE1NTQ5NXwyNDU0Njk3NXwxNjc1ODU2Mjc5MDAwfHdlYnA=/550x",
+            "author" : "Sarah MacLean"
         },
         {
             "title": "Beijei a Shara Wheeler",
@@ -1003,21 +1130,24 @@
             "day": 17,
             "month": 5,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/beijei-a-shara-wheeler-casey-mcquiston/MXwyODUxNTgyMHwyNDg5MDk4N3wxNjgyMzQyNjczMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/beijei-a-shara-wheeler-casey-mcquiston/MXwyODUxNTgyMHwyNDg5MDk4N3wxNjgyMzQyNjczMDAwfHdlYnA=/550x",
+            "author" : "Casey McQuiston"
         },
         {
             "title": "Book of Night",
             "editora": "Penguin",
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639163872i/58293924.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639163872i/58293924.jpg",
+            "author" : "Holly Black"
         },
         {
             "title": "Ariadne",
             "editora": "Minotauro",
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/ariadne-jennifer-saint/MXwyNzM5NTM4M3wyMzc1NDQ1MXwxNjYyNzE2NTkxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/ariadne-jennifer-saint/MXwyNzM5NTM4M3wyMzc1NDQ1MXwxNjYyNzE2NTkxMDAwfHdlYnA=/550x",
+            "author" : "Jennifer Saint"
         },
         {
             "title": "Amor na Porta da Frente",
@@ -1025,14 +1155,16 @@
             "day": 1,
             "month": 12,
             "year": 2022,
-            "cover": "https://e9681c1648.clvaw-cdnwnd.com/6c3e10143aa0c6d736fbda59a4cb991a/200000345-9cfa19cfa5/amor%20na%20porta%20da%20frente.webp?ph=e9681c1648"
+            "cover": "https://e9681c1648.clvaw-cdnwnd.com/6c3e10143aa0c6d736fbda59a4cb991a/200000345-9cfa19cfa5/amor%20na%20porta%20da%20frente.webp?ph=e9681c1648",
+            "author" : "Andreia Ramos"
         },
         {
             "title": "Covet",
             "editora": "Leya",
             "month": 9,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg",
+            "author" : "Tracy Wolff"
         },
         {
             "title": "Feitiços para coisas perdidas",
@@ -1040,7 +1172,8 @@
             "day": 22,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/feiticos-para-coisas-perdidas-jenna-evans-welch/MXwyODEzMzE5NnwyNDUyODI2NnwxNjc1MjQ5MTA3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/feiticos-para-coisas-perdidas-jenna-evans-welch/MXwyODEzMzE5NnwyNDUyODI2NnwxNjc1MjQ5MTA3MDAwfHdlYnA=/550x",
+            "author" : "Jenna Evans Welch"
         },
         {
             "title": "filhas de Esparta",
@@ -1048,7 +1181,8 @@
             "day": 22,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/filhas-de-esparta-claire-heywood/MXwyNzg0ODMwNnwyNDIzMTQ1N3wxNjY3NDg1MDYwMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/filhas-de-esparta-claire-heywood/MXwyNzg0ODMwNnwyNDIzMTQ1N3wxNjY3NDg1MDYwMDAwfHdlYnA=/550x",
+            "author" : "Claire Heywood"
         },
         {
             "title": "o último jantar",
@@ -1056,7 +1190,8 @@
             "day": 3,
             "month": 11,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/o-ultimo-jantar-b-p-walter/MXwyNzc2MjU4OHwyNDEzNzY3MHwxNjY1NTg5Mzc0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-ultimo-jantar-b-p-walter/MXwyNzc2MjU4OHwyNDEzNzY3MHwxNjY1NTg5Mzc0MDAwfHdlYnA=/550x",
+            "author" : "B. P. Walter"
         },
         {
             "title": "os nossos corações perdidos",
@@ -1064,13 +1199,15 @@
             "day": 18,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/os-nossos-coracoes-perdidos-celeste-ng/MXwyNzc1NzU3OXwyNDEzMDU4OHwxNjY1NDgzNjY0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/os-nossos-coracoes-perdidos-celeste-ng/MXwyNzc1NzU3OXwyNDEzMDU4OHwxNjY1NDgzNjY0MDAwfHdlYnA=/550x",
+            "author" : "Celeste Ng"
         },
         {
             "title": "Five Survive",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659677880l/60788826.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659677880l/60788826.jpg",
+            "author" : "Holly Jackson"
         },
         {
             "title": "Lendários",
@@ -1078,7 +1215,8 @@
             "day": 27,
             "month": 10,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP202DE011_720x.jpg?v=1663604510"
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP202DE011_720x.jpg?v=1663604510",
+            "author" : "Tracy Deonn"
         },
         {
             "title": "Nick and Charlie",
@@ -1086,7 +1224,8 @@
             "day": 1,
             "month": 9,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP196DE010_720x.jpg?v=1658760520"
+            "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP196DE010_720x.jpg?v=1658760520",
+            "author" : "Alice Oseman"
         },
         {
             "title": "Circe",
@@ -1094,6 +1233,7 @@
             "month": 9,
             "year": 2020,
             "cover": "https://img.wook.pt/images/circe-madeline-miller/MXwyNDMwMDgxOHwyMDM4NDM4NnwxNTk4NjMyMjExMDAwfHdlYnA=/502x",
+            "author" : "Madeline Miller",
             "bought": true
         },
         {
@@ -1102,7 +1242,8 @@
             "day": 26,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/amor-a-segunda-vista-alex-light/MXwyNzI2MDAzOHwyMzU5NjkxMnwxNjY2MTY4NTk0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/amor-a-segunda-vista-alex-light/MXwyNzI2MDAzOHwyMzU5NjkxMnwxNjY2MTY4NTk0MDAwfHdlYnA=/550x",
+            "author" : "Alex Light"
         },
         {
             "title": "Guerreira dos Céus",
@@ -1110,13 +1251,15 @@
             "day": 11,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/guerreira-dos-ceus-addie-thorley/MXwyODAwNDc5NnwyNDQxMTU0NXwxNjcxNzI3OTk4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/guerreira-dos-ceus-addie-thorley/MXwyODAwNDc5NnwyNDQxMTU0NXwxNjcxNzI3OTk4MDAwfHdlYnA=/550x",
+            "author" : "Addie Thorley"
         },
         {
             "title": "Athenas Child",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595723279i/54675872.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595723279i/54675872.jpg",
+            "author" : "Hanna Lynn"
         },
         {
             "title": "O Paradoxo de Atlas",
@@ -1124,7 +1267,8 @@
             "day": 4,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-paradoxo-de-atlas-olivie-blake/MXwyODM5ODYxOXwyNDc2MjEwN3wxNjc4OTY5ODE5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-paradoxo-de-atlas-olivie-blake/MXwyODM5ODYxOXwyNDc2MjEwN3wxNjc4OTY5ODE5MDAwfHdlYnA=/550x",
+            "author" : "Olivie Blake"
         },
         {
             "title": "Ceifador",
@@ -1133,13 +1277,15 @@
             "month": 12,
             "year": 2022,
             "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP220DE013_720x.jpg?v=1667490766",
+            "author" : "Neal Shusterman",
             "bought": true
         },
         {
             "title": "Things we Hide from Light",
             "editora": "Marcador",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665095834i/60864116.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665095834i/60864116.jpg",
+            "author" : "Lucy Score"
         },
         {
             "title": "Experiencia de Amor em Nova Iorque",
@@ -1147,19 +1293,22 @@
             "day": 5,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/experiencia-de-amor-em-nova-iorque-elena-armas/MXwyODM5NDk5MXwyNDc2MDAyOHwxNjc4ODA1NTk5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/experiencia-de-amor-em-nova-iorque-elena-armas/MXwyODM5NDk5MXwyNDc2MDAyOHwxNjc4ODA1NTk5MDAwfHdlYnA=/550x",
+            "author" : "Elena Armas"
         },
         {
             "title": "El Mapa de los anhelos",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642689654i/60167327.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642689654i/60167327.jpg",
+            "author" : "Alice Kellen"
         },
         {
             "title": "La teoría de los archipiélagos",
             "editora": "Editorial Presença",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662568313i/62327565.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662568313i/62327565.jpg",
+            "author" : "Alice Kellen"
         },
         {
             "title": "A Maldição do Ex",
@@ -1167,13 +1316,15 @@
             "day": 4,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-maldicao-do-ex-erin-sterling/MXwyODM5ODYyM3wyNDc2NDA3MXwxNjc4OTY5ODIwMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-maldicao-do-ex-erin-sterling/MXwyODM5ODYyM3wyNDc2NDA3MXwxNjc4OTY5ODIwMDAwfHdlYnA=/550x",
+            "author" : "Erin Sterling"
         },
         {
             "title": "The Kiss Curse",
             "editora": "Zero A Oito Editora",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647103771i/59949720.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647103771i/59949720.jpg",
+            "author" : "Erin Sterling"
         },
         {
             "title": "Bando",
@@ -1182,6 +1333,7 @@
             "month": 4,
             "year": 2023,
             "cover": "https://img.wook.pt/images/bando-kate-stewart/MXwyODQxNzA1MHwyNDc4NDU3NnwxNjc5NjY5NjY4MDAwfHdlYnA=/550x",
+            "author" : "Kate Stewart",
             "bought": true
         },
         {
@@ -1189,13 +1341,15 @@
             "editora": "Saida de Emergencia",
             "month": 9,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595423359i/53312623.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595423359i/53312623.jpg",
+            "author" : "Kate Stewart"
         },
         {
             "title": "The Finish Line",
             "editora": "Saida de Emergencia",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610549876i/56182388.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610549876i/56182388.jpg",
+            "author" : "Kate Stewart"
         },
         {
             "title": "Até aos Ossos",
@@ -1203,7 +1357,8 @@
             "day": 6,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/ate-aos-ossos-camille-deangelis/MXwyODA5NTAxNXwyNDQ5MTk0OHwxNjc0NjU3MjgxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/ate-aos-ossos-camille-deangelis/MXwyODA5NTAxNXwyNDQ5MTk0OHwxNjc0NjU3MjgxMDAwfHdlYnA=/550x",
+            "author" : "Camille Deangelis"
         },
         {
             "title": "De olhos em Ti",
@@ -1212,6 +1367,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP228DE016_540x.jpg?v=1671736551",
+            "author" : "Amy Lea",
             "bought": true
         },
         {
@@ -1220,14 +1376,16 @@
             "day": 17,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/so-um-beijo-me-pode-salvar-mona-kasten/MXwyODE1NTk4OHwyNDU0NzAwOHwxNjc2MDQ3NDk2MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/so-um-beijo-me-pode-salvar-mona-kasten/MXwyODE1NTk4OHwyNDU0NzAwOHwxNjc2MDQ3NDk2MDAwfHdlYnA=/550x",
+            "author" : "Mona Kasten"
         },
         {
             "title": "Até onde as ondas nos levarem",
             "editora": "Edições Velha Lenda",
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/ate-onde-as-ondas-nos-levarem-andreia-ramos/MXwyNjk5MzExOHwyMzI5MDgyMHwxNjUxNjU4OTEzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/ate-onde-as-ondas-nos-levarem-andreia-ramos/MXwyNjk5MzExOHwyMzI5MDgyMHwxNjUxNjU4OTEzMDAwfHdlYnA=/550x",
+            "author" : "Andreia Ramos"
         },
         {
             "title": "Como se fôssemos vilões",
@@ -1235,6 +1393,7 @@
             "month": 6,
             "year": 2022,
             "cover": "https://img.wook.pt/images/como-se-fossemos-viloes-m-l-rio/MXwyNzA2MTQ0MHwyMzM2Nzg5OHwxNjUzNjQzNTY0MDAwfHdlYnA=/550x",
+            "author" : "ML Rio",
             "bought": true
         },
         {
@@ -1242,14 +1401,16 @@
             "editora": "Editorial Presença",
             "month": 2,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/sonhar-mona-kasten/MXwyNTgzODIzM3wyMjEwMTkyMHwxNjQxODk4ODk0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/sonhar-mona-kasten/MXwyNTgzODIzM3wyMjEwMTkyMHwxNjQxODk4ODk0MDAwfHdlYnA=/550x",
+            "author" : "Mona Kasten"
         },
         {
             "title": "Kill Joy",
             "editora": "Editorial Presença",
             "month": 9,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/kill-joy-holly-jackson/MXwyNjg1OTIyNnwyMzE1MTM1MnwxNjYwOTQ1NTgyMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/kill-joy-holly-jackson/MXwyNjg1OTIyNnwyMzE1MTM1MnwxNjYwOTQ1NTgyMDAwfHdlYnA=/550x",
+            "author" : "Holly Jackson"
         },
         {
             "title": "A Rapariga que caiu no mar",
@@ -1257,7 +1418,8 @@
             "day": 5,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-rapariga-que-caiu-no-mar-axie-oh/MXwyODM5NDk4OHwyNDc2MDAyNXwxNjc4ODA1NTk4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-rapariga-que-caiu-no-mar-axie-oh/MXwyODM5NDk4OHwyNDc2MDAyNXwxNjc4ODA1NTk4MDAwfHdlYnA=/550x",
+            "author" : "Axie Oh"
         },
         {
             "title": "O Reino dos Malditos",
@@ -1266,6 +1428,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-reino-dos-malditos-kerri-maniscalco/MXwyNzc5ODEwMHwyNDE3NTA1MHwxNjcxMDk3ODk1MDAwfHdlYnA=/550x",
+            "author" : "Kerri Maniscalco",
             "bought": true
         },
         {
@@ -1274,7 +1437,8 @@
             "day": 20,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/vicioso-v-e-schwab/MXwyODQyNjk4NnwyNDc5NTgzMnwxNjgwNzg5NjMzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/vicioso-v-e-schwab/MXwyODQyNjk4NnwyNDc5NTgzMnwxNjgwNzg5NjMzMDAwfHdlYnA=/550x",
+            "author" : "V.E. Schwab"
         },
         {
             "title": "Como o Rei de Elfhame aprendeu a odiar histórias",
@@ -1283,6 +1447,7 @@
             "month": 2,
             "year": 2023,
             "cover": "https://img.wook.pt/images/como-o-rei-de-elfhame-aprendeu-a-odiar-historias-holly-black/MXwyODE1NTQ5M3wyNDU0MzM3M3wxNjc1ODU2Mjc4MDAwfHdlYnA=/550x",
+            "author" : "Holly Black",
             "bought": true
         },
         {
@@ -1292,6 +1457,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.bertrand.pt/images/o-pacto-elle-kennedy/NDV8MjgwMDQ3OTh8MjQ0MTE1NDd8MTY3MTYyMzIwMjAwMHx3ZWJw/300x",
+            "author" : "Elle Kennedy",
             "bought": true
         },
         {
@@ -1301,6 +1467,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-erro-elle-kennedy/MXwyODA2NDI2MnwyNDQ2NTg2NnwxNjczNDMzNTgwMDAwfHdlYnA=/550x",
+            "author" : "Elle Kennedy",
             "bought": true
         },
         {
@@ -1309,7 +1476,8 @@
             "day": 6,
             "month": 3,
             "year": 2023,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/02/O_Jogo_WEB.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/02/O_Jogo_WEB.jpg",
+            "author" : "Elle Kennedy"
         },
         {
             "title": "Amor e outras palavras",
@@ -1317,26 +1485,30 @@
             "day": 20,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/amor-e-outras-palavras-christina-lauren/MXwyODM4MTkzN3wyNDc0NTMyNHwxNjc4Mjc3NDY5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/amor-e-outras-palavras-christina-lauren/MXwyODM4MTkzN3wyNDc0NTMyNHwxNjc4Mjc3NDY5MDAwfHdlYnA=/550x",
+            "author" : "Christina Lauren"
         },
         {
             "title": "Finlay Donovan Knock 'em dead",
             "editora": "Topseller",
             "month": 5,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621591318l/57693474.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621591318l/57693474.jpg",
+            "author" : "Elle Cosimand"
         },
         {
             "title": "Good Girl Complex",
             "editora": "Topseller",
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635841180l/57693481.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635841180l/57693481.jpg",
+            "author" : "Elle Kennedy"
         },
         {
             "title": "Fire with Fire",
             "editora": "Topseller",
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362356800l/10662420.jpg"
+            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362356800l/10662420.jpg",
+            "author" : "Jenny Han"
         },
         {
             "title": "Nora foge ao guião",
@@ -1344,7 +1516,8 @@
             "day":  20,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/nora-foge-ao-guiao-annabel-monaghan/MXwyODE1NTQ5NnwyNDU0Njk3NnwxNjc1ODU2MjgwMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/nora-foge-ao-guiao-annabel-monaghan/MXwyODE1NTQ5NnwyNDU0Njk3NnwxNjc1ODU2MjgwMDAwfHdlYnA=/550x",
+            "author" : "Annabel Monaghan"
         },
         {
             "title": "A Casa do Outro LAdo do Lago",
@@ -1352,7 +1525,8 @@
             "day": 24,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-casa-do-outro-lado-do-lago-riley-sager/MXwyODAyMDc5NnwyNDQyNjEzOHwxNjcyMzA0ODI3MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-casa-do-outro-lado-do-lago-riley-sager/MXwyODAyMDc5NnwyNDQyNjEzOHwxNjcyMzA0ODI3MDAwfHdlYnA=/550x",
+            "author" : "Riley Sager"
         },
         {
             "title": "O Apartamento em Paris",
@@ -1360,7 +1534,8 @@
             "day": 24,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-apartamento-em-paris-lucy-foley/MXwyODAzOTA0MHwyNDQ0MjE0NXwxNjcyODQ5MTk5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-apartamento-em-paris-lucy-foley/MXwyODAzOTA0MHwyNDQ0MjE0NXwxNjcyODQ5MTk5MDAwfHdlYnA=/550x",
+            "author" : "Lucy Foley"
         },
         {
             "title": "A Mandibula de Caim",
@@ -1369,6 +1544,7 @@
             "month": 1,
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-mandibula-de-caim-torquemada/MXwyNzgzMTc4NnwyNDIwOTM2MnwxNjczMDA3ODIyMDAwfHdlYnA=/550x",
+            "author" : "Torquemada",
             "bought": true
         },
         {
@@ -1377,7 +1553,8 @@
             "day": 31,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-circo-da-noite-erin-morgenstern/MXwyODA2OTIxMXwyNDQ3MDIyOHwxNjczNjE3NTg0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-circo-da-noite-erin-morgenstern/MXwyODA2OTIxMXwyNDQ3MDIyOHwxNjczNjE3NTg0MDAwfHdlYnA=/550x",
+            "author" : "Erin Morgenstern"
         },
         {
             "title": "Ainda bem que a minha mãe morreu",
@@ -1385,19 +1562,22 @@
             "day": 14,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/ainda-bem-que-a-minha-mae-morreu-jennette-mccurdy/MXwyODEzMzE0MXwyNDUyODI0OXwxNjc1MjQ1NDgxMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/ainda-bem-que-a-minha-mae-morreu-jennette-mccurdy/MXwyODEzMzE0MXwyNDUyODI0OXwxNjc1MjQ1NDgxMDAwfHdlYnA=/550x",
+            "author" : "Jennette McCurdy"
         },
         {
             "title": "People we meet on Vacation",
             "editora": "Leya",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg",
+            "author" : "Emily Henry"
         },
         {
             "title": "Icebreaker",
             "editora": "",
             "year": 2023,
-            "cover": "https://img.wook.pt/images/icebreaker-hannah-grace/MXwyNzk0MTU4NnwyNDM0OTc1M3wxNjcyMjM0Njk0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/icebreaker-hannah-grace/MXwyNzk0MTU4NnwyNDM0OTc1M3wxNjcyMjM0Njk0MDAwfHdlYnA=/550x",
+            "author" : "Hanna Grace"
         },
         {
             "title": "Rádio Silencio",
@@ -1405,7 +1585,8 @@
             "day": 16,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/radio-silencio-alice-oseman/MXwyODA4MTE4OHwyNDQ3OTY5OXwxNjc0MjE0NDAzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/radio-silencio-alice-oseman/MXwyODA4MTE4OHwyNDQ3OTY5OXwxNjc0MjE0NDAzMDAwfHdlYnA=/550x",
+            "author" : "Alice Oseman"
         },
         {
             "title": "Os Seis Grous",
@@ -1413,7 +1594,8 @@
             "day": 16,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/os-seis-grous-elizabeth-lim/MXwyODA4MTE4OXwyNDQ3OTcwMHwxNjc0MjE0NDA0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/os-seis-grous-elizabeth-lim/MXwyODA4MTE4OXwyNDQ3OTcwMHwxNjc0MjE0NDA0MDAwfHdlYnA=/550x",
+            "author" : "Elizabeth Lim"
         },
         {
             "title": "Os Nossos Fins Violentos",
@@ -1421,7 +1603,8 @@
             "day": 14,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/os-nossos-fins-violentos-chloe-gong/MXwyODEzMzEyNXwyNDUyODIxM3wxNjc1MjQ1NDc1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/os-nossos-fins-violentos-chloe-gong/MXwyODEzMzEyNXwyNDUyODIxM3wxNjc1MjQ1NDc1MDAwfHdlYnA=/550x",
+            "author" : "Chloe Gong"
         },
         {
             "title": "Anatomia: Uma história de amor",
@@ -1429,26 +1612,30 @@
             "day": 9,
             "month": 2,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/anatomia-uma-historia-de-amor-dana-schwartz/MXwyNzgzNDY1OHwyNDIxNjIwMHwxNjc0NzQwNTA0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/anatomia-uma-historia-de-amor-dana-schwartz/MXwyNzgzNDY1OHwyNDIxNjIwMHwxNjc0NzQwNTA0MDAwfHdlYnA=/550x",
+            "author" : "Dana Schwartz"
         },
         {
             "title": "Us Against You",
             "editora": "Porto Editora",
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516019348i/36373463.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516019348i/36373463.jpg",
+            "author" : "Frederik Backman"
         },
         {
             "title": "Kisses and Croissants",
             "editora": "Zero a Oito",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594315639i/51238609.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594315639i/51238609.jpg",
+            "author" : "Anne Sophie Jouhanneau"
         },
         {
             "title": "The Princess and the Grilled Cheese Sandwich",
             "editora": "Porto Editora",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663706930i/60656848.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663706930i/60656848.jpg",
+            "author" : "Deya Muniz"
         },
         {
             "title": "O Gato que sobreviveu",
@@ -1456,7 +1643,8 @@
             "day": 2,
             "month": 2,
             "year": 2023,
-            "cover": "https://cdn.shopify.com/s/files/1/0063/8835/1012/products/9789895700875_473x718.jpg?v=1675168757"
+            "cover": "https://cdn.shopify.com/s/files/1/0063/8835/1012/products/9789895700875_473x718.jpg?v=1675168757",
+            "author" : "Gwen Cooper"
         },
         {
             "title": "Delilah Green não quer saber",
@@ -1464,20 +1652,23 @@
             "day": 4,
             "month": 5,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/delilah-green-nao-quer-saber-ashley-herring-blake/MXwyODQ3OTMxM3wyNDg1MDQ2MHwxNjgwNzg2OTkzMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/delilah-green-nao-quer-saber-ashley-herring-blake/MXwyODQ3OTMxM3wyNDg1MDQ2MHwxNjgwNzg2OTkzMDAwfHdlYnA=/550x",
+            "author" : "Ashley Herring Blake"
         },
         {
             "title": "Astrid Parker Doesn't Fail",
             "editora": "Saida de Emergencia",
             "month": 8,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg",
+            "author" : "Ashley Herring Blake"
         },
         {
             "title": "Belladonna",
             "editora": "Clube do Autor",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633986670i/59227936.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633986670i/59227936.jpg",
+            "author" : "Adalyn Grace"
         },
         {
             "title": "Lore Olympus Vol: 1 Parte 1",
@@ -1485,54 +1676,62 @@
             "day": 14,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/lore-olympus-rachel-smythe/MXwyODQ3NjM2MHwyNDg0NzQyNHwxNjgwNjgyNzU4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/lore-olympus-rachel-smythe/MXwyODQ3NjM2MHwyNDg0NzQyNHwxNjgwNjgyNzU4MDAwfHdlYnA=/550x",
+            "author" : "Rachel Smythe"
         },
         {
             "title": "Meet me at the lake",
             "editora": "Penguin Livros",
             "month": 9,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664246880i/61797464.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664246880i/61797464.jpg",
+            "author" : "Carley Fortune"
         },
         {
             "title": "Tokyo Ever After",
             "editora": "Penguin Livros",
             "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601695675i/54860605.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601695675i/54860605.jpg",
+            "author" : "Emiko Jean"
         },
         {
             "title": "Mika in Real Life",
             "editora": "Penguin Livros",
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659449108i/59430548.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659449108i/59430548.jpg",
+            "author" : "Emiko Jean"
         },
         {
             "title": "Aquorea Expira: Mundos Secretos",
             "editora": "Penguin Livros",
             "year": 2023,
-            "cover": ""
+            "cover": "",
+            "author" : "M.G. Ferrey"
         },
         {
             "title": "Heavenly Tyrant",
             "editora": "Saida de Emergencia",
             "month": 9,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666660910i/52934483.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666660910i/52934483.jpg",
+            "author" : "Xiran Jay Zhao"
         },
         {
             "title": "Love Theoretically",
             "editora": "Desrotina",
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg"
+            "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg",
+            "author" : "Ali Hazelwood"
         },
         {
             "title": "Finlay Donovan Vai Arrasar",
             "editora": "Desrotina",
             "month": 9,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/finlay-donovan-vai-arrasar-elle-cosimano/MXwyNzQxMjg3NXwyMzc3NjI3OHwxNjYzMTYxMDU4MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/finlay-donovan-vai-arrasar-elle-cosimano/MXwyNzQxMjg3NXwyMzc3NjI3OHwxNjYzMTYxMDU4MDAwfHdlYnA=/550x",
+            "author" : "Elle Cosimand"
         },
         {
             "title": "O Segredo da Medusa",
@@ -1540,33 +1739,38 @@
             "day": 15,
             "month": 3,
             "year": 2023,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040813_Segredo_Medusa_1024x1024.jpg?v=1677057223"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/01040813_Segredo_Medusa_1024x1024.jpg?v=1677057223",
+            "author" : "Hanna Lynn"
         },
         {
             "title": "Check & Mate",
             "editora": "Editorial Presença",
             "month": 11,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676908301i/60683957.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678378842i/60683957.jpg",
+            "author" : "Ali Hazelwood"
         },
         {
             "title": "The Goal",
             "editora": "TopSeleer",
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475180973i/32315591.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475180973i/32315591.jpg",
+            "author" : "Elle Kennedy"
         },
         {
             "title": "The Legacy",
             "editora": "TopSeleer",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631147889i/58953656.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631147889i/58953656.jpg",
+            "author" : "Elle Kennedy"
         },
         {
             "title": "The Stolen Heir",
             "editora": "TopSeleer",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg",
+            "author" : "Holly Black"
         },
         {
             "title": "O Reino dos amaldiçoados",
@@ -1574,13 +1778,15 @@
             "day": 1,
             "month": 6,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-reino-dos-amaldicoados-kerri-maniscalco/MXwyNzc5ODEwMnwyNDE3NTA1NnwxNjgwNzk3MDEyMDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-reino-dos-amaldicoados-kerri-maniscalco/MXwyNzc5ODEwMnwyNDE3NTA1NnwxNjgwNzk3MDEyMDAwfHdlYnA=/550x",
+            "author" : "Kerri Maniscalco"
         },
         {
             "title": "The Lesbian Guide to Catholic School",
             "editora": "Penguin",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634305789i/58842731.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634305789i/58842731.jpg",
+            "author" : "Sonora Reyes"
         },
         {
             "title": "Cordialmente Cruel",
@@ -1589,33 +1795,38 @@
             "month": 3,
             "year": 2023,
             "cover": "https://img.wook.pt/images/cordialmente-cruel-maureen-johnson/MXwyODM2ODEzNnwyNDcyOTkyN3wxNjc3NzY5MTI2MDAwfHdlYnA=/550x",
+            "author" : "Maureen Johnson",
             "bought": true
         },
         {
             "title": "Better than the movies",
             "editora": "Marcador",            
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618150545i/55710822.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618150545i/55710822.jpg",
+            "author" : "Lynn Painter"
         },
         {
             "title": "if he had been with me",
             "editora": "Editorial Presença",            
             "year": 2023,
-            "cover": "https://img.wook.pt/images/if-he-had-been-with-me-laura-nowlin/MXwyMzI3OTY3MHwxOTIyMDA4OHwxNjAzNDk2MjA5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/if-he-had-been-with-me-laura-nowlin/MXwyMzI3OTY3MHwxOTIyMDA4OHwxNjAzNDk2MjA5MDAwfHdlYnA=/550x",
+            "author" : "Laura Nowlin"
         },
         {
             "title": "If only i had told her",
             "editora": "Editorial Presença",            
             "year": 2023,
-            "cover": "https://m.media-amazon.com/images/I/41p7u5HxgpL._SX331_BO1,204,203,200_.jpg"
+            "cover": "https://m.media-amazon.com/images/I/41p7u5HxgpL._SX331_BO1,204,203,200_.jpg",
+            "author" : "Laura Nowlin"
         },
         {
-            "title": "A Guarda-Redes",
+            "title": "A Guarda-Costas",
             "editora": "Porto Editora",
             "day": 23,
             "month": 3,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-guarda-costas-katherine-center/MXwyODA2NjQ0OXwyNDQ2NzgxN3wxNjc4MDkzMjk5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-guarda-costas-katherine-center/MXwyODA2NjQ0OXwyNDQ2NzgxN3wxNjc4MDkzMjk5MDAwfHdlYnA=/550x",
+            "author" : "Katherine Center"
         },
         {
             "title": "Escandalo",
@@ -1623,7 +1834,8 @@
             "day": 19,
             "month": 4,
             "year": 2023,
-            "cover": "https://www.clubedoautor.pt/storage/images/2023-03-27-131652-capa-escandalo-low.jpg"
+            "cover": "https://www.clubedoautor.pt/storage/images/2023-03-27-131652-capa-escandalo-low.jpg",
+            "author" : "Ivy Owens"
         },
         {
             "title": "Lugar Feliz",
@@ -1631,13 +1843,15 @@
             "day": 25,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/lugar-feliz-emily-henry/MXwyODQyMjUxMXwyNDc5MDQ3NnwxNjgxMzE1MzU5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/lugar-feliz-emily-henry/MXwyODQyMjUxMXwyNDc5MDQ3NnwxNjgxMzE1MzU5MDAwfHdlYnA=/550x",
+            "author" : "Emily Henry"
         },
         {
             "title": "Magnolia Parks",
             "editora": "ASA Editora",   
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625926657i/58527403.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625926657i/58527403.jpg",
+            "author" : "Jessa Hastings"
         },
         {
             "title": "Viuva de Ferro",
@@ -1645,13 +1859,15 @@
             "day": 5,
             "month": 5,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/viuva-de-ferro-xiran-jay-zhao/MXwyNjg0MTA4MnwyMzEzMDc4NHwxNjUxNTg1Njg0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/viuva-de-ferro-xiran-jay-zhao/MXwyNjg0MTA4MnwyMzEzMDc4NHwxNjUxNTg1Njg0MDAwfHdlYnA=/550x",
+            "author" : "Xiran Jay Zhao"
         },
         {
             "title": "Immortal Longings",
             "editora": "Leya",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675281549i/95561014.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675281549i/95561014.jpg",
+            "author" : "Chloe Gong"
         },
         {
             "title": "A Voz de Archer",
@@ -1659,7 +1875,8 @@
             "day": 25,
             "month": 4,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656593818i/32822135.jpg"
+            "cover": "https://img.wook.pt/images/a-voz-de-archer-mia-sheridan/MXwyODQyMjQ5NXwyNDc5MDQ2MHwxNjc5OTI3NjI2MDAwfHdlYnA=/550x",
+            "author" : "Mia Sheridan"
         },
         {
             "title": "Gémeas para uma só coroa",
@@ -1667,7 +1884,8 @@
             "day": 2,
             "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643305315i/58733682.jpg"
+            "cover": "https://img.wook.pt/images/gemeas-para-uma-so-coroa-catherine-doyle/MXwyODQyMjUxN3wyNDc5MDQ4MnwxNjgwNTM1NzY5MDAwfHdlYnA=/550x",
+            "author" : "Catherine Doyle & Katherine Webber"
         },
         {
             "title": "Um Desastre Maravilhoso",
@@ -1675,7 +1893,8 @@
             "day": 11,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/um-desastre-maravilhoso-jamie-mcguire/MXwxNDkzNzgxMXwxMDQyMTk3OHwxMzgzNTkwMjI5MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/um-desastre-maravilhoso-jamie-mcguire/MXwxNDkzNzgxMXwxMDQyMTk3OHwxMzgzNTkwMjI5MDAwfHdlYnA=/550x",
+            "author" : "Jamie McGuire"
         },
         {
             "title": "Odeio Amar-te",
@@ -1684,6 +1903,7 @@
             "month": 3,
             "year": 2023,
             "cover": "https://cdn.shopify.com/s/files/1/0268/5701/3299/products/IP239DE019_720x.jpg?v=1678990238",
+            "author" : "Ali Hazelwood",
             "bought": true
         },
         {
@@ -1692,25 +1912,29 @@
             "day": 20,
             "month": 4,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-guerra-das-papoilas-rf-kuang/MXwyODQxNzA1OHwyNDc4NDU4NHwxNjc5OTk5Njk0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/a-guerra-das-papoilas-rf-kuang/MXwyODQxNzA1OHwyNDc4NDU4NHwxNjc5OTk5Njk0MDAwfHdlYnA=/550x",
+            "author" : "R.F. Kuang"
         },
         {
             "title": "The FoxGlove King",
             "editora": "Leya",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654300847i/59397314.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654300847i/59397314.jpg",
+            "author" : "Hanna Whitten"
         },
         {
             "title": "Atalanta",
             "editora": "Minotauro",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675082381i/61884838.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675082381i/61884838.jpg",
+            "author" : "Jennifer Saint"
         },
         {
             "title": "One True Loves",
             "editora": "Topseller",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643705050i/60282871.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643705050i/60282871.jpg",
+            "author" : "Taylor Jenkins Reid"
         },
         {
             "title": "Maresia e Fortuna",
@@ -1718,31 +1942,36 @@
             "day": 25,
             "month": 5,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/maresia-e-fortuna-andreia-ferreira/MXwxOTIzODE2OHwyMDc1NzM1MHwxNjE0MDA5NDk3MDAwfHdlYnA=/550x"
+            "cover": "https://livrariaalgodaodoce.com/wp-content/uploads/2023/04/Screenshot_2023-04-26-07-03-10-223-edit_com.goodreads.jpg",
+            "author" : "Andreia Ferreira"
         },
         {
             "title": "The Stardust Thief",
             "editora": "Kathartika",
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636396304i/58950705.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636396304i/58950705.jpg",
+            "author" : "Chelsea Abdullah"
         },
         {
             "title": "A Deadly Education",
             "editora": "Kathartika",
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596909044i/50548197.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596909044i/50548197.jpg",
+            "author" : "Naomi Novik"
         },
         {
             "title": "The Last Graduate",
             "editora": "Kathartika",
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604391810i/55559887.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604391810i/55559887.jpg",
+            "author" : "Naomi Novik"
         },
         {
             "title": "The Golden Enclaves",
             "editora": "Kathartika",
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642265345i/55858638.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642265345i/55858638.jpg",
+            "author" : "Naomi Novik"
         },
         {
             "title": "Da minha janela um mar entre nós",
@@ -1750,13 +1979,15 @@
             "day": 5,
             "month": 5,
             "year": 2023,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740055_Da_Minha_Janela_Mar_Entre_Nos_1024x1024.jpg?v=1681287650"
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/60740055_Da_Minha_Janela_Mar_Entre_Nos_1024x1024.jpg?v=1681287650",
+            "author" : "Ariana Godoy"
         },
         {
             "title": "Mexican Gothic",
             "editora": "Infinito Particular",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607462569i/53152636.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607462569i/53152636.jpg",
+            "author" : "Silia Moreno-Garcia"
         },
         {
             "title": "Talvez um Dia",
@@ -1764,7 +1995,8 @@
             "day": 29,
             "month": 5,
             "year": 2023,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/Talvez-um-Dia-WEB-1.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/Talvez-um-Dia-WEB-1.jpg",
+            "author" : "Colleen Hoover"
         },
         {
             "title": "Lore Olympus Vol: 1 Parte 2",
@@ -1772,7 +2004,8 @@
             "day": 1,
             "month": 5,
             "year": 2023,
-            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/K_Lore_Olympus_Vol1_Parte2_WEB.jpg"
+            "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/K_Lore_Olympus_Vol1_Parte2_WEB.jpg",
+            "author" : "Rachel Smythe"
         },
         {
             "title": "O Gato e o Rato",
@@ -1780,7 +2013,8 @@
             "day": 1,
             "month": 5,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/o-gato-e-o-rato-m-j-arlidge/MXwyODUwNjE0OXwyNDg3OTg5NXwxNjgxODkzNzY0MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/o-gato-e-o-rato-m-j-arlidge/MXwyODUwNjE0OXwyNDg3OTg5NXwxNjgxODkzNzY0MDAwfHdlYnA=/550x",
+            "author" : "M.J. Arlidge"
         },
         {
             "title": "Rainha Carlota",
@@ -1788,32 +2022,55 @@
             "day": 9,
             "month": 5,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/rainha-carlota-julia-quinn/MXwyODUwNDYwMnwyNDg3ODQ1OHwxNjgxODMwNzc1MDAwfHdlYnA=/550x"
+            "cover": "https://img.wook.pt/images/rainha-carlota-julia-quinn/MXwyODUwNDYwMnwyNDg3ODQ1OHwxNjgxODMwNzc1MDAwfHdlYnA=/550x",
+            "author" : "Julia Quinn & Shonda Rhimes"
         },
         {
             "title": "As Jogadas do Amor",
             "editora": "Cultura Editora",
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624094827i/58100280.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624094827i/58100280.jpg",
+            "author" : "Sarah Adams"
         },
         {
             "title": "Correntes de Ferro",
             "editora": "Planeta de Livros",
             "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604591461i/17699855.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604591461i/17699855.jpg",
+            "author" : "Cassandra Clare"
         },
         {
             "title": "Nevernight",
             "editora": "Kathartika",
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500688832i/26114463.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500688832i/26114463.jpg",
+            "author" : "Jay Kristoff"
         },
         {
             "title": "Nettle & Bone",
             "editora": "Kathartika",
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645110008i/56179377.jpg"
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645110008i/56179377.jpg",
+            "author" : "T. Kingfisher"
+        },
+        {
+            "title": "Tempestade",
+            "editora": "Desrotina",
+            "day":25,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/thunderhead-neal-shusterman/MXwyMTcxMTIyMHwxNzU2Mzk0NnwxNTM3ODI5NDE4MDAwfHdlYnA=/550x",
+            "author" : "Neal Shusterman"
+        },
+        {
+            "title": "Nas Redes do Amor",
+            "editora": "Desrotina",
+            "day":25,
+            "month": 5,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/hook-line-and-sinker-tessa-bailey/MXwyNTkwNjc4NHwyMjE4MTA1MHwxNjgyMTExOTM1MDAwfHdlYnA=/550x",
+            "author" : "Tessa Bailey"
         }
     ]
 }
