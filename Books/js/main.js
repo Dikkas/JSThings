@@ -13,8 +13,8 @@ function getData() {
 
 function responseData(data) {
     for (let i = 0; i < data.length; i++) {
-        let { title, day, month, year, editora, cover, bought } = data[i];
-        books.push(objectCard(title, day, month, year, editora, cover, bought));
+        let { title, day, month, year, editora, cover, bought, author } = data[i];
+        books.push(objectCard(title, day, month, year, editora, cover, bought, author));
     }
     books.sort((a, b) => a.daysLeft - b.daysLeft);
     writeData(books);
@@ -22,7 +22,7 @@ function responseData(data) {
 
 function writeData(data) {
     for (let i = 0; i < data.length; i++) {
-        let { coverImg, badge, badgeText, title, relDate, daysLeft, editora } =
+        let { coverImg, badge, title, relDate, daysLeft, editora, author } =
             data[i];
         if (badge === "success") {
             released.innerHTML += createCard(
@@ -31,7 +31,8 @@ function writeData(data) {
                 title,
                 relDate,
                 daysLeft,
-                editora
+                editora,
+                author
             );
         } else if (badge === "info") {
             boughtBooks.innerHTML += createCard(
@@ -40,7 +41,8 @@ function writeData(data) {
                 title,
                 relDate,
                 daysLeft,
-                editora
+                editora,
+                author
             );
         } else {
             nextBooks.innerHTML += createCard(
@@ -49,13 +51,14 @@ function writeData(data) {
                 title,
                 relDate,
                 daysLeft,
-                editora
+                editora,
+                author
             );
         }
     }
 }
 
-function createCard(coverImg, badge, title, relDate, daysLeft, editora) {
+function createCard(coverImg, badge, title, relDate, daysLeft, editora, author) {
     return `<div class="card shadow-lg" style="width: 18rem;">
         <div class="img-div"><img src="${coverImg}" class="card-img-top"></div>
         <div class="card-body">
@@ -70,12 +73,13 @@ function createCard(coverImg, badge, title, relDate, daysLeft, editora) {
             </div>
             <h5 class="card-title">${title}</h5>
             <p class="card-text">${relDate}</p>
+            <p class="card-text">${author}</p>
             <p class="card-text">${editora}</p>
         </div>
     </div>`;
 }
 
-function objectCard(title, day, month, year, editora, cover, bought) {
+function objectCard(title, day, month, year, editora, cover, bought, author) {
     let relDate = `${day ? day + "/" : ""}${month ? month + "/" : ""}${year}`;
 
     // To set two dates to two variables
@@ -102,7 +106,7 @@ function objectCard(title, day, month, year, editora, cover, bought) {
 
     let coverImg = cover ? cover : "./resources/nocover.png";
 
-    return { coverImg, badge, title, relDate, daysLeft, editora };
+    return { coverImg, badge, title, relDate, daysLeft, editora, author };
 }
 
 getData();
