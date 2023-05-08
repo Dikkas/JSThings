@@ -1690,9 +1690,10 @@
         {
             "title": "Tokyo Ever After",
             "editora": "Penguin Livros",
+            "day": 15,
             "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601695675i/54860605.jpg",
+            "cover": "https://img.wook.pt/images/tokyo-ever-after-emiko-jean/MXwyODUzMzMzNHwyNDkxMTAwMXwxNjgzMTA3MTM2MDAwfHdlYnA=/550x",
             "author" : "Emiko Jean"
         },
         {
@@ -2071,6 +2072,15 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/nas-redes-do-amor-tessa-bailey/MXwyODUzMjU1MXwyNDkwOTg0OXwxNjgzMDM2MDc5MDAwfHdlYnA=/550x",
             "author" : "Tessa Bailey"
+        },
+        {
+            "title": "Addicted to You",
+            "editora": "Saida de Emergencia",
+            "day":20,
+            "month": 6,
+            "year": 2023,
+            "cover": "",
+            "author" : "Krista Ritchie & Becca Ritchie"
         }
     ]
 }
