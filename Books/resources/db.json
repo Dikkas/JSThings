@@ -462,11 +462,12 @@
             "author" : "Aiden Thomas"
         },
         {
-            "title": "Otra vez Tu",
+            "title": "Outra vez Tu",
             "editora": "Editorial Presença",
-            "month": 9,
+            "day": 7,
+            "month": 6,
             "year": 2023,
-            "cover": "https://www.planetadelibros.com.mx/usuaris/libros/fotos/335/m_libros/portada_otra-vez-tu_alice-kellen_202105261653.jpg",
+            "cover": "https://img.wook.pt/images/outra-vez-tu-alice-kellen/MXwyODU5NDU3NXwyNDk3NDk2MXwxNjg0MjQ3MTY0MDAwfHdlYnA=/550x",
             "author" : "Alice Kellen"
         },
         {
@@ -738,6 +739,15 @@
             "month": 3,
             "year": 2023,
             "cover": "https://www.clubedoautor.pt/storage/images/2023-02-20-110642-capa-twisted-hate-low.jpg",
+            "author" : "Ana Huang"
+        },
+        {
+            "title": "Twisted Lies",
+            "editora": "Clube do Autor",
+            "day": 7,
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/twisted-lies-ana-huang/MXwyNjc1MzA5NnwyMzAzNzQxMnwxNjgzNjY1NjUzMDAwfHdlYnA=/550x",
             "author" : "Ana Huang"
         },
         {
@@ -1489,11 +1499,12 @@
             "author" : "Christina Lauren"
         },
         {
-            "title": "Finlay Donovan Knock 'em dead",
+            "title": "Finlay Donovan Leva tudo à frente",
             "editora": "Topseller",
+            "day": 29,
             "month": 5,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621591318l/57693474.jpg",
+            "cover": "https://img.wook.pt/images/finlay-donovan-leva-tudo-a-frente-elle-cosimano/MXwyODU5NTc2OHwyNDk3NjM5MnwxNjg0MzE1Mjc1MDAwfHdlYnA=/550x",
             "author" : "Elle Cosimand"
         },
         {
@@ -2081,8 +2092,35 @@
             "day":20,
             "month": 6,
             "year": 2023,
-            "cover": "",
+            "cover": ""
             "author" : "Krista Ritchie & Becca Ritchie"
+        },
+        {
+            "title": "O Jogo Perfeito",
+            "editora": "Editorial Presença",
+            "day": 7,
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/o-jogo-perfeito-holly-jackson/MXwyODU5NDU3NnwyNDk3NDk2MnwxNjg0MjQ3MTY1MDAwfHdlYnA=/550x",
+            "author" : "Holly Jackson"
+        },
+        {
+            "title": "A Medida",
+            "editora": "Editorial Presença",
+            "day": 7,
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/a-medida-nikki-erlick/MXwyODU5NDU3MHwyNDk3NDk1NnwxNjg0MjQ3MTYyMDAwfHdlYnA=/550x",
+            "author" : "Nikki Erlick"
+        },
+        {
+            "title": "Roubar o Infinito",
+            "editora": "Editorial Presença",
+            "day": 1,
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/roubar-o-infinito-alyson-noel/MXwyODM2Nzg3NXwyNDcyOTY0OXwxNjg0MTQ1OTM4MDAwfHdlYnA=/550x",
+            "author" : "Alyson Noël"
         }
     ]
 }
