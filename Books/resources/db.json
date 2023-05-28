@@ -290,10 +290,12 @@
             "bought": true
         },
         {
-            "title": "A Court of Frost and Starlight",
-            "editora": "",
+            "title": "Corte de Gelo e Estrelas",
+            "editora": "Marcador",
+            "day": 7,
+            "month": 6,
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/e1bcc3f5-a1ef-4d58-b8ef-7e9f47521643/353/569/90/False/a-court-of-frost-and-starlight-1.jpg",
+            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/files/01950232_Corte_Gelo_Estrelas_1024x1024.jpg?v=1684311332",
             "author" : "Sarah J. Maas"
         },
         {
@@ -1416,14 +1418,6 @@
             "author" : "Mona Kasten"
         },
         {
-            "title": "Kill Joy",
-            "editora": "Editorial Presença",
-            "month": 9,
-            "year": 2023,
-            "cover": "https://img.wook.pt/images/kill-joy-holly-jackson/MXwyNjg1OTIyNnwyMzE1MTM1MnwxNjYwOTQ1NTgyMDAwfHdlYnA=/550x",
-            "author" : "Holly Jackson"
-        },
-        {
             "title": "A Rapariga que caiu no mar",
             "editora": "Editorial Presença",
             "day": 5,
@@ -1509,10 +1503,12 @@
             "author" : "Elle Cosimand"
         },
         {
-            "title": "Good Girl Complex",
+            "title": "Uma Boa Rapariga",
             "editora": "Topseller",
+            "day":  30,
+            "month": 5,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635841180l/57693481.jpg",
+            "cover": "https://img.wook.pt/images/uma-boa-rapariga-elle-kennedy/MXwyODUzMzMwMnwyNDkxMDk2OXwxNjgzMTA3MTMwMDAwfHdlYnA=/550x",
             "author" : "Elle Kennedy"
         },
         {
@@ -1585,10 +1581,12 @@
             "author" : "Emily Henry"
         },
         {
-            "title": "Icebreaker",
-            "editora": "",
+            "title": "Quebrar o Gelo",
+            "editora": "Bertrand",
+            "day": 1,
+            "month": 6,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/icebreaker-hannah-grace/MXwyNzk0MTU4NnwyNDM0OTc1M3wxNjcyMjM0Njk0MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/quebrar-o-gelo-icebreaker-hannah-grace/MXwyODM5NDY0M3wyNDc1NDQ3M3wxNjgzNTM2MDg3MDAwfHdlYnA=/550x",
             "author" : "Hanna Grace"
         },
         {
@@ -1637,17 +1635,21 @@
             "author" : "Frederik Backman"
         },
         {
-            "title": "Kisses and Croissants",
+            "title": "Beijos e Croissants",
             "editora": "Zero a Oito",
+            "day": 30,
+            "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594315639i/51238609.jpg",
+            "cover": "https://img.wook.pt/images/beijos-e-croissants-anne-sophie-jouhanneau/MXwyODUyMzM2MXwyNDg5OTkxMHwxNjgyNjg1OTY1MDAwfHdlYnA=/550x",
             "author" : "Anne Sophie Jouhanneau"
         },
         {
-            "title": "The Princess and the Grilled Cheese Sandwich",
+            "title": "A Princesa e a Tosta de Queijo",
             "editora": "Porto Editora",
+            "day": 30,
+            "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663706930i/60656848.jpg",
+            "cover": "https://img.wook.pt/images/a-princesa-e-a-tosta-de-queijo-deya-muniz/MXwyODUzNDc2N3wyNDkxMjcxMXwxNjgzMjEzMDgzMDAwfHdlYnA=/550x",
             "author" : "Deya Muniz"
         },
         {
@@ -1735,6 +1737,8 @@
         {
             "title": "Love Theoretically",
             "editora": "Desrotina",
+            "day": 29
+            "month": 6,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg",
             "author" : "Ali Hazelwood"
@@ -2053,9 +2057,10 @@
         {
             "title": "Correntes de Ferro",
             "editora": "Planeta de Livros",
+            "day": 30
             "month": 5,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604591461i/17699855.jpg",
+            "cover": "https://img.wook.pt/images/corrente-de-ferro-cassandra-clare/MXwyODUyMDY5N3wyNDg5Njk5OXwxNjgyNTE0NjIxMDAwfHdlYnA=/550x",
             "author" : "Cassandra Clare"
         },
         {
@@ -2168,6 +2173,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562854557i/46033842.jpg",
             "author" : "S.A. Chakraborty"
+        },
+        {
+            "title": "Babel",
+            "editora": "Desrotina",
+            "day": 29,
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/babel-rf-kuang/MXwyNTgxMzk2MnwyMjA3NTc2NHwxNjgyMTExODA1MDAwfHdlYnA=/550x",
+            "author" : "R. F. Kuang"
         }
     ]
 }
