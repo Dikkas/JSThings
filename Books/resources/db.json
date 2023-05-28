@@ -739,7 +739,8 @@
             "month": 3,
             "year": 2023,
             "cover": "https://www.clubedoautor.pt/storage/images/2023-02-20-110642-capa-twisted-hate-low.jpg",
-            "author" : "Ana Huang"
+            "author" : "Ana Huang",
+            "bought": true
         },
         {
             "title": "Twisted Lies",
@@ -1856,7 +1857,8 @@
             "month": 4,
             "year": 2023,
             "cover": "https://img.wook.pt/images/lugar-feliz-emily-henry/MXwyODQyMjUxMXwyNDc5MDQ3NnwxNjgxMzE1MzU5MDAwfHdlYnA=/550x",
-            "author" : "Emily Henry"
+            "author" : "Emily Henry",
+            "bought": true
         },
         {
             "title": "Magnolia Parks",
