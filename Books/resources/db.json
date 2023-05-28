@@ -2010,7 +2010,8 @@
             "month": 5,
             "year": 2023,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/04/Talvez-um-Dia-WEB-1.jpg",
-            "author" : "Colleen Hoover"
+            "author" : "Colleen Hoover",
+            "bought": true
         },
         {
             "title": "Lore Olympus Vol: 1 Parte 2",
