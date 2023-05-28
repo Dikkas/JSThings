@@ -2128,6 +2128,42 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677853659i/62094190.jpg",
             "author" : "Georgie Tilney"
+        },
+        {
+            "title": "Aristotles e Dante mergulham nas águas do mundo",
+            "editora": "Editorial Presença",
+            "month": 4,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/aristoteles-e-dante-mergulham-nas-aguas-do-mundo-benjamin-alire-saenz/MXwyODQyMzczOXwyNDc5MjAwMHwxNjgwMDE0NzgwMDAwfHdlYnA=/550x",
+            "author" : "Benjamin Alire Sáenz"
+        },
+        {
+            "title": "Fourth Wing",
+            "editora": "Planeta",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666994927i/61431922.jpg",
+            "author" : "Rebecca Yarros"
+        },
+        {
+            "title": "The City of Brass",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505038310i/36215220.jpg",
+            "author" : "S.A. Chakraborty"
+        },
+        {
+            "title": "The Kingdom of Copper",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533921102i/39988431.jpg",
+            "author" : "S.A. Chakraborty"
+        },
+        {
+            "title": "The Empire of Gold",
+            "editora": "Kathartika",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562854557i/46033842.jpg",
+            "author" : "S.A. Chakraborty"
         }
     ]
 }
