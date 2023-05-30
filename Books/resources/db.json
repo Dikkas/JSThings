@@ -1072,6 +1072,8 @@
         {
             "title": "This Woven Kingdom",
             "editora": "TopSeller",
+            "day": 12,
+            "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634235371i/56554281.jpg",
             "author" : "Tahereh Mafi"
@@ -1673,7 +1675,7 @@
         {
             "title": "Astrid Parker Doesn't Fail",
             "editora": "Saida de Emergencia",
-            "month": 8,
+            "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg",
             "author" : "Ashley Herring Blake"
@@ -1714,6 +1716,7 @@
         {
             "title": "Mika in Real Life",
             "editora": "Penguin Livros",
+            "day": 12,
             "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659449108i/59430548.jpg",
@@ -2182,6 +2185,14 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/babel-rf-kuang/MXwyNTgxMzk2MnwyMjA3NTc2NHwxNjgyMTExODA1MDAwfHdlYnA=/550x",
             "author" : "R. F. Kuang"
+        },
+        {
+            "title": "Ricochet",
+            "editora": "Saida de Emergencia",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601268176i/55475465.jpg",
+            "author" : "Krista Ritchie & Becca Ritchie"
         }
     ]
 }
