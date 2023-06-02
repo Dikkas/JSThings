@@ -379,11 +379,12 @@
             "bought": true
         },
         {
-            "title": "Frankie & Bug",
+            "title": "Tudo o que descobrimos Naquele verão",
             "editora": "Editorial Presença",
+            "day": 21,
             "month": 6,
             "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632933446l/56651467.jpg",
+            "cover": "https://img.wook.pt/images/tudo-o-que-descobrimos-naquele-verao-gayle-forman/MXwyODYzMTk5NHwyNTAxNjI5OXwxNjg1NTIyNTgzMDAwfHdlYnA=/550x",
             "author" : "Gayle Forman"
         },
         {
@@ -1019,7 +1020,8 @@
         {
             "title": "Lightlark",
             "editora": "Editoral Presença",
-            "month": 9,
+            "day": 21,
+            "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/lightlark-alex-aster/MXwyNjc4NDIxNHwyMzA3MDUxM3wxNjU1MTIzMjYyMDAw/500x",
             "author" : "Alex Aster"
@@ -2193,6 +2195,22 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601268176i/55475465.jpg",
             "author" : "Krista Ritchie & Becca Ritchie"
+        },
+        {
+            "title": "Termos e Condições",
+            "editora": "Editorial Presença",
+            "day": 21,
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/termos-e-condicoes-lauren-asher/MXwyODYzMTk5N3wyNTAxNjMwMnwxNjg1NTIyNTg0MDAwfHdlYnA=/550x",
+            "author" : "Laura Asher"
+        },
+        {
+            "title": "Das Cinzas",
+            "editora": "Clube do Autor",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615651539i/52787348.jpg",
+            "author" : "Aly Martinez"
         }
     ]
 }
