@@ -1581,6 +1581,7 @@
         {
             "title": "People we meet on Vacation",
             "editora": "Leya",
+            "month": 8,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg",
             "author" : "Emily Henry"
@@ -2214,6 +2215,53 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615651539i/52787348.jpg",
             "author" : "Aly Martinez"
+        },
+        {
+            "title": "Serpente e Pomba",
+            "editora": "Leya",
+            "month": 7,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549476128i/40024139.jpg",
+            "author" : "Shelby Mahurin"
+        },
+        {
+            "title": "Um de nós está de Volta",
+            "editora": "Gailivro",
+            "day": 24,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670438734i/57932307.jpg",
+            "author" : "Karen M. McManaus"
+        },
+        {
+            "title": "Weather Girl",
+            "editora": "Leya",
+            "month": 10,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620227924i/53369734.jpg",
+            "author" : "Rachel Lynn Solomon"
+        },
+        {
+            "title": "Immortal Longings",
+            "editora": "Leya",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681921623i/62919356.jpg",
+            "author" : "Chloe Gong"
+        },
+        {
+            "title": "Death of a Bookseller",
+            "editora": "Gailivro",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660942301i/61432855.jpg",
+            "author" : "Alice Slater"
+        },
+        {
+            "title": "Cursed Crowns",
+            "editora": "Gailivro",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665764623i/61980309.jpg",
+            "author" : "Catherine Doyle & Katherine Webber"
         }
     ]
 }
