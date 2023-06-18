@@ -1824,10 +1824,12 @@
             "bought": true
         },
         {
-            "title": "Better than the movies",
-            "editora": "Marcador",            
+            "title": "Isto não acontece nos filmes",
+            "editora": "Marcador",   
+            "day": 5,
+            "month": 7,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618150545i/55710822.jpg",
+            "cover": "https://img.wook.pt/images/isto-nao-acontece-nos-filmes-lynn-painter/MXwyODY2MDM3NHwyNTA0NTQ2MnwxNjg2NTgyMzQwMDAwfHdlYnA=/550x",
             "author" : "Lynn Painter"
         },
         {
@@ -1958,6 +1960,7 @@
         {
             "title": "One True Loves",
             "editora": "Topseller",
+            "month": 7,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643705050i/60282871.jpg",
             "author" : "Taylor Jenkins Reid"
@@ -2262,6 +2265,38 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665764623i/61980309.jpg",
             "author" : "Catherine Doyle & Katherine Webber"
+        },
+        {
+            "title": "Donde Todo Brilla",
+            "editora": "Editorial Presença",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/donde-todo-brilla-alice-kellen/MXwyODM4OTUwOHwyNDc1NDM0MXwxNjc4NzE1MjQ5MDAwfHdlYnA=/550x",
+            "author" : "Alice Kellen"
+        },
+        {
+            "title": "O Verão em que Quebrámos Todas as Regras",
+            "editora": "Editorial Presença",
+            "day": 5,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/o-verao-em-que-quebramos-todas-as-regras-k-l-walther/MXwyODY2MDM3MnwyNTA0NTQ2MHwxNjg2NTgyMzQwMDAwfHdlYnA=/550x",
+            "author" : "K. L. Walther"
+        },
+        {
+            "title": "Conto de Fadas",
+            "editora": "Bertrand",
+            "day": 6,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/conto-de-fadas-stephen-king/MXwyODQ4NzE5MHwyNDg1OTAzNnwxNjg2MzA0NzY3MDAwfHdlYnA=/550x",
+            "author" : "Stephen King"
+        },
+        {
+            "title": "The True Love Experiment",
+            "editora": "Topseller",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/the-true-love-experiment-christina-lauren/MXwyODMyMTg4OXwyNDY4MjgzM3wxNjc4MjM3NjMzMDAwfHdlYnA=/550x",
+            "author" : "Christina Lauren"
         }
     ]
 }
