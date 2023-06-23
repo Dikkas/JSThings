@@ -1960,9 +1960,10 @@
         {
             "title": "One True Loves",
             "editora": "Topseller",
+            "day": 10,
             "month": 7,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643705050i/60282871.jpg",
+            "cover": "https://img.wook.pt/images/amores-verdadeiros-taylor-jenkins-reid/MXwyODg1NTgwOHwyNTI0NDI3M3wxNjg3MzM3OTI3MDAwfHdlYnA=/550x",
             "author" : "Taylor Jenkins Reid"
         },
         {
@@ -2297,6 +2298,20 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/the-true-love-experiment-christina-lauren/MXwyODMyMTg4OXwyNDY4MjgzM3wxNjc4MjM3NjMzMDAwfHdlYnA=/550x",
             "author" : "Christina Lauren"
+        },
+        {
+            "title": "When in rome",
+            "editora": "Cultura",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649953470i/60092579.jpg",
+            "author" : "Sarah Adams"
+        },
+        {
+            "title": "The Prisoners' Throne",
+            "editora": "Penguin",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686847088i/61250159.jpg",
+            "author" : "Holly Black"
         }
     ]
 }
