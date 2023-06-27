@@ -2223,6 +2223,7 @@
         {
             "title": "Serpente e Pomba",
             "editora": "Leya",
+            "day": 4,
             "month": 7,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549476128i/40024139.jpg",
@@ -2231,7 +2232,7 @@
         {
             "title": "Um de nós está de Volta",
             "editora": "Gailivro",
-            "day": 24,
+            "day": 25,
             "month": 7,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670438734i/57932307.jpg",
@@ -2312,6 +2313,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686847088i/61250159.jpg",
             "author" : "Holly Black"
+        },
+        {
+            "title": "Dente por Dente",
+            "editora": "Topseller",
+            "day": 10,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381956106i/18683278.jpg",
+            "author" : "Jenny Han"
         }
     ]
 }
