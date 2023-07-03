@@ -709,8 +709,10 @@
             "author" : "Holly Bourne"
         },
         {
-            "title": "What's a girl gotta do?",
-            "editora": "Topseller",
+            "title": "O que posso eu fazer?",
+            "editora": "Topseller",            
+            "day": 24,
+            "month": 7,
             "year": 2023,
             "cover": "https://img.wook.pt/images/whats-a-girl-gotta-do-holly-bourne/MXwxNzg5NDM2NnwxMzUzNjM3NXwxNjEzNzI2NDA1MDAw/500x",
             "author" : "Holly Bourne"
@@ -1958,7 +1960,7 @@
             "author" : "Jennifer Saint"
         },
         {
-            "title": "One True Loves",
+            "title": "Amores Verdadeiros",
             "editora": "Topseller",
             "day": 10,
             "month": 7,
@@ -2322,6 +2324,40 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381956106i/18683278.jpg",
             "author" : "Jenny Han"
+        },
+        {
+            "title": "Heartstopper 5",
+            "editora": "Cultura",
+            "day": 9,
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686282866i/175742413.jpg",
+            "author" : "Alice Oseman"
+        },
+        {
+            "title": "Quatro Tias e um Casamento",
+            "editora": "Clube do Autor",
+            "day": 12,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/quatro-tias-e-um-casamento-jesse-q-sutanto/MXwyOTA5MTUyN3wyNTQ3NTk3OXwxNjg4MTM4MTIzMDAwfHdlYnA=/550x",
+            "author" : "Jesse Q. Sutanto"
+        },
+        {
+            "title": "Eu e tu para sempre",
+            "editora": "Planeta",
+            "day": 11,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/eu-e-tu-para-sempre-kate-eberlen/MXwyODk0MzE2NXwyNTMzMzI0N3wxNjg3NDIxODYzMDAwfHdlYnA=/550x",
+            "author" : "Kate Eberlen"
+        },
+        {
+            "title": "Maybe Now",
+            "editora": "Topseller",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/maybe-now-colleen-hoover/MXwyNzAyMDE5MnwyMzMyMDYwNXwxNjg1OTYxODIwMDAwfHdlYnA=/550x",
+            "author" : "Colleen Hoover"
         }
     ]
 }
