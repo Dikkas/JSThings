@@ -1832,7 +1832,8 @@
             "month": 7,
             "year": 2023,
             "cover": "https://img.wook.pt/images/isto-nao-acontece-nos-filmes-lynn-painter/MXwyODY2MDM3NHwyNTA0NTQ2MnwxNjg2NTgyMzQwMDAwfHdlYnA=/550x",
-            "author" : "Lynn Painter"
+            "author" : "Lynn Painter",
+            "bought": true
         },
         {
             "title": "if he had been with me",
@@ -2124,7 +2125,8 @@
             "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-jogo-perfeito-holly-jackson/MXwyODU5NDU3NnwyNDk3NDk2MnwxNjg0MjQ3MTY1MDAwfHdlYnA=/550x",
-            "author" : "Holly Jackson"
+            "author" : "Holly Jackson",
+            "bought": true
         },
         {
             "title": "A Medida",
@@ -2196,7 +2198,8 @@
             "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/babel-rf-kuang/MXwyNTgxMzk2MnwyMjA3NTc2NHwxNjgyMTExODA1MDAwfHdlYnA=/550x",
-            "author" : "R. F. Kuang"
+            "author" : "R. F. Kuang",
+            "bought": true
         },
         {
             "title": "Ricochet",
