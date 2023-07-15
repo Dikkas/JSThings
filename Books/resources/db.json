@@ -2098,7 +2098,8 @@
             "month": 5,
             "year": 2023,
             "cover": "https://img.wook.pt/images/tempestade-neal-shusterman/MXwyODUzMjU1MnwyNDkwOTg1MHwxNjgzMDM2MDc5MDAwfHdlYnA=/550x",
-            "author" : "Neal Shusterman"
+            "author" : "Neal Shusterman",
+            "bought": true
         },
         {
             "title": "Nas Redes do Amor",
