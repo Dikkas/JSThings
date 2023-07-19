@@ -233,7 +233,9 @@
         },
         {
             "title": "Electric Idol",
-            "editora": "",
+            "editora": "Marcador",
+            "day": 2,
+            "month": 8,
             "year": 2023,
             "cover": "https://kbimages1-a.akamaihd.net/365f0962-2fba-47f1-89e6-cf634b2c9e25/1200/1200/False/electric-idol.jpg",
             "author" : "Katee Robert"
@@ -409,6 +411,8 @@
         {
             "title": "The Final Gambit",
             "editora": "Editorial Presença",
+            "day": 2,
+            "month": 8,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634068432l/59233594.jpg",
             "author" : "Jennifer Lynn Barnes"
@@ -542,7 +546,7 @@
             "day": 4,
             "month": 5,
             "year": 2022,
-            "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/products/image-1_f5cf0146-663d-47c9-8efb-2810f4c8daf2_1024x1024.jpg?v=1649802616",
+            "cover": "https://img.wook.pt/images/culpa-minha-mercedes-ron/MXwyNjg1MzMyNXwyMzE0NDY1N3wxNjg0NzYyMjQ5MDAwfHdlYnA=/550x",
             "author" : "Mercedes Ron"
         },
         {
@@ -557,7 +561,6 @@
         {
             "title": "Culpa Nuestra",
             "editora": "Editorial Presença",
-            "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg",
             "author" : "Mercedes Ron"
@@ -945,8 +948,10 @@
         {
             "title": "A Probabilidade Estatistica do Amor à Primeira Vista",
             "editora": "Cultura Editora",
+            "day": 10,
+            "month": 8,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/a-probabilidade-estatistica-do-amor-a-primeira-vista-jennifer-e-smith/MXwxNDEyMjc3M3w5Njg3MTU1fDE0Mjk3OTU3NDUwMDA=/500x",
+            "cover": "https://img.wook.pt/images/a-probabilidade-estatistica-do-amor-a-primeira-vista-jennifer-e-smith/MXwyOTE3NDg3OXwyNTU1Njc0MnwxNjg5Njg5NTk3MDAwfHdlYnA=/550x",
             "author" : "Jennifer E. Smith"
         },
         {
@@ -1075,12 +1080,12 @@
             "author" : "Adam Silvera"
         },
         {
-            "title": "This Woven Kingdom",
+            "title": "Um Reino de Intrigas",
             "editora": "TopSeller",
             "day": 12,
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634235371i/56554281.jpg",
+            "cover": "https://img.wook.pt/images/um-reino-de-intrigas-tahereh-mafi/MXwyODYzMjM2OXwyNTAxNjcxNHwxNjg1NTM2Njc2MDAwfHdlYnA=/550x",
             "author" : "Tahereh Mafi"
         },
         {
@@ -1154,11 +1159,12 @@
             "author" : "Casey McQuiston"
         },
         {
-            "title": "Book of Night",
-            "editora": "Penguin",
-            "month": 6,
+            "title": "Livro da Noite",
+            "editora": "Topseller",
+            "day": 21,
+            "month": 7,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639163872i/58293924.jpg",
+            "cover": "https://img.wook.pt/images/livro-da-noite-holly-black/MXwyODY2NTUzMnwyNTA1MjA1MXwxNjg2NzQ2Mzc1MDAwfHdlYnA=/550x",
             "author" : "Holly Black"
         },
         {
@@ -1181,8 +1187,7 @@
         {
             "title": "Covet",
             "editora": "Leya",
-            "month": 9,
-            "year": 2023,
+            "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg",
             "author" : "Tracy Wolff"
         },
@@ -1617,7 +1622,7 @@
         },
         {
             "title": "Os Nossos Fins Violentos",
-            "editora": "Desrotina",
+            "editora": "Quinta Essência",
             "day": 14,
             "month": 2,
             "year": 2023,
@@ -1720,12 +1725,12 @@
             "author" : "Emiko Jean"
         },
         {
-            "title": "Mika in Real Life",
+            "title": "Mika na vida real",
             "editora": "Penguin Livros",
             "day": 12,
             "month": 6,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659449108i/59430548.jpg",
+            "cover": "https://img.wook.pt/images/mika-na-vida-real-emiko-jean/MXwyODYzMjM3MHwyNTAxNjcxNXwxNjg1NTM2Njc2MDAwfHdlYnA=/550x",
             "author" : "Emiko Jean"
         },
         {
@@ -1744,12 +1749,12 @@
             "author" : "Xiran Jay Zhao"
         },
         {
-            "title": "Love Theoretically",
+            "title": "A Teoria do Amor",
             "editora": "Desrotina",
             "day": 29,
             "month": 6,
             "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/189c0c0a-9eb3-4d44-896d-a2eefb96e3d6/353/569/90/False/love-theoretically.jpg",
+            "cover": "https://img.wook.pt/images/a-teoria-do-amor-ali-hazelwood/MXwyODYzNzE4OHwyNTAyMTE1NHwxNjg1OTYwNDU2MDAwfHdlYnA=/550x",
             "author" : "Ali Hazelwood"
         },
         {
@@ -1780,7 +1785,6 @@
         {
             "title": "The Goal",
             "editora": "TopSeleer",
-            "month": 6,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475180973i/32315591.jpg",
             "author" : "Elle Kennedy"
@@ -2111,12 +2115,12 @@
             "author" : "Tessa Bailey"
         },
         {
-            "title": "Addicted to You",
+            "title": "Addicted to You - És o meu Vicio",
             "editora": "Saida de Emergencia",
-            "day":20,
-            "month": 6,
+            "day": 20,
+            "month": 7,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/addicted-to-you-becca-ritchie/MXwyNzAxOTAwNHwyMzMxOTQxOHwxNjgzNzUxODUxMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/addicted-to-you-es-o-meu-vicio-krista-ritchie/MXwyOTA5NDI0OHwyNTQ3ODAzMnwxNjg5MzUzMDM3MDAwfHdlYnA=/550x",
             "author" : "Krista Ritchie & Becca Ritchie"
         },
         {
@@ -2232,7 +2236,7 @@
             "day": 4,
             "month": 7,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549476128i/40024139.jpg",
+            "cover": "https://img.wook.pt/images/serpente-e-pomba-shelby-mahurin/MXwyOTA5NzAxNXwyNTQ4MDE1NXwxNjg4MDI1MDU3MDAwfHdlYnA=/550x",
             "author" : "Shelby Mahurin"
         },
         {
@@ -2369,6 +2373,40 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667522795i/63120226.jpg",
             "author" : "Colleen Hoover"
+        },
+        {
+            "title": "O Segredo da Criada",
+            "editora": "Alma de Livros",
+            "day": 7,
+            "month": 9,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/o-segredo-da-criada-freida-mcfadden/MXwyOTE3NDkwM3wyNTU1Njc2N3wxNjg5NjkwMTg3MDAwfHdlYnA=/550x",
+            "author" : "Freoda McFaden"
+        },
+        {
+            "title": "Survive the Night",
+            "editora": "Guerra e Paz",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/survive-the-night-riley-sager/MXwyNjE0NzMxOHwyMjQyMTU3OXwxNjg5NjY0NDc4MDAwfHdlYnA=/550x",
+            "author" : "Riley Sager"
+        },
+        {
+            "title": "Quero Apenas o Melhor Para ti",
+            "editora": "Desrotina",
+            "day": 20,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/quero-apenas-o-melhor-para-ti-mason-deaver/MXwyOTExMDg2OXwyNTQ5MDkxM3wxNjg4Mzc5MTgyMDAwfHdlYnA=/550x",
+            "author" : "Tessa Bailey"
+        },
+        {
+            "title": "Solitário",
+            "editora": "Desrotina",
+            "day": 20,
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/solitario-alice-oseman/MXwyODg3NTQyM3wyNTI2NTc1NHwxNjg3NDQ1NTI3MDAwfHdlYnA=/550x",
+            "author" : "Alice Oseman"
         }
     ]
 }
