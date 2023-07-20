@@ -584,15 +584,6 @@
             "author" : "Mona Kasten"
         },
         {
-            "title": "A Lista do Sr. Malcolm",
-            "editora": "Planeta",
-            "day": 3,
-            "month": 5,
-            "year": 2022,
-            "cover": "https://www.planetadelivros.pt/usuaris/libros/fotos/354/original/portada_a-lista-do-sr-malcolm_suzanne-allain_202204071758.jpg",
-            "author" : "Suzanne Allain"
-        },
-        {
             "title": "bromance: o clube de leitura secreto",
             "editora": "Leya",
             "day": 11,
@@ -600,15 +591,6 @@
             "year": 2022,
             "cover": "https://img.wook.pt/images/bromance-lyssa-kay-adams/MXwyNzQ2OTcyMnwyMzg0MTI0NnwxNjY0NDQ4MjgxMDAwfHdlYnA=/550x",
             "author" : "Lyssa Kay Adams"
-        },
-        {
-            "title": "O Convite",
-            "editora": "Topseller",
-            "day": 30,
-            "month": 5,
-            "year": 2022,
-            "cover": "https://img.wook.pt/images/o-convite-vi-keeland/MXwyNzAzMjI4MHwyMzMzMzc2OXwxNjUyODc3OTAzMDAwfHdlYnA=/550x",
-            "author" : "Vi Keeland"
         },
         {
             "title": "Procura-se Namorado",
@@ -1139,15 +1121,6 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/coracao-do-guerreiro-do-sol-sue-lynn-tan/MXwyNzQzMzMzOHwyMzgwMzczMHwxNjc3MDU3OTQzMDAwfHdlYnA=/550x",
             "author" : "Sue Lynn Tan"
-        },
-        {
-            "title": "Quebra-Corações",
-            "editora": "TopSeller",
-            "day": 20,
-            "month": 2,
-            "year": 2023,
-            "cover": "https://img.wook.pt/images/quebra-coracoes-sarah-maclean/MXwyODE1NTQ5NXwyNDU0Njk3NXwxNjc1ODU2Mjc5MDAwfHdlYnA=/550x",
-            "author" : "Sarah MacLean"
         },
         {
             "title": "Beijei a Shara Wheeler",
@@ -2345,15 +2318,6 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/quatro-tias-e-um-casamento-jesse-q-sutanto/MXwyOTA5MTUyN3wyNTQ3NTk3OXwxNjg4MTM4MTIzMDAwfHdlYnA=/550x",
             "author" : "Jesse Q. Sutanto"
-        },
-        {
-            "title": "Eu e tu para sempre",
-            "editora": "Planeta",
-            "day": 11,
-            "month": 7,
-            "year": 2023,
-            "cover": "https://img.wook.pt/images/eu-e-tu-para-sempre-kate-eberlen/MXwyODk0MzE2NXwyNTMzMzI0N3wxNjg3NDIxODYzMDAwfHdlYnA=/550x",
-            "author" : "Kate Eberlen"
         },
         {
             "title": "Maybe Now",
