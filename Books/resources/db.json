@@ -2421,6 +2421,14 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676294168i/62335396.jpg",
             "author" : "Carissa Broadbent"
+        },
+        {
+            "title": "A Criada",
+            "editora": "Alma de Livros",
+            "month": 6,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/a-criada-freida-mcfadden/MXwyODUzNTM0NXwyNDkxNTQzOXwxNjgzNTM2MDk2MDAwfHdlYnA=/550x",
+            "author" : "Freoda McFaden"
         }
     ]
 }
