@@ -1901,6 +1901,7 @@
         {
             "title": "Immortal Longings",
             "editora": "Leya",
+            "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675281549i/95561014.jpg",
             "author" : "Chloe Gong"
@@ -2257,14 +2258,6 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620227924i/53369734.jpg",
             "author" : "Rachel Lynn Solomon"
-        },
-        {
-            "title": "Immortal Longings",
-            "editora": "Leya",
-            "month": 11,
-            "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681921623i/62919356.jpg",
-            "author" : "Chloe Gong"
         },
         {
             "title": "Death of a Bookseller",
