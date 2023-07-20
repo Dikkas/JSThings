@@ -2407,6 +2407,20 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/solitario-alice-oseman/MXwyODg3NTQyM3wyNTI2NTc1NHwxNjg3NDQ1NTI3MDAwfHdlYnA=/550x",
             "author" : "Alice Oseman"
+        },
+        {
+            "title": "The Serpent and the wings of night",
+            "editora": "Clube do Autor",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648567430i/60714999.jpg",
+            "author" : "Carissa Broadbent"
+        },
+        {
+            "title": "The Ashes and the Star-Cursed King",
+            "editora": "Clube do Autor",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676294168i/62335396.jpg",
+            "author" : "Carissa Broadbent"
         }
     ]
 }
