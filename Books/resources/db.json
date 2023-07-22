@@ -2388,6 +2388,15 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-criada-freida-mcfadden/MXwyODUzNTM0NXwyNDkxNTQzOXwxNjgzNTM2MDk2MDAwfHdlYnA=/550x",
             "author" : "Freoda McFaden"
+        },
+        {
+            "title": "Apenas Amigos",
+            "editora": "Desrotina",
+            "day": 24,
+            "month": 8,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553782196i/41945163.jpg",
+            "author" : "Abby Jimenez"
         }
     ]
 }
