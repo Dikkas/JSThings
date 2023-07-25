@@ -1559,8 +1559,9 @@
             "author" : "Jennette McCurdy"
         },
         {
-            "title": "People we meet on Vacation",
+            "title": "Pessoas que conhecemos nas férias",
             "editora": "Leya",
+            "day": 22,
             "month": 8,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg",
@@ -1857,6 +1858,7 @@
         {
             "title": "Magnolia Parks",
             "editora": "ASA Editora",   
+            "day": 22,
             "month": 8,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625926657i/58527403.jpg",
@@ -2397,6 +2399,27 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553782196i/41945163.jpg",
             "author" : "Abby Jimenez"
+        },
+        {
+            "title": "Renegades",
+            "editora": "Kathartika",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494896884i/28421168.jpg",
+            "author" : "Marissa Meyer"
+        },
+        {
+            "title": "Archenemies",
+            "editora": "Kathartika",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526668679i/35425827.jpg",
+            "author" : "Marissa Meyer"
+        },
+        {
+            "title": "Supernova",
+            "editora": "Kathartika",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557159835i/42771754.jpg",
+            "author" : "Marissa Meyer"
         }
     ]
 }
