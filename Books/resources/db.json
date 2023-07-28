@@ -2436,6 +2436,15 @@
             "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639934603i/59050133.jpg",
             "author" : "H.D. Carlton"
+        },
+        {
+            "title": "Marca de Sangue",
+            "editora": "Desrotina",
+            "day": 24,
+            "month": 8,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665593512i/59365195.jpg",
+            "author" : "Tracy Deonn"
         }
     ]
 }
