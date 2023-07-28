@@ -494,8 +494,10 @@
             "author" : "Beth O'Leary"
         },
         {
-            "title": "Something Wilder",
+            "title": "Um lado mais selvagem",
             "editora": "Penguin",
+            "day": 28,
+            "month": 8,
             "year": 2023,
             "cover": "https://img.wook.pt/images/something-wilder-christina-lauren/MXwyNTg5MTMxMHwyMjE2MzkxN3wxNjQ2MDA2NDAwMDAw/500x",
             "author" : "Christina Lauren"
@@ -2420,6 +2422,20 @@
             "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557159835i/42771754.jpg",
             "author" : "Marissa Meyer"
+        },
+        {
+            "title": "Haunting Adeline",
+            "editora": "Infinito Particular",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628900532i/58763686.jpg",
+            "author" : "H.D. Carlton"
+        },
+        {
+            "title": "Hunting Adeline",
+            "editora": "Infinito Particular",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639934603i/59050133.jpg",
+            "author" : "H.D. Carlton"
         }
     ]
 }
