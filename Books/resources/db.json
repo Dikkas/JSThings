@@ -1662,6 +1662,7 @@
         {
             "title": "Astrid Parker Doesn't Fail",
             "editora": "Saida de Emergencia",
+            "day": 7,
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646147245i/58800142.jpg",
@@ -2454,6 +2455,13 @@
             "year": 2023,
             "cover": "https://img.wook.pt/images/os-claustros-katy-hays/MXwyNzIzNDUxMnwyMzU2NzkwMHwxNjg4NjU3MjM5MDAwfHdlYnA=/550x",
             "author" : "Katy Hays"
+        },
+        {
+            "title": "Throne of the Fallen",
+            "editora": "Bertrand",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673510962i/73071451.jpg",
+            "author" : "Kerri Maniscalco"
         }
     ]
 }
