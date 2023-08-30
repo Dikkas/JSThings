@@ -2473,7 +2473,7 @@
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633097753i/40132775.jpg",
-            "author" : "Sarah J. Maas",
+            "author" : "Sarah J. Maas"
         },
         {
             "title": "Percy Jackson e o Cálice dos deuses",
@@ -2482,7 +2482,7 @@
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677259920i/63035432.jpg",
-            "author" : "Rick Riordan",
+            "author" : "Rick Riordan"
         }
     ]
 }
