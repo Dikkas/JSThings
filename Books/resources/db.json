@@ -452,7 +452,7 @@
             "author" : "Stephanie Garber"
         },
         {
-            "title": "Cidade da Lua Crescente",
+            "title": "Cidade da Lua Crescente Livro 1",
             "editora": "Marcador",
             "day": 3,
             "month": 11,
@@ -1203,8 +1203,10 @@
             "author" : "Celeste Ng"
         },
         {
-            "title": "Five Survive",
+            "title": "e só ficaram 5",
             "editora": "Editorial Presença",
+            "day": 20,
+            "month": 9,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659677880l/60788826.jpg",
             "author" : "Holly Jackson"
@@ -2232,6 +2234,7 @@
         {
             "title": "Weather Girl",
             "editora": "Leya",
+            "day": 26,
             "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620227924i/53369734.jpg",
@@ -2462,6 +2465,24 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673510962i/73071451.jpg",
             "author" : "Kerri Maniscalco"
+        },
+        {
+            "title": "Cidade da Lua Crescente Livro 2",
+            "editora": "Marcador",
+            "day": 20,
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633097753i/40132775.jpg",
+            "author" : "Sarah J. Maas",
+        },
+        {
+            "title": "Percy Jackson e o Cálice dos deuses",
+            "editora": "Casa de Letras",
+            "day": 26,
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677259920i/63035432.jpg",
+            "author" : "Rick Riordan",
         }
     ]
 }
