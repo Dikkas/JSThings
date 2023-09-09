@@ -415,7 +415,8 @@
             "month": 8,
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-jogada-final-jennifer-lynn-barnes/MXwyOTE0OTQ5NXwyNTUyODkxOHwxNjg5MDg5MTU5MDAwfHdlYnA=/550x",
-            "author" : "Jennifer Lynn Barnes"
+            "author" : "Jennifer Lynn Barnes",
+            "bought": true
         },
         {
             "title": "Go Tell the Bees That I am Gone",
@@ -1689,6 +1690,7 @@
         {
             "title": "Meet me at the lake",
             "editora": "Penguin Livros",
+            "day": 25,
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664246880i/61797464.jpg",
@@ -2483,6 +2485,14 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677259920i/63035432.jpg",
             "author" : "Rick Riordan"
+        },
+        {
+            "title": "Kingdom of the Feared",
+            "editora": "Bertrand",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644386147i/58470171.jpg",
+            "author" : "Kerri Maniscalco",
         }
     ]
 }
