@@ -861,7 +861,8 @@
         {
             "title": "Gleam",
             "editora": "Saida de Emergencia",
-            "month": 8,
+            "day": 4,
+            "month": 10,
             "year": 2023,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621972301l/58159314._SY475_.jpg",
             "author" : "Raven Kennedy"
@@ -1040,7 +1041,9 @@
         },
         {
             "title": "King of Wrath",
-            "editora": "",
+            "editora": "Clube do Autor",
+            "day": 11,
+            "month": 10,
             "year": 2023,
             "cover": "https://i0.wp.com/www.escapistbookblog.com/wp-content/uploads/2022/09/King-of-Wrath.jpg?w=200&ssl=1",
             "author" : "Ana Huang"
@@ -2339,7 +2342,8 @@
         {
             "title": "Never Never",
             "editora": "TopSeller",
-            "year": 2024,
+            "month": 11,
+            "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667522795i/63120226.jpg",
             "author" : "Colleen Hoover"
         },
@@ -2493,6 +2497,15 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644386147i/58470171.jpg",
             "author" : "Kerri Maniscalco"
+        },
+        {
+            "title": "Daisy Haites",
+            "editora": "Bertrand",
+            "day": 12,
+            "month": 9,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637996109i/59708060.jpg",
+            "author" : "Jessa Hastings"
         }
     ]
 }
