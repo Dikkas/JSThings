@@ -564,6 +564,8 @@
         {
             "title": "Culpa Nuestra",
             "editora": "Editorial Presença",
+            "day": 4,
+            "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/81+QktiSxXL.jpg",
             "author" : "Mercedes Ron"
@@ -1287,8 +1289,10 @@
             "bought": true
         },
         {
-            "title": "Things we Hide from Light",
+            "title": "Coisas que escondemos dos outros",
             "editora": "Marcador",
+            "day": 4,
+            "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665095834i/60864116.jpg",
             "author" : "Lucy Score"
@@ -2506,6 +2510,15 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637996109i/59708060.jpg",
             "author" : "Jessa Hastings"
+        },
+        {
+            "title": "Um milhão de Beijos",
+            "editora": "Marcador",
+            "day": 4,
+            "month": 10,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644500865i/60306208.jpg",
+            "author" : "Monica Murphy"
         }
     ]
 }
