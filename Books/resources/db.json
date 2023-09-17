@@ -2519,6 +2519,40 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644500865i/60306208.jpg",
             "author" : "Monica Murphy"
+        },
+        {
+            "title": "Final Offer",
+            "editora": "Editorial Presença",
+            "day": 15,
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675342454i/61681786.jpg",
+            "author" : "Lauren Asher"
+        },
+        {
+            "title": "The Long Game",
+            "editora": "Editorial Presença",
+            "day": 15,
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687105546i/101144869.jpg",
+            "author" : "Elena Armas"
+        },
+        {
+            "title": "A Court of Silver Flames",
+            "editora": "Editorial Presença",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602570691i/53138095.jpg",
+            "author" : "Sarah J. Maas"
+        },
+        {
+            "title": "A Touch of Darkness",
+            "editora": "Editorial Presença",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611948296i/55215339.jpg",
+            "author" : "Scarlett St. Clair"
         }
     ]
 }
