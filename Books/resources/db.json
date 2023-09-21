@@ -1330,8 +1330,10 @@
             "author" : "Erin Sterling"
         },
         {
-            "title": "The Kiss Curse",
+            "title": "Maldição do Beijo",
             "editora": "Zero A Oito Editora",
+            "day": 10,
+            "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647103771i/59949720.jpg",
             "author" : "Erin Sterling"
@@ -2553,15 +2555,6 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611948296i/55215339.jpg",
             "author" : "Scarlett St. Clair"
-        },
-        {
-            "title": "A Maldição do Beijo",
-            "editora": "Zero A Oito Editora",
-            "day": 10,
-            "month": 10,
-            "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647103771i/59949720.jpg",
-            "author" : "Erin Sterling"
         }
     ]
 }
