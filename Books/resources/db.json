@@ -1511,13 +1511,6 @@
             "author" : "Elle Kennedy"
         },
         {
-            "title": "Fire with Fire",
-            "editora": "Topseller",
-            "year": 2023,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362356800l/10662420.jpg",
-            "author" : "Jenny Han"
-        },
-        {
             "title": "Nora foge ao guião",
             "editora": "Topseller",
             "day":  20,
@@ -2298,9 +2291,10 @@
             "author" : "Christina Lauren"
         },
         {
-            "title": "When in rome",
+            "title": "Aconteceu em Roma",
             "editora": "Cultura",
-            "year": 2024,
+            "month": 8,
+            "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649953470i/60092579.jpg",
             "author" : "Sarah Adams"
         },
