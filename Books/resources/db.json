@@ -1762,6 +1762,7 @@
         {
             "title": "The Goal",
             "editora": "TopSeleer",
+            "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475180973i/32315591.jpg",
             "author" : "Elle Kennedy"
@@ -2543,6 +2544,23 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611948296i/55215339.jpg",
             "author" : "Scarlett St. Clair"
+        },
+        {
+            "title": "Cinder",
+            "editora": "Kathartika",
+            "day": 9,
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507557775i/36381037.jpg",
+            "author" : "Marissa Meyer"
+        },
+        {
+            "title": "Cemetery Boys",
+            "editora": "Desrotina",
+            "month": 10,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594059624i/52339313.jpg",
+            "author" : "Aiden Thomas"
         }
     ]
 }
