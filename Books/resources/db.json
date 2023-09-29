@@ -474,7 +474,7 @@
         {
             "title": "Tal Vez tu",
             "editora": "Editorial Presença",
-            "month": 9,
+            "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg",
             "author" : "Alice Kellen"
@@ -1713,7 +1713,7 @@
         {
             "title": "Heavenly Tyrant",
             "editora": "Saida de Emergencia",
-            "month": 9,
+            "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666660910i/52934483.jpg",
             "author" : "Xiran Jay Zhao"
@@ -1936,6 +1936,8 @@
         {
             "title": "Atalanta",
             "editora": "Minotauro",
+            "day": 26,
+            "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675082381i/61884838.jpg",
             "author" : "Jennifer Saint"
@@ -2599,6 +2601,13 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599070787i/55214376.jpg",
             "author" : "Lize Meddings"
+        },
+        {
+            "title": "The Crown of Gilded Bones",
+            "editora": "Marcador",
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606759553i/55240343.jpg",
+            "author" : "Jennifer L. Armentrout"
         }
     ]
 }
