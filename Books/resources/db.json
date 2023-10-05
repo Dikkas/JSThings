@@ -2615,6 +2615,28 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651354353i/60909831.jpg",
             "author" : "Liz Tomforde"
+        },
+        {
+            "title": "Love Redesigned",
+            "editora": "Marcador",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682094827i/90382259.jpg",
+            "author" : "Lauren Asher"
+        },
+        {
+            "title": "Say you Swear",
+            "editora": "",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645806563i/60495054.jpg",
+            "author" : "Meagan Brandy"
+        },
+        {
+            "title": "Flawless",
+            "editora": "Clube do Autor",
+            "month": 12,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675974093i/108514520.jpg",
+            "author" : "Elsie Silver"
         }
     ]
 }
