@@ -448,8 +448,9 @@
         {
             "title": "The Ballad of Never After",
             "editora": "Editorial Presença",
-            "year": 2023,
-            "cover": "https://kbimages1-a.akamaihd.net/3b3b14a9-a61e-4058-a3ca-965486c44e0f/1200/1200/False/the-ballad-of-never-after.jpg",
+            "month": 3,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645642179i/59808071.jpg",
             "author" : "Stephanie Garber"
         },
         {
@@ -1752,8 +1753,9 @@
             "author" : "Ali Hazelwood"
         },
         {
-            "title": "The Goal",
+            "title": "A Meta",
             "editora": "TopSeleer",
+            "day": 6,
             "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475180973i/32315591.jpg",
@@ -2146,8 +2148,9 @@
             "author" : "Benjamin Alire Sáenz"
         },
         {
-            "title": "Fourth Wing",
+            "title": "Quarta Asa",
             "editora": "Planeta",
+            "day": 24,
             "month": 10,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666994927i/61431922.jpg",
@@ -2332,8 +2335,9 @@
             "author" : "Colleen Hoover"
         },
         {
-            "title": "Never Never",
+            "title": "Nunca Jamais",
             "editora": "TopSeller",
+            "day": 6,
             "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667522795i/63120226.jpg",
@@ -2633,7 +2637,8 @@
         {
             "title": "Flawless",
             "editora": "Clube do Autor",
-            "month": 12,
+            "day": 8,
+            "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675974093i/108514520.jpg",
             "author" : "Elsie Silver"
