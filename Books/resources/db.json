@@ -2651,6 +2651,14 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688417629i/181344918.jpg",
             "author" : "Jesse Q. Sutanto"
+        },
+        {
+            "title": "Vengeful",
+            "editora": "Minotauro",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683488509i/26856502.jpg",
+            "author" : "V.E. Schwab"
         }
     ]
 }
