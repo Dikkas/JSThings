@@ -473,9 +473,10 @@
             "author" : "Alice Kellen"
         },
         {
-            "title": "Tal Vez tu",
+            "title": "TalVez tu",
             "editora": "Editorial Presença",
-            "month": 10,
+            "day": 2,
+            "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/I/91omb0GdfKS.jpg",
             "author" : "Alice Kellen"
@@ -2533,6 +2534,7 @@
         {
             "title": "Corte de Chamas Prateadas",
             "editora": "Editorial Presença",
+            "day": 2,
             "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602570691i/53138095.jpg",
@@ -2541,6 +2543,7 @@
         {
             "title": "A Touch of Darkness",
             "editora": "Editorial Presença",
+            "day": 2,
             "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611948296i/55215339.jpg",
