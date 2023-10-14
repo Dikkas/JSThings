@@ -1470,7 +1470,8 @@
             "month": 3,
             "year": 2023,
             "cover": "https://www.penguinlivros.pt/wp-content/uploads/2023/02/O_Jogo_WEB.jpg",
-            "author" : "Elle Kennedy"
+            "author" : "Elle Kennedy",
+            "bought": true
         },
         {
             "title": "Amor e outras palavras",
@@ -1561,7 +1562,8 @@
             "month": 8,
             "year": 2023,
             "cover": "https://img.wook.pt/images/pessoas-que-conhecemos-nas-ferias-emily-henry/MXwyOTE5NDkxNHwyNTU4MDM3MnwxNjkwNDQ3NjY5MDAwfHdlYnA=/550x",
-            "author" : "Emily Henry"
+            "author" : "Emily Henry",
+            "bought": true
         },
         {
             "title": "Quebrar o Gelo",
