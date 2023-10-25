@@ -1750,6 +1750,7 @@
         {
             "title": "Check & Mate",
             "editora": "Editorial Presença",
+            "day": 15,
             "month": 11,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678378842i/60683957.jpg",
@@ -2187,7 +2188,7 @@
             "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/babel-rf-kuang/MXwyNTgxMzk2MnwyMjA3NTc2NHwxNjgyMTExODA1MDAwfHdlYnA=/550x",
-            "author" : "R. F. Kuang",
+            "author" : "R.F. Kuang",
             "bought": true
         },
         {
@@ -2666,6 +2667,24 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683488509i/26856502.jpg",
             "author" : "V.E. Schwab"
+        },
+        {
+            "title": "Vermelho, Branco e Sangue Azul - Edição Especial",
+            "editora": "Editorial Presença",
+            "day": 15,
+            "month": 11,
+            "year": 2023,
+            "cover": "https://www.presenca.pt/cdn/shop/files/60740070_Vermelho_Branco_Sangue_Azul_Ed_Especial_1024x1024.jpg?v=1698223160",
+            "author" : "Casey McQuinston"
+        },
+        {
+            "title": "Impostora",
+            "editora": "Editorial Presença",
+            "day": 16,
+            "month": 11,
+            "year": 2023,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687082673i/59357120.jpg",
+            "author" : "R.F. Kuang"
         }
     ]
 }
