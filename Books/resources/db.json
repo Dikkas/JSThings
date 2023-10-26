@@ -2350,12 +2350,12 @@
         },
         {
             "title": "O Segredo da Criada",
-            "editora": "Alma de Livros",
+            "editora": "Alma dos Livros",
             "day": 7,
             "month": 9,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-segredo-da-criada-freida-mcfadden/MXwyOTE3NDkwM3wyNTU1Njc2N3wxNjg5NjkwMTg3MDAwfHdlYnA=/550x",
-            "author" : "Freoda McFaden"
+            "author" : "Freida McFaden"
         },
         {
             "title": "Survive the Night",
@@ -2398,11 +2398,11 @@
         },
         {
             "title": "A Criada",
-            "editora": "Alma de Livros",
+            "editora": "Alma dos Livros",
             "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-criada-freida-mcfadden/MXwyODUzNTM0NXwyNDkxNTQzOXwxNjgzNTM2MDk2MDAwfHdlYnA=/550x",
-            "author" : "Freoda McFaden"
+            "author" : "Freida McFaden"
         },
         {
             "title": "Apenas Amigos",
@@ -2685,6 +2685,22 @@
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687082673i/59357120.jpg",
             "author" : "R.F. Kuang"
+        },
+        {
+            "title": "A Porta Trancada",
+            "editora": "Alma dos Livros",
+            "day": 26,
+            "month": 10,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/a-porta-trancada-freida-mcfadden/MXwyOTM3Mjk5MnwyNTc3MjQzNXwxNjk2NDMwNjYxMDAwfHdlYnA=/550x",
+            "author" : "Freida McFaden"
+        },
+        {
+            "title": "Mrs. Nash's Ashes",
+            "editora": "Zero a Oito Editora",            
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675085405i/62296523.jpg",
+            "author" : "Sarah Adler"
         }
     ]
 }
