@@ -2701,6 +2701,13 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675085405i/62296523.jpg",
             "author" : "Sarah Adler"
+        },
+        {
+            "title": "This Summer Will Be Different",
+            "editora": "Topseller",            
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694006777i/197577126.jpg",
+            "author" : "Carley Fortune"
         }
     ]
 }
