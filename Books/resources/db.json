@@ -2241,8 +2241,10 @@
         {
             "title": "Death of a Bookseller",
             "editora": "Gailivro",
+            "day": 21,
+            "month": 11,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660942301i/61432855.jpg",
+            "cover": "https://img.wook.pt/images/a-morte-de-uma-livreira-alice-slater/MXwyOTQ0Mzk3OHwyNTg1MTAwNHwxNjk4NzcxMTE5MDAwfHdlYnA=/550x",
             "author" : "Alice Slater"
         },
         {
