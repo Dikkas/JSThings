@@ -2731,6 +2731,31 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659404866i/61246258.jpg",
             "author" : "Jenny Jackson"
+        },
+        {
+            "title": "Coisas que deixamos para trás",
+            "editora": "Marcador",
+            "day": 7,
+            "month": 12,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/coisas-que-deixamos-para-tras-lucy-score/MXwyOTQ5NDAxM3wyNTkwMzY5NHwxNzAwNzQ5MTQzMDAwfHdlYnA=/550x",
+            "author" : "Lucy Score"
+        },
+        {
+            "title": "Emily Wilde's Encyclopaedia of Faeries",
+            "editora": "ASA",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651622856i/60657589.jpg",
+            "author" : "Heather Fawcett"
+        },
+        {
+            "title": "O Priorado da Laranjeira",
+            "editora": "Desrotina",
+            "day": 7,
+            "month": 12,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/o-priorado-da-laranjeira-samantha-shannon/MXwyOTQ3ODQzNXwyNTg4OTI5MnwxNzAwMDQ4NzkxMDAwfHdlYnA=/550x",
+            "author" : "Samantha Shannon"
         }
     ]
 }
