@@ -2755,7 +2755,8 @@
             "month": 12,
             "year": 2023,
             "cover": "https://img.wook.pt/images/o-priorado-da-laranjeira-samantha-shannon/MXwyOTQ3ODQzNXwyNTg4OTI5MnwxNzAwMDQ4NzkxMDAwfHdlYnA=/550x",
-            "author" : "Samantha Shannon"
+            "author" : "Samantha Shannon",
+            "bought": true
         }
     ]
 }
