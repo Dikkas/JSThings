@@ -2757,6 +2757,15 @@
             "cover": "https://img.wook.pt/images/o-priorado-da-laranjeira-samantha-shannon/MXwyOTQ3ODQzNXwyNTg4OTI5MnwxNzAwMDQ4NzkxMDAwfHdlYnA=/550x",
             "author" : "Samantha Shannon",
             "bought": true
+        },
+        {
+            "title": "Heartless",
+            "editora": "Clube do Autor",
+            "day": 10,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680345869i/108519099.jpg",
+            "author" : "Elsie Silver"
         }
     ]
 }
