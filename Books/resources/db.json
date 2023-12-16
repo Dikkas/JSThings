@@ -441,7 +441,6 @@
         {
             "title": "The Ballad of Never After",
             "editora": "Editorial Presença",
-            "month": 3,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645642179i/59808071.jpg",
             "author" : "Stephanie Garber"
@@ -819,7 +818,7 @@
             "title": "Ignite me",
             "editora": "Topseller",
             "year": 2024,
-            "cover": "https://kbimages1-a.akamaihd.net/9d958576-452d-4dad-a5d4-78abcf5a7971/1200/1200/False/ignite-me-1.jpg",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375972497i/13188676.jpg",
             "author" : "Tahereh Mafi"
         },
         {
@@ -1928,9 +1927,9 @@
         {
             "title": "O Rei de Foxglove",
             "editora": "Leya",
-            "day": 26,
-            "month": 12,
-            "year": 2023,
+            "day": 2,
+            "month": 1,
+            "year": 2024,
             "cover": "https://img.wook.pt/images/o-rei-de-foxglove-hannah-whitten/MXwyOTUxNTEwMnwyNTkzMDk3OHwxNzAxMzUyNzY5MDAwfHdlYnA=/550x",
             "author" : "Hanna Whitten"
         },
@@ -1969,7 +1968,7 @@
             "author" : "Chelsea Abdullah"
         },
         {
-            "title": "A Deadly Education",
+            "title": "Uma Educação Mortal",
             "editora": "Kathartika",
             "month": 2,
             "year": 2024,
@@ -2616,7 +2615,6 @@
         {
             "title": "The Crown of Gilded Bones",
             "editora": "Marcador",
-            "month": 6,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606759553i/55240343.jpg",
             "author" : "Jennifer L. Armentrout"
@@ -2778,6 +2776,149 @@
             "year": 2024,
             "cover": "http://www.saidadeemergencia.com/images//products/thumbs/Lei_dos_Coracoes_Perdidos_150_229.jpg",
             "author" : "Mariana Faria"
+        },
+        {
+            "title": "Daisy Haites: A Grande Ruína",
+            "editora": "Asa Editora",
+            "month": 3,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670147466i/63922275.jpg",
+            "author" : "Jessa Hastings"
+        },
+        {
+            "title": "O Recluso",
+            "editora": "Alma dos Livros",
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653271523i/61149872.jpg",
+            "author" : "Freida McFaden"
+        },
+        {
+            "title": "Como eu Era Antes",
+            "editora": "Cultura Editora",
+            "day": 11,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433883455i/23546634.jpg",
+            "author" : "Amber Smith"
+        },
+        {
+            "title": "Friendaholic: Viciada em amizada",
+            "editora": "Casa das Letras",
+            "day": 2,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674834857i/67353385.jpg",
+            "author" : "Elizabeth Day"
+        },
+        {
+            "title": "Collide",
+            "editora": "Leya",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692608727i/197306586.jpg",
+            "author" : "Bal Khabra"
+        },
+        {
+            "title": "The Making of Mila and Blake",
+            "editora": "Editorial Presença",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650210675i/60828959.jpg",
+            "author" : "Estelle Maskame"
+        },
+        {
+            "title": "Behind the Net",
+            "editora": "Saida de Emergênca",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686077128i/174713026.jpg",
+            "author" : "Stephanie Archer"
+        },
+        {
+            "title": "Iron Flame",
+            "editora": "Planeta",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687463048i/90202302.jpg",
+            "author" : "Rebecca Yarros"
+        },
+        {
+            "title": "Business or Pleasure",
+            "editora": "Leya",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669248944i/62710608.jpg",
+            "author" : "Rachel Lynn Solomon"
+        },
+        {
+            "title": "Nightbane",
+            "editora": "Editoral Presença",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680364240i/58410355.jpg",
+            "author" : "Alex Aster"
+        },
+        {
+            "title": "Help me Remember",
+            "editora": "Clube do Autor",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699000519i/201458543.jpg",
+            "author" : "Alex Aster"
+        },
+        {
+            "title": "The Reappearance of Rachel Price",
+            "editora": "Editorial Presença",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692547104i/182484360.jpg",
+            "author" : "Holly Jackson"
+        },
+        {
+            "title": "Only When It's us",
+            "editora": "Saida de Emergência",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691196985i/177704614.jpg",
+            "author" : "Chloe Liese"
+        },
+        {
+            "title": "Always Only You",
+            "editora": "Saida de Emergência",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694447995i/177704674.jpg",
+            "author" : "Chloe Liese"
+        },
+        {
+            "title": "Ever After Always",
+            "editora": "Saida de Emergência",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690944101i/195036929.jpg",
+            "author" : "Chloe Liese"
+        },
+        {
+            "title": "Too Late",
+            "editora": "Topseller",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683212089i/127555313.jpg",
+            "author" : "Colleen Hoover"
+        },
+        {
+            "title": "Este Livro Mata",
+            "editora": "Leya",
+            "day": 16,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659012649i/61762058.jpg",
+            "author" : "Ravena Guron"
+        },
+        {
+            "title": "Este é o meu nome",
+            "editora": "Aurora",
+            "day": 11,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567612158l/50196744.jpg",
+            "author" : "Chanel Miller"
+        },
+        {
+            "title": "Butcher & Blackbird",
+            "editora": "Saida de Emergência",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692083376i/196864520.jpg",
+            "author" : "Brynne Weaver"
         }
     ]
 }
