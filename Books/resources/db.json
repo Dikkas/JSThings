@@ -1926,10 +1926,12 @@
             "author" : "R.F. Kuang"
         },
         {
-            "title": "The FoxGlove King",
+            "title": "O Rei de Foxglove",
             "editora": "Leya",
+            "day": 26,
+            "month": 12,
             "year": 2023,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654300847i/59397314.jpg",
+            "cover": "https://img.wook.pt/images/o-rei-de-foxglove-hannah-whitten/MXwyOTUxNTEwMnwyNTkzMDk3OHwxNzAxMzUyNzY5MDAwfHdlYnA=/550x",
             "author" : "Hanna Whitten"
         },
         {
@@ -1969,6 +1971,7 @@
         {
             "title": "A Deadly Education",
             "editora": "Kathartika",
+            "month": 2,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596909044i/50548197.jpg",
             "author" : "Naomi Novik"
@@ -2766,6 +2769,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680345869i/108519099.jpg",
             "author" : "Elsie Silver"
+        },
+        {
+            "title": "A Lei dos Corações Perdidos",
+            "editora": "Saida de Emergencia",
+            "day": 18,
+            "month": 1,
+            "year": 2024,
+            "cover": "http://www.saidadeemergencia.com/images//ro-icon-maximize.png",
+            "author" : "Mariana Faria"
         }
     ]
 }
