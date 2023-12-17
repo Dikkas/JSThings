@@ -2826,8 +2826,10 @@
             "author" : "Estelle Maskame"
         },
         {
-            "title": "Behind the Net",
+            "title": "Atrás das Redes",
             "editora": "Saida de Emergênca",
+            "day": 18,
+            "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686077128i/174713026.jpg",
             "author" : "Stephanie Archer"
@@ -2919,6 +2921,13 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692083376i/196864520.jpg",
             "author" : "Brynne Weaver"
+        },
+        {
+            "title": "Oceania",
+            "editora": "Saida de Emergência",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702139864i/203544296.jpg",
+            "author" : "Lucy Angel"
         }
     ]
 }
