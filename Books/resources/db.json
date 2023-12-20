@@ -439,10 +439,12 @@
             "bought": true
         },
         {
-            "title": "The Ballad of Never After",
+            "title": "E Não viveram felizes para sempre",
             "editora": "Editorial Presença",
+            "day": 10,
+            "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645642179i/59808071.jpg",
+            "cover": "https://www.presenca.pt/cdn/shop/files/e_nao_viveram_felizes_para_sempre_WEB_1024x1024.jpg?v=1703064046",
             "author" : "Stephanie Garber"
         },
         {
@@ -558,7 +560,7 @@
             "author" : "Mercedes Ron"
         },
         {
-            "title": "Perfeitos Mentirosos",
+            "title": "Perfeitos Mentirosos: Mentiras e Segredos",
             "editora": "Editorial Presença",
             "day": 6,
             "month": 7,
@@ -1760,8 +1762,10 @@
         {
             "title": "The Legacy",
             "editora": "TopSeleer",
+            "day": 10,
+            "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631147889i/58953656.jpg",
+            "cover": "https://img.wook.pt/images/o-legado-elle-kennedy/MXwyOTU2NTQxOHwyNTk4OTQ5NHwxNzAzMDY1MTQyMDAwfHdlYnA=/550x",
             "author" : "Elle Kennedy"
         },
         {
@@ -2819,10 +2823,12 @@
             "author" : "Bal Khabra"
         },
         {
-            "title": "The Making of Mila and Blake",
+            "title": "E quando confiei em ti",
             "editora": "Editorial Presença",
+            "day": 10,
+            "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650210675i/60828959.jpg",
+            "cover": "https://www.presenca.pt/cdn/shop/files/e_quando_confiei_em_ti_WEB_1024x1024.jpg?v=1703063992",
             "author" : "Estelle Maskame"
         },
         {
@@ -2899,7 +2905,7 @@
         },
         {
             "title": "Este Livro Mata",
-            "editora": "Leya",
+            "editora": "Asa Editora",
             "day": 16,
             "month": 1,
             "year": 2024,
@@ -2930,6 +2936,79 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702139864i/203544296.jpg",
             "author" : "Lucy Angel"
+        },
+        {
+            "title": "Perfeitos Mentirosos: Verdades e Perigos",
+            "editora": "Editorial Presença",
+            "day": 10,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://www.presenca.pt/cdn/shop/files/perfeitos_mentirosos_2_WEB_1024x1024.jpg?v=1703064059",
+            "author" : "Alex Mírez"
+        },
+        {
+            "title": "Argylle",
+            "editora": "Topseller",
+            "day": 10,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/argylle-elly-conway/MXwyOTU2NTQxN3wyNTk4OTQ5M3wxNzAzMDY1MTQxMDAwfHdlYnA=/550x",
+            "author" : "Elle Conway"
+        },
+        {
+            "title": "A Livraria Perdida",
+            "editora": "Topseller",
+            "day": 11,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-livraria-perdida-evie-woods/MXwyOTQ4OTA3MnwyNTg5ODkwOHwxNzAyODk4MTM4MDAwfHdlYnA=/550x",
+            "author" : "Evie Woods"
+        },
+        {
+            "title": "A Irmandade dos Corvos",
+            "editora": "Desrotina",
+            "month": 1,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/raven-boys-maggie-stiefvater/MXwxMjk4MDAzNXw4NTUzMjMyfDE2ODM5MjU2OTQwMDB8d2VicA==/550x",
+            "author" : "Maggie Stiefvater"
+        },
+        {
+            "title": "Bride",
+            "editora": "Desrotina",
+            "month": 2,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/bride-ali-hazelwood/MXwyOTM4NzMzNnwyNTc4NzU5M3wxNzAyOTE4NTUzMDAwfHdlYnA=/550x",
+            "author" : "Ali Hazelwood"
+        },
+        {
+            "title": "The Dragon Republic",
+            "editora": "Desrotina",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/the-dragon-republic-rf-kuang/MXwyNTkwMjgxMXwyMjE3NzA2NnwxNjQ0Mzk5NzQ2MDAwfHdlYnA=/550x",
+            "author" : "R.F. Kuang"
+        },
+        {
+            "title": "My Killer Vacation",
+            "editora": "Desrotina",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/my-killer-vacation-tessa-bailey/MXwyODQ5MDY3NnwyNDg2Mjk4N3wxNjgyNTIxMDkyMDAwfHdlYnA=/550x",
+            "author" : "Tessa Bailey"
+        },
+        {
+            "title": "Part of your world",
+            "editora": "Desrotina",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/part-of-your-world-abby-jimenez/MXwyNTkyOTE4MnwyMjIwMzQ4NXwxNjgyNTgzMzQwMDAwfHdlYnA=/550x",
+            "author" : "Abby Jimenez"
+        },
+        {
+            "title": "Leva-me a qualquer lugar",
+            "editora": "Cultura Editora",
+            "day": 18,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/llevame-a-cualquier-lugar-alice-kellen/MXwyODcwMjg0MnwyNTA5MTE2OXwxNjg3MjY4MDk5MDAwfHdlYnA=/550x",
+            "author" : "Alice Kellen"
         }
     ]
 }
