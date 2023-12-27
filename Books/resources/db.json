@@ -3009,6 +3009,30 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/llevame-a-cualquier-lugar-alice-kellen/MXwyODcwMjg0MnwyNTA5MTE2OXwxNjg3MjY4MDk5MDAwfHdlYnA=/550x",
             "author" : "Alice Kellen"
+        },
+        {
+            "title": "Ataque de Charme",
+            "editora": "Desrotina",
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628703464i/56898248.jpg",
+            "author" : "Alison Cochrun"
+        },
+        {
+            "title": "Amor & outras Fraudes",
+            "editora": "Leya",
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677904431i/74863422.jpg",
+            "author" : "PJ Ellis"
+        },
+        {
+            "title": "Bully",
+            "editora": "Leya",
+            "month": 1,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678294316i/123206634.jpg",
+            "author" : "Penelope Douglas"
         }
     ]
 }
