@@ -3033,6 +3033,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678294316i/123206634.jpg",
             "author" : "Penelope Douglas"
+        },
+        {
+            "title": "Amor e outras mentiras",
+            "editora": "Saida de Emergencia",
+            "day": 1,
+            "month": 2,
+            "year": 2024,
+            "cover": "http://www.saidadeemergencia.com/images//products/Amor_e_Outras_Mentiras.jpg",
+            "author" : "Andreia Ramos"
         }
     ]
 }
