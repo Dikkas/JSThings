@@ -1762,7 +1762,7 @@
         {
             "title": "The Legacy",
             "editora": "TopSeleer",
-            "day": 10,
+            "day": 23,
             "month": 1,
             "year": 2024,
             "cover": "https://img.wook.pt/images/o-legado-elle-kennedy/MXwyOTU2NTQxOHwyNTk4OTQ5NHwxNzAzMDY1MTQyMDAwfHdlYnA=/550x",
@@ -2792,6 +2792,7 @@
         {
             "title": "O Recluso",
             "editora": "Alma dos Livros",
+            "day": 11,
             "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653271523i/61149872.jpg",
@@ -2967,6 +2968,7 @@
         {
             "title": "A Irmandade dos Corvos",
             "editora": "Desrotina",
+            "day": 18,
             "month": 1,
             "year": 2024,
             "cover": "https://img.wook.pt/images/raven-boys-maggie-stiefvater/MXwxMjk4MDAzNXw4NTUzMjMyfDE2ODM5MjU2OTQwMDB8d2VicA==/550x",
@@ -3013,6 +3015,7 @@
         {
             "title": "Ataque de Charme",
             "editora": "Desrotina",
+            "day": 18,
             "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628703464i/56898248.jpg",
@@ -3021,6 +3024,7 @@
         {
             "title": "Amor & outras Fraudes",
             "editora": "Leya",
+            "day": 9,
             "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677904431i/74863422.jpg",
@@ -3042,6 +3046,22 @@
             "year": 2024,
             "cover": "http://www.saidadeemergencia.com/images//products/Amor_e_Outras_Mentiras.jpg",
             "author" : "Andreia Ramos"
+        },
+        {
+            "title": "22/11/63",
+            "editora": "Bertrand Editora",
+            "day": 11,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://img.bertrand.pt/images/22-11-63-stephen-king/NDV8MjQ1NjQzNTl8MjMwNjg2ODZ8MTYxMjQ5NTI4NDAwMHx3ZWJw/300x",
+            "author" : "Stephen King"
+        },
+        {
+            "title": "Foul Lady Fortune",
+            "editora": "Leya",
+            "year": 2024,
+            "cover": "https://img.bertrand.pt/images/22-11-63-stephen-king/NDV8MjQ1NjQzNTl8MjMwNjg2ODZ8MTYxMjQ5NTI4NDAwMHx3ZWJw/300x",
+            "author" : "Chloe Gong"
         }
     ]
 }
