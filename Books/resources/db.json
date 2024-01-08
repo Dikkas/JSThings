@@ -3064,6 +3064,34 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642713157i/57190453.jpg",
             "author" : "Chloe Gong"
+        },
+        {
+            "title": "The Atlas Complex",
+            "editora": "Planeta",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675187027i/63104676.jpg",
+            "author" : "Olivie Blake"
+        },
+        {
+            "title": "I hope this doesn't find you",
+            "editora": "Planeta",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688093952i/124932739.jpg",
+            "author" : "Ann Liang"
+        },
+        {
+            "title": "Iron Flame",
+            "editora": "Planeta",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687463048i/90202302.jpg",
+            "author" : "Rebecca Yarros"
+        },
+        {
+            "title": "Restore me",
+            "editora": "Topseller",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507232049i/34992929.jpg",
+            "author" : "Tahereh Mafi"
         }
     ]
 }
