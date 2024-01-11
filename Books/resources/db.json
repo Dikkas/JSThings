@@ -268,8 +268,10 @@
             "author" : "Jennifer L. Armentrout"
         },
         {
-            "title": "Empire of Storms",
-            "editora": "",
+            "title": "Império das Tempestades",
+            "editora": "Marcador",
+            "day": 24,
+            "month": 1,
             "year": 2024,
             "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463107108l/28260587.jpg",
             "author" : "Sarah J. Maas"
@@ -1662,6 +1664,8 @@
         {
             "title": "Belladonna",
             "editora": "Clube do Autor",
+            "day": 24,
+            "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633986670i/59227936.jpg",
             "author" : "Adalyn Grace"
@@ -2703,7 +2707,9 @@
         },
         {
             "title": "Mrs. Nash's Ashes",
-            "editora": "Zero a Oito Editora",            
+            "editora": "Zero a Oito Editora",
+            "day": 23,
+            "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675085405i/62296523.jpg",
             "author" : "Sarah Adler"
@@ -2919,7 +2925,7 @@
         {
             "title": "Este é o meu nome",
             "editora": "Aurora",
-            "day": 11,
+            "day": 18,
             "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567612158l/50196744.jpg",
