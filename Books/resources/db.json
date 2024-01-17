@@ -3152,6 +3152,33 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670090073i/63910262.jpg",
             "author" : "Rachel Giling"
+        },
+        {
+            "title": "A Vida em Loop",
+            "editora": "Marcador",
+            "day": 7,
+            "month": 2,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644258928i/51035594.jpg",
+            "author" : "Lynn Painter"
+        },
+        {
+            "title": "O Pequeno Amigo",
+            "editora": "Editorial Presença",
+            "day": 7,
+            "month": 2,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/o-pequeno-amigo-donna-tartt/MXwyOTYxMzM4MHwyNjA0MTczNnwxNzA1NDEzMjY2MDAwfHdlYnA=/550x",
+            "author" : "Donna Tartt"
+        },
+        {
+            "title": "A História Secreta",
+            "editora": "Editorial Presença",
+            "day": 7,
+            "month": 2,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-historia-secreta-donna-tartt/MXwyOTYxMzM3OXwyNjA0MTczNXwxNzA1NDEzMjY2MDAwfHdlYnA=/550x",
+            "author" : "Donna Tartt"
         }
     ]
 }
