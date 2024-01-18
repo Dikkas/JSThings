@@ -3179,6 +3179,22 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/a-historia-secreta-donna-tartt/MXwyOTYxMzM3OXwyNjA0MTczNXwxNzA1NDEzMjY2MDAwfHdlYnA=/550x",
             "author" : "Donna Tartt"
+        },
+        {
+            "title": "Jantar Secreto",
+            "editora": "Cultura",
+            "day": 8,
+            "month": 2,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/jantar-secreto-raphael-montes/MXwyOTYxMTQ2OXwyNjAzOTU0M3wxNzA1MzIxMDQ5MDAwfHdlYnA=/550x",
+            "author" : "Raphael Montes"
+        },
+        {
+            "title": "The Assassin's Blade",
+            "editora": "Marcador",
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/the-assassins-blade-sarah-j-maas/MXwyNzI2NDY1MnwyMzYwMTgxNXwxNjk5OTM3NTA3MDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas"
         }
     ]
 }
