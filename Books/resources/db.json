@@ -2344,6 +2344,8 @@
         {
             "title": "Maybe Now",
             "editora": "Topseller",
+            "day": 5,
+            "month": 2,
             "year": 2024,
             "cover": "https://img.wook.pt/images/maybe-now-colleen-hoover/MXwyNzAyMDE5MnwyMzMyMDYwNXwxNjg1OTYxODIwMDAwfHdlYnA=/550x",
             "author" : "Colleen Hoover"
@@ -3042,7 +3044,8 @@
         {
             "title": "Bully",
             "editora": "Leya",
-            "month": 1,
+            "day": 9,
+            "month": 2,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678294316i/123206634.jpg",
             "author" : "Penelope Douglas"
