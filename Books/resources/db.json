@@ -1292,8 +1292,10 @@
             "author" : "Elena Armas"
         },
         {
-            "title": "El Mapa de los anhelos",
+            "title": "O Mapa dos desejos",
             "editora": "Editorial Presença",
+            "day": 6,
+            "month": 3,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642689654i/60167327.jpg",
             "author" : "Alice Kellen"
@@ -2947,7 +2949,8 @@
             "month": 1,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702139864i/203544296.jpg",
-            "author" : "Lucy Angel"
+            "author" : "Lucy Angel",
+            "bought": true
         },
         {
             "title": "Perfeitos Mentirosos: Verdades e Perigos",
@@ -3208,6 +3211,24 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/act-your-age-eve-brown-talia-hibbert/MXwyNTkyNzYzMXwyMjIwMTkyOHwxNjk1MDk1MjEzMDAwfHdlYnA=/550x",
             "author" : "Talia Hibbert"
+        },
+        {
+            "title": "O Escritório",
+            "editora": "Alma dos Livros",
+            "day": 7,
+            "month": 3,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/o-escritorio-freida-mcfadden/MXwyOTcxNTA4M3wyNjE0MzUxNHwxNzA3NDg5NTQ2MDAwfHdlYnA=/550x",
+            "author" : "Freida McFaden"
+        },
+        {
+            "title": "Comédia Romantica",
+            "editora": "Cultura Editora",
+            "day": 7,
+            "month": 3,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/comedia-romantica-curtis-sittenfeld/MXwyOTcxNTA4N3wyNjE0MzUzNXwxNzA3NDg5NTQ3MDAwfHdlYnA=/550x",
+            "author" : "Curtis Sittenfeld"
         }
     ]
 }
