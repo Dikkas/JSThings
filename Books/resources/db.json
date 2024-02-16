@@ -3238,6 +3238,14 @@
             "year": 2024,
             "cover": "",
             "author" : "Rute Dias"
+        },
+        {
+            "title": "Powerless",
+            "editora": "Singular",
+            "month": 3,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900.jpg",
+            "author" : "Lauren Roberts"
         }
     ]
 }
