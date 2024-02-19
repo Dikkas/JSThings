@@ -3246,6 +3246,33 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900.jpg",
             "author" : "Lauren Roberts"
+        },
+        {
+            "title": "Rei do Orgulho",
+            "editora": "Clube do Autor",
+            "day": 28,
+            "month": 2,
+            "year": 2024,
+            "cover": "https://www.clubedoautor.pt/storage/images/2024-02-09-102119-capa-rei-da-orgulho-cinta-bx-easy-resizecom.jpg",
+            "author" : "Ana Huang"
+        },
+        {
+            "title": "Hooked",
+            "editora": "Bertrand",
+            "day": 14,
+            "month": 3,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/hooked-emily-mcintire/MXwyOTUyODk3N3wyNTk0NTQxOXwxNzA3OTk2NzAwMDAwfHdlYnA=/550x",
+            "author" : "Emily McIntire"
+        },
+        {
+            "title": "Divine Rivals",
+            "editora": "Secret Society",
+            "day": 15,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/rivais-divinos-rebecca-ross/MXwyOTYyMTEwM3wyNjA1MDQ1NXwxNzA2MDk0ODQyMDAwfHdlYnA=/550x",
+            "author" : "Rebecca Ross"
         }
     ]
 }
