@@ -820,7 +820,9 @@
         },
         {
             "title": "Ignite me",
-            "editora": "Topseller",
+            "editora": "Secret Society",
+            "day": 18,
+            "month": 3,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375972497i/13188676.jpg",
             "author" : "Tahereh Mafi"
@@ -3117,6 +3119,7 @@
         {
             "title": "Sob as Luzes do Amor",
             "editora": "Singular",
+            "day": 7,
             "month": 9,
             "year": 2023,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694459299i/198968955.jpg",
@@ -3274,6 +3277,24 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/rivais-divinos-rebecca-ross/MXwyOTYyMTEwM3wyNjA1MDQ1NXwxNzA2MDk0ODQyMDAwfHdlYnA=/550x",
             "author" : "Rebecca Ross"
+        },
+        {
+            "title": "Imortalidade: Uma história de amor",
+            "editora": "Porto Editora",
+            "day": 7,
+            "month": 3,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/imortalidade-dana-schwartz/MXwyOTYxMTU4OXwyNjAzOTY3MXwxNzA4NjIyMzg4MDAwfHdlYnA=/550x",
+            "author" : "Dana Schwartz"
+        },
+        {
+            "title": "Nada Mais a Dizer",
+            "editora": "Leya",
+            "day": 26,
+            "month": 3,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/nothing-more-to-tell-karen-m-mcmanus/MXwyNzA5NjQ2NnwyMzQwNTM4OHwxNjU0MTY3OTc1MDAwfHdlYnA=/550x",
+            "author" : "Karen M. McManus"
         }
     ]
 }
