@@ -2398,8 +2398,10 @@
             "author" : "Alice Oseman"
         },
         {
-            "title": "The Serpent and the wings of night",
+            "title": "A Serpente e as Asas da Noite",
             "editora": "Clube do Autor",
+            "day": 13,
+            "month": 3,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648567430i/60714999.jpg",
             "author" : "Carissa Broadbent"
