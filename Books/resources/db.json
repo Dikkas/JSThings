@@ -2296,8 +2296,10 @@
             "author" : "Stephen King"
         },
         {
-            "title": "The True Love Experiment",
+            "title": "True Love Experiment",
             "editora": "Topseller",
+            "day": 18,
+            "month": 3,
             "year": 2024,
             "cover": "https://img.wook.pt/images/the-true-love-experiment-christina-lauren/MXwyODMyMTg4OXwyNDY4MjgzM3wxNjc4MjM3NjMzMDAwfHdlYnA=/550x",
             "author" : "Christina Lauren"
@@ -3313,6 +3315,30 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532534949i/40944965.jpg",
             "author" : "Chloe Walsh"
+        },
+        {
+            "title": "House of Flame and Shadow",
+            "editora": "Marcador",
+            "day": 5,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689809645i/52857700.jpg",
+            "author" : "Sarah J. Maas"
+        },
+        {
+            "title": "Sobreviver a esta noite",
+            "editora": "Guerra e Paz",
+            "month": 3,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603780911i/55628983.jpg",
+            "author" : "Riley Sager"
+        },
+        {
+            "title": "My Life with the walter Boys",
+            "editora": "Marcador",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560222580i/44676677.jpg",
+            "author" : "Aly Novak"
         }
     ]
 }
