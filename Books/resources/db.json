@@ -3303,6 +3303,7 @@
         {
             "title": "Throttled",
             "editora": "Saida de Emergencia",
+            "day": 18,
             "month": 4,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706309061i/206023355.jpg",
@@ -3339,6 +3340,14 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560222580i/44676677.jpg",
             "author" : "Aly Novak"
+        },
+        {
+            "title": "Powerless",
+            "editora": "Singular",
+            "month": 6,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700321347i/183086339.jpg",
+            "author" : "Lauren Roberts"
         }
     ]
 }
