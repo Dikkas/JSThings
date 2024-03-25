@@ -2171,8 +2171,9 @@
             "author" : "Rebecca Yarros"
         },
         {
-            "title": "The City of Brass",
+            "title": "Cidade de Bronze",
             "editora": "Kathartika",
+            "month": 6,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505038310i/36215220.jpg",
             "author" : "S.A. Chakraborty"
@@ -3078,8 +3079,10 @@
             "author" : "Stephen King"
         },
         {
-            "title": "Foul Lady Fortune",
-            "editora": "Leya",
+            "title": "A dama do destino",
+            "editora": "Quinta essencia",
+            "day": 16,
+            "month": 4,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642713157i/57190453.jpg",
             "author" : "Chloe Gong"
@@ -3348,6 +3351,33 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700321347i/183086339.jpg",
             "author" : "Lauren Roberts"
+        },
+        {
+            "title": "Uma Boa História",
+            "editora": "Leya",
+            "day": 30,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691777485i/194802722.jpg",
+            "author" : "Emily Henry"
+        },
+        {
+            "title": "à noite na biblioteca",
+            "editora": "Leya",
+            "day": 16,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1695099100i/199020721.jpg",
+            "author" : "Annie Crown"
+        },
+        {
+            "title": "Nunca Mintas",
+            "editora": "Alma dos Livros",
+            "day": 18,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661428846i/62080187.jpg",
+            "author" : "Freida McFaden"
         }
     ]
 }
