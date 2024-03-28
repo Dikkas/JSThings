@@ -2627,8 +2627,10 @@
             "bought": true
         },
         {
-            "title": "The Crown of Gilded Bones",
+            "title": "Coroa de Ossos Dourados",
             "editora": "Marcador",
+            "day": 17,
+            "month": 4,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606759553i/55240343.jpg",
             "author" : "Jennifer L. Armentrout"
@@ -3334,6 +3336,8 @@
         {
             "title": "My Life with the walter Boys",
             "editora": "Marcador",
+            "day": 17,
+            "month": 4,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560222580i/44676677.jpg",
             "author" : "Aly Novak"
@@ -3379,6 +3383,23 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705718555i/203578730.jpg",
             "author" : "Ann Liang"
+        },
+        {
+            "title": "Uma Magia Imersa em Veneno",
+            "editora": "Editorial Presença",
+            "month": 8,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/uma-magia-imersa-em-veneno-judy-i-lin/MXwyOTE4ODUxN3wyNTU3MjQ2MXwxNzA3MjM2Mjk1MDAwfHdlYnA=/450x",
+            "author" : "Judy I. Lin"
+        },
+        {
+            "title": "Um Veneno Doce e Sombrio",
+            "editora": "Editorial Presença",
+            "day": 17,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631517611i/48506393.jpg",
+            "author" : "Judy I. Lin"
         }
     ]
 }
