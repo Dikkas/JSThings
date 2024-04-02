@@ -2859,6 +2859,8 @@
         {
             "title": "Iron Flame",
             "editora": "Planeta",
+            "day": 16,
+            "month": 4,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687463048i/90202302.jpg",
             "author" : "Rebecca Yarros"
@@ -3330,7 +3332,7 @@
             "editora": "Guerra e Paz",
             "month": 3,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603780911i/55628983.jpg",
+            "cover": "https://img.wook.pt/images/sobreviver-a-esta-noite-riley-sager/MXwyOTc3NjEyMXwyNjIwMDY4MnwxNzA5MDI0Mjg4MDAwfHdlYnA=/550x",
             "author" : "Riley Sager"
         },
         {
@@ -3400,6 +3402,24 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631517611i/48506393.jpg",
             "author" : "Judy I. Lin"
+        },
+        {
+            "title": "Powerless",
+            "editora": "Clube do Autor",
+            "day": 17,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/powerless-elsie-silver/MXwyODAxMjc1NXwyNDQxOTEzN3wxNzEyMDMwOTUzMDAwfHdlYnA=/550x",
+            "author" : "Elsie Silver"
+        },
+        {
+            "title": "Tarde Demais",
+            "editora": "TopSeller",
+            "day": 29,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/too-late-colleen-hoover/MXwyODQwNTI1NHwyNDc3MTQwMnwxNzAzNzQwMTM1MDAwfHdlYnA=/550x",
+            "author" : "Colleen Hoover"
         }
     ]
 }
