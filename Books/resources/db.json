@@ -3420,6 +3420,20 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/too-late-colleen-hoover/MXwyODQwNTI1NHwyNDc3MTQwMnwxNzAzNzQwMTM1MDAwfHdlYnA=/550x",
             "author" : "Colleen Hoover"
+        },
+        {
+            "title": "Done and Dust",
+            "editora": "Guerra e Paz",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677968591i/123179008.jpg",
+            "author" : "Lyla Sage"
+        },
+        {
+            "title": "Swift and Saddled",
+            "editora": "Guerra e Paz",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693114168i/195532965.jpg",
+            "author" : "Lyla Sage"
         }
     ]
 }
