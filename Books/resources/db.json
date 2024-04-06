@@ -273,7 +273,7 @@
             "day": 24,
             "month": 1,
             "year": 2024,
-            "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463107108l/28260587.jpg",
+            "cover": "https://img.wook.pt/images/imperio-de-tempestades-sarah-j-maas/MXwyOTU4MTk2OHwyNjAwNzE0NHwxNzAzODUxMTM5MDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas"
         },
         {
@@ -824,7 +824,7 @@
             "day": 18,
             "month": 3,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375972497i/13188676.jpg",
+            "cover": "https://img.wook.pt/images/inflamavel-tahereh-mafi/MXwyOTgxOTIxOHwyNjIzNzk5M3wxNzA5NjU1MDI0MDAwfHdlYnA=/550x",
             "author" : "Tahereh Mafi"
         },
         {
@@ -1192,7 +1192,7 @@
             "day": 18,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/os-nossos-coracoes-perdidos-celeste-ng/MXwyNzc1NzU3OXwyNDEzMDU4OHwxNjY1NDgzNjY0MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/a-lei-dos-coracoes-perdidos-mariana-faria/MXwyOTU2ODIwMnwyNTk5Mjc1OHwxNzAzMTU2MDQ3MDAwfHdlYnA=/550x",
             "author" : "Celeste Ng"
         },
         {
@@ -1671,7 +1671,7 @@
             "day": 24,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633986670i/59227936.jpg",
+            "cover": "https://img.wook.pt/images/belladonna-adalyn-grace/MXwyOTYwMTUzMHwyNjAyOTE1MHwxNzA0OTY2NjEwMDAwfHdlYnA=/550x",
             "author" : "Adalyn Grace"
         },
         {
@@ -1799,7 +1799,7 @@
             "day": 22,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634305789i/58842731.jpg",
+            "cover": "https://img.wook.pt/images/guia-para-lesbicas-num-colegio-catolico-sonora-reyes/MXwyOTU5ODQ0NXwyNjAyNTgzOXwxNzA0ODc0NjY4MDAwfHdlYnA=/550x",
             "author" : "Sonora Reyes"
         },
         {
@@ -2013,10 +2013,11 @@
             "author" : "Ariana Godoy"
         },
         {
-            "title": "Mexican Gothic",
+            "title": "Gotico Mexicano",
             "editora": "Infinito Particular",
-            "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607462569i/53152636.jpg",
+            "month": 11,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/gotico-mexicano-silvia-moreno-garcia/MXwyOTQyODM2M3wyNTgzMzMwN3wxNjk4MjI3MjQzMDAwfHdlYnA=/550x",
             "author" : "Silia Moreno-Garcia"
         },
         {
@@ -2297,12 +2298,12 @@
             "author" : "Stephen King"
         },
         {
-            "title": "True Love Experiment",
+            "title": "Amor Real",
             "editora": "Topseller",
             "day": 18,
             "month": 3,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/the-true-love-experiment-christina-lauren/MXwyODMyMTg4OXwyNDY4MjgzM3wxNjc4MjM3NjMzMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/amor-real-a-prova-christina-lauren/MXwyOTgxOTIyMnwyNjIzNzk5N3wxNzA5NjU1MDI2MDAwfHdlYnA=/550x",
             "author" : "Christina Lauren"
         },
         {
@@ -2348,12 +2349,12 @@
             "author" : "Jesse Q. Sutanto"
         },
         {
-            "title": "Maybe Now",
+            "title": "Talvez Agora",
             "editora": "Topseller",
             "day": 5,
             "month": 2,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/maybe-now-colleen-hoover/MXwyNzAyMDE5MnwyMzMyMDYwNXwxNjg1OTYxODIwMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/talvez-agora-colleen-hoover/MXwyOTYyMTExMHwyNjA1MDQ5NHwxNzA2MDk0ODM0MDAwfHdlYnA=/550x",
             "author" : "Colleen Hoover"
         },
         {
@@ -2398,7 +2399,7 @@
             "day": 13,
             "month": 3,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648567430i/60714999.jpg",
+            "cover": "https://img.wook.pt/images/a-serpente-e-as-asas-da-noite-carissa-broadbent/MXwyOTc3NDQ4MXwyNjE5OTYzNnwxNzA4OTM3MDIyMDAwfHdlYnA=/550x",
             "author" : "Carissa Broadbent"
         },
         {
@@ -2513,12 +2514,12 @@
             "author" : "Kerri Maniscalco"
         },
         {
-            "title": "Daisy Haites",
+            "title": "Daisy Haites: A Grande Ruina",
             "editora": "Asa Editora",
             "day": 12,
             "month": 9,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/daisy-haites-jessa-hastings/MXwyOTI4MDQzN3wyNTY3MzE0NHwxNjkzMzI1NDA5MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/a-grande-ruina-jessa-hastings/MXwyOTg3NzIwNHwyNjMyNjAzM3wxNzExNDcyNTM5MDAwfHdlYnA=/550x",
             "author" : "Jessa Hastings"
         },
         {
@@ -2632,7 +2633,7 @@
             "day": 17,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606759553i/55240343.jpg",
+            "cover": "https://img.wook.pt/images/coroa-de-ossos-dourados-jennifer-armentrout/MXwyOTg3NzAxNnwyNjMyNTY2MnwxNzExNDYwOTA5MDAwfHdlYnA=/550x",
             "author" : "Jennifer L. Armentrout"
         },
         {
@@ -2711,12 +2712,12 @@
             "author" : "Freida McFaden"
         },
         {
-            "title": "Mrs. Nash's Ashes",
+            "title": "As cinzas do Sr. Nash",
             "editora": "Zero a Oito Editora",
             "day": 23,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675085405i/62296523.jpg",
+            "cover": "https://img.wook.pt/images/as-cinzas-da-sra-nash-sarah-adler/MXwyOTU4OTM5N3wyNjAxNTg3M3wxNzA0Mzc1MzMxMDAwfHdlYnA=/550x",
             "author" : "Sarah Adler"
         },
         {
@@ -2810,7 +2811,7 @@
             "day": 11,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653271523i/61149872.jpg",
+            "cover": "https://img.wook.pt/images/o-recluso-freida-mcfadden/MXwyOTU3MTE2MnwyNTk5NjA0NXwxNzAzMjQzOTczMDAwfHdlYnA=/550x",
             "author" : "Freida McFaden"
         },
         {
@@ -2819,7 +2820,7 @@
             "day": 11,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433883455i/23546634.jpg",
+            "cover": "https://img.wook.pt/images/como-eu-era-antes-amber-smith/MXwyOTU1NjU1OXwyNTk3OTU5NnwxNzAyNjYxMjQ5MDAwfHdlYnA=/550x",
             "author" : "Amber Smith"
         },
         {
@@ -2828,7 +2829,7 @@
             "day": 2,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674834857i/67353385.jpg",
+            "cover": "https://img.wook.pt/images/friendaholic-viciada-em-amizade-elizabeth-day/MXwyOTUxNTA5N3wyNTkzMDk3M3wxNzAxMzUyNzY4MDAwfHdlYnA=/550x",
             "author" : "Elizabeth Day"
         },
         {
@@ -2853,16 +2854,16 @@
             "day": 18,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686077128i/174713026.jpg",
+            "cover": "https://img.wook.pt/images/atras-das-redes-behind-the-net-stephanie-archer/MXwyOTU2ODIwMHwyNTk5Mjc1NnwxNzAzMTU2MDQ2MDAwfHdlYnA=/550x",
             "author" : "Stephanie Archer"
         },
         {
-            "title": "Iron Flame",
+            "title": "Chama de Ferro",
             "editora": "Planeta",
             "day": 16,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687463048i/90202302.jpg",
+            "cover": "https://img.wook.pt/images/chama-de-ferro-rebecca-yarros/MXwyOTg3NTk0MnwyNjMyMzM0MXwxNzExMzg0MTY4MDAwfHdlYnA=/550x",
             "author" : "Rebecca Yarros"
         },
         {
@@ -2927,7 +2928,7 @@
             "day": 16,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659012649i/61762058.jpg",
+            "cover": "https://img.wook.pt/images/este-livro-mata-ravena-guron/MXwyOTUxNTExM3wyNTkzMDk4OXwxNzAxMzUyNzczMDAwfHdlYnA=/550x",
             "author" : "Ravena Guron"
         },
         {
@@ -2936,7 +2937,7 @@
             "day": 18,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567612158l/50196744.jpg",
+            "cover": "https://img.wook.pt/images/este-e-o-meu-nome-chanel-miller/MXwyOTU1NjU1OHwyNTk3OTU5NXwxNzAyNjYxMjQ4MDAwfHdlYnA=/550x",
             "author" : "Chanel Miller"
         },
         {
@@ -2989,7 +2990,7 @@
             "day": 18,
             "month": 1,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/raven-boys-maggie-stiefvater/MXwxMjk4MDAzNXw4NTUzMjMyfDE2ODM5MjU2OTQwMDB8d2VicA==/550x",
+            "cover": "https://img.wook.pt/images/a-irmandade-dos-corvos-maggie-stiefvater/MXwyOTU2ODIwOXwyNTk5Mjc2NXwxNzA0ODIwMzAzMDAwfHdlYnA=/550x",
             "author" : "Maggie Stiefvater"
         },
         {
@@ -2998,7 +2999,7 @@
             "day": 22,
             "month": 2,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/bride-ali-hazelwood/MXwyOTM4NzMzNnwyNTc4NzU5M3wxNzAyOTE4NTUzMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/noiva-ali-hazelwood/MXwyOTY4NDI5OXwyNjExMDM5NHwxNzA2ODAxMDQ4MDAwfHdlYnA=/550x",
             "author" : "Ali Hazelwood"
         },
         {
@@ -3028,7 +3029,7 @@
             "day": 18,
             "month": 1,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/llevame-a-cualquier-lugar-alice-kellen/MXwyODcwMjg0MnwyNTA5MTE2OXwxNjg3MjY4MDk5MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/leva-me-a-qualquer-lugar-alice-kellen/MXwyOTU2ODIwN3wyNTk5Mjc2M3wxNzAzMTU2MDQ5MDAwfHdlYnA=/550x",
             "author" : "Alice Kellen"
         },
         {
@@ -3037,7 +3038,7 @@
             "day": 18,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628703464i/56898248.jpg",
+            "cover": "https://img.wook.pt/images/ataque-de-charme-alison-cochrun/MXwyOTU2ODIwOHwyNTk5Mjc2NHwxNzAzMTU2MDQ5MDAwfHdlYnA=/550x",
             "author" : "Alison Cochrun"
         },
         {
@@ -3055,7 +3056,7 @@
             "day": 9,
             "month": 2,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678294316i/123206634.jpg",
+            "cover": "https://img.wook.pt/images/bully-penelope-douglas/MXwyOTY2NjU1OXwyNjA5MjczNXwxNzA2NTM4NTU3MDAwfHdlYnA=/550x",
             "author" : "Penelope Douglas"
         },
         {
@@ -3064,7 +3065,7 @@
             "day": 1,
             "month": 2,
             "year": 2024,
-            "cover": "http://www.saidadeemergencia.com/images//products/Amor_e_Outras_Mentiras.jpg",
+            "cover": "https://img.wook.pt/images/amor-e-outras-fraudes-pj-ellis/MXwyOTUxNTExMnwyNTkzMDk4OHwxNzAxMzUyNzcyMDAwfHdlYnA=/550x",
             "author" : "Andreia Ramos"
         },
         {
@@ -3073,8 +3074,9 @@
             "day": 11,
             "month": 1,
             "year": 2024,
-            "cover": "https://img.bertrand.pt/images/22-11-63-stephen-king/NDV8MjQ1NjQzNTl8MjMwNjg2ODZ8MTYxMjQ5NTI4NDAwMHx3ZWJw/300x",
-            "author" : "Stephen King"
+            "cover": "https://img.wook.pt/images/22-11-63-stephen-king/MXwyOTQ0OTkwMnwyNTg1NzkxMnwxNzAyNjYxMjQwMDAwfHdlYnA=/550x",
+            "author" : "Stephen King",
+            "bought": true
         },
         {
             "title": "A dama do destino",
@@ -3082,7 +3084,7 @@
             "day": 16,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642713157i/57190453.jpg",
+            "cover": "https://img.wook.pt/images/a-dama-do-destino-chloe-gong/MXwyOTg3NzIzMHwyNjMyNjA1OXwxNzExNDcyNTUwMDAwfHdlYnA=/550x",
             "author" : "Chloe Gong"
         },
         {
@@ -3139,11 +3141,11 @@
             "author" : "B.K. Borison"
         },
         {
-            "title": "Happiness for beginners",
+            "title": "Felicidade para Principiantes",
             "editora": "Porto Editora",
-            "month": 6,
+            "month": 3,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656355023i/61361515.jpg",
+            "cover": "https://img.wook.pt/images/felicidade-para-principiantes-katherine-center/MXwyOTYzNDc0M3wyNjA2MjkxNHwxNzA5ODI1MjU0MDAwfHdlYnA=/550x",
             "author" : "Katherine Center"
         },
         {
@@ -3174,7 +3176,7 @@
             "day": 7,
             "month": 2,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644258928i/51035594.jpg",
+            "cover": "https://img.wook.pt/images/a-vida-em-loop-lynn-painter/MXwyOTYxMzM4NXwyNjA0MTc0MXwxNzA1NDEzMjY5MDAwfHdlYnA=/550x",
             "author" : "Lynn Painter"
         },
         {
@@ -3217,7 +3219,7 @@
             "day": 22,
             "month": 2,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/act-your-age-eve-brown-talia-hibbert/MXwyNTkyNzYzMXwyMjIwMTkyOHwxNjk1MDk1MjEzMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/ve-se-cresces-eve-brown-talia-hibbert/MXwyOTY4NDI5OHwyNjExMDM5M3wxNzA2ODAxMDQ4MDAwfHdlYnA=/550x",
             "author" : "Talia Hibbert"
         },
         {
@@ -3244,7 +3246,7 @@
             "day": 14,
             "month": 3,
             "year": 2024,
-            "cover": "",
+            "cover": "https://img.wook.pt/images/sei-o-teu-nome-rute-dias/MXwyOTczOTY2NXwyNjE2NDg1MHwxNzA4MDEwODA3MDAwfHdlYnA=/550x",
             "author" : "Rute Dias"
         },
         {
@@ -3298,7 +3300,7 @@
             "day": 26,
             "month": 3,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/nothing-more-to-tell-karen-m-mcmanus/MXwyNzA5NjQ2NnwyMzQwNTM4OHwxNjU0MTY3OTc1MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/nada-mais-a-dizer-karen-m-mcmanus/MXwyOTc3NzMyMnwyNjIwMTc2MXwxNzA5MTE2NzkyMDAwfHdlYnA=/550x",
             "author" : "Karen M. McManus"
         },
         {
@@ -3307,7 +3309,7 @@
             "day": 18,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706309061i/206023355.jpg",
+            "cover": "https://img.wook.pt/images/throttled-a-todo-o-gas-lauren-asher/MXwyOTgyMzc2MnwyNjI0NDk1OXwxNzA5ODEzMjcwMDAwfHdlYnA=/550x",
             "author" : "Lauren Asher"
         },
         {
@@ -3319,12 +3321,12 @@
             "author" : "Chloe Walsh"
         },
         {
-            "title": "House of Flame and Shadow",
+            "title": "Casa de Chama e Sombra",
             "editora": "Marcador",
             "day": 5,
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689809645i/52857700.jpg",
+            "cover": "https://img.wook.pt/images/casa-de-chama-e-sombra-cidade-da-lua-crescente-3-sarah-j-maas/MXwyOTc4NjA3N3wyNjIxMDI1MHwxNzA5MjE2NDY1MDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas"
         },
         {
@@ -3336,12 +3338,12 @@
             "author" : "Riley Sager"
         },
         {
-            "title": "My Life with the walter Boys",
+            "title": "Eu e os rapazes da familia walter",
             "editora": "Marcador",
             "day": 17,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560222580i/44676677.jpg",
+            "cover": "https://img.wook.pt/images/eu-e-os-rapazes-da-familia-walter-ali-novak/MXwyOTg3NzAxOHwyNjMyNTY2NHwxNzExNDYwOTEwMDAwfHdlYnA=/550x",
             "author" : "Aly Novak"
         },
         {
@@ -3349,7 +3351,7 @@
             "editora": "Singular",
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700321347i/183086339.jpg",
+            "cover": "https://img.wook.pt/images/powerless-lauren-roberts/MXwyOTcxMjI1NXwyNjE0MDk3M3wxNzExMTI1Nzg0MDAwfHdlYnA=/550x",
             "author" : "Lauren Roberts"
         },
         {
@@ -3358,7 +3360,7 @@
             "day": 30,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691777485i/194802722.jpg",
+            "cover": "https://img.wook.pt/images/uma-boa-historia-emily-henry/MXwyOTg3NzI1NHwyNjMyNjA4M3wxNzExNDcyNTU4MDAwfHdlYnA=/550x",
             "author" : "Emily Henry"
         },
         {
@@ -3367,7 +3369,7 @@
             "day": 16,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1695099100i/199020721.jpg",
+            "cover": "https://img.wook.pt/images/a-noite-na-biblioteca-annie-crown/MXwyOTg3NzIxOHwyNjMyNjA0N3wxNzExNDcyNTQ1MDAwfHdlYnA=/550x",
             "author" : "Annie Crown"
         },
         {
@@ -3376,7 +3378,7 @@
             "day": 18,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661428846i/62080187.jpg",
+            "cover": "https://img.wook.pt/images/nunca-mintas-freida-mcfadden/MXwyOTg3NTc0MXwyNjMyMjk5N3wxNzExMzY5MjA4MDAwfHdlYnA=/550x",
             "author" : "Freida McFaden"
         },
         {
@@ -3400,7 +3402,7 @@
             "day": 17,
             "month": 4,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631517611i/48506393.jpg",
+            "cover": "https://img.wook.pt/images/um-veneno-doce-e-sombrio-judy-i-lin/MXwyOTg3NzAxMnwyNjMyNTY1OHwxNzExNDYwOTA3MDAwfHdlYnA=/550x",
             "author" : "Judy I. Lin"
         },
         {
@@ -3418,7 +3420,7 @@
             "day": 29,
             "month": 4,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/too-late-colleen-hoover/MXwyODQwNTI1NHwyNDc3MTQwMnwxNzAzNzQwMTM1MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/tarde-demais-colleen-hoover/MXwyOTg5NTgwM3wyNjM1MDYzOXwxNzEyMTMyMjk5MDAwfHdlYnA=/550x",
             "author" : "Colleen Hoover"
         },
         {
