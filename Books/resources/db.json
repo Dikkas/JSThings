@@ -3434,6 +3434,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693114168i/195532965.jpg",
             "author" : "Lyla Sage"
+        },
+        {
+            "title": "Fama de má rapariga",
+            "editora": "Topseller",
+            "day":  1,
+            "month": 4,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/fama-de-ma-rapariga-elle-kennedy/MXwyOTg2MDU4MHwyNjMwMDYyMHwxNzEwNzc2ODg5MDAwfHdlYnA=/550x",
+            "author" : "Elle Kennedy"
         }
     ]
 }
