@@ -3317,7 +3317,7 @@
         {
             "title": "Binding 13",
             "editora": "Porto Editora",
-            "month": 5,
+            "month": 6,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532534949i/40944965.jpg",
             "author" : "Chloe Walsh"
@@ -3456,6 +3456,22 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684911482i/127280062.jpg",
             "author" : "Rebecca Ross"
+        },
+        {
+            "title": "The Wall of Winnipeg and Me",
+            "editora": "Editorial Presença",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456774327i/29367958.jpg",
+            "author" : "Mariana Zapata"
+        },
+        {
+            "title": "Tudo o que nunca dissemos",
+            "editora": "Editorial Presença",
+            "day": 28,
+            "month": 5,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700320801i/198563757.jpg",
+            "author" : "Sloan Harlow"
         }
     ]
 }
