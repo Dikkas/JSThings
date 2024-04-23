@@ -1781,7 +1781,9 @@
         },
         {
             "title": "The Stolen Heir",
-            "editora": "TopSeleer",
+            "editora": "Secret Society",
+            "day": 13,
+            "month": 5,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg",
             "author" : "Holly Black"
@@ -3472,6 +3474,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700320801i/198563757.jpg",
             "author" : "Sloan Harlow"
+        },
+        {
+            "title": "Foxglove",
+            "editora": "Editorial Presença",
+            "day": 8,
+            "month": 5,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671216047i/58651856.jpg",
+            "author" : "Adalyn Grace"
         }
     ]
 }
