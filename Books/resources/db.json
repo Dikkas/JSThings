@@ -1153,8 +1153,10 @@
             "author" : "Andreia Ramos"
         },
         {
-            "title": "Covet",
+            "title": "Cobiça",
             "editora": "Leya",
+            "day": 7,
+            "month": 5,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg",
             "author" : "Tracy Wolff"
@@ -3431,8 +3433,10 @@
             "author" : "Colleen Hoover"
         },
         {
-            "title": "Done and Dust",
+            "title": "Feita e Desfeita",
             "editora": "Guerra e Paz",
+            "day": 18,
+            "month": 6,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677968591i/123179008.jpg",
             "author" : "Lyla Sage"
