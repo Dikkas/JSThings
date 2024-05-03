@@ -3216,8 +3216,10 @@
             "author" : "Raphael Montes"
         },
         {
-            "title": "The Assassin's Blade",
+            "title": "A Lâmina da Assassina",
             "editora": "Marcador",
+            "day": 22,
+            "month": 5,
             "year": 2024,
             "cover": "https://img.wook.pt/images/the-assassins-blade-sarah-j-maas/MXwyNzI2NDY1MnwyMzYwMTgxNXwxNjk5OTM3NTA3MDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas"
@@ -3499,6 +3501,33 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539963703i/41118857.jpg",
             "author" : "R.F. Kuang"
+        },
+        {
+            "title": "The Breakup Tour",
+            "editora": "Leya",
+            "day": 14,
+            "month": 5,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687810408i/139400621.jpg",
+            "author" : "Emily Wibberley"
+        },
+        {
+            "title": "Assistente do Vilão",
+            "editora": "Leya",
+            "day": 13,
+            "month": 5,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701028546i/202338734.jpg",
+            "author" : "Hannah Nicole Maehrer"
+        },
+        {
+            "title": "Tudo o que acontece depois da Meia-Noite",
+            "editora": "Editorial Presença",
+            "day": 22,
+            "month": 5,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666703072i/60197316.jpg",
+            "author" : "K. L. Walther"
         }
     ]
 }
