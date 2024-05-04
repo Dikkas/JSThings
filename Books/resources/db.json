@@ -300,7 +300,8 @@
             "month": 6,
             "year": 2023,
             "cover": "https://cdn.shopify.com/s/files/1/0450/0717/5837/files/01950232_Corte_Gelo_Estrelas_1024x1024.jpg?v=1684311332",
-            "author" : "Sarah J. Maas"
+            "author" : "Sarah J. Maas",
+            "bought": true
         },
         {
             "title": "Tudo o que restou de nós",
@@ -735,7 +736,8 @@
             "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/twisted-lies-ana-huang/MXwyODYwNzMzM3wyNDk4ODk2MHwxNjg0NzcwNDk2MDAwfHdlYnA=/550x",
-            "author" : "Ana Huang"
+            "author" : "Ana Huang",
+            "bought" : true
         },
         {
             "title": "Punk 57",
@@ -1194,7 +1196,7 @@
             "day": 18,
             "month": 10,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/a-lei-dos-coracoes-perdidos-mariana-faria/MXwyOTU2ODIwMnwyNTk5Mjc1OHwxNzAzMTU2MDQ3MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/os-nossos-coracoes-perdidos-celeste-ng/MXwyNzc1NzU3OXwyNDEzMDU4OHwxNjY1NDgzNjY0MDAwfHdlYnA=/550x",
             "author" : "Celeste Ng"
         },
         {
@@ -1735,7 +1737,8 @@
             "month": 6,
             "year": 2023,
             "cover": "https://img.wook.pt/images/a-teoria-do-amor-ali-hazelwood/MXwyODYzNzE4OHwyNTAyMTE1NHwxNjg1OTYwNDU2MDAwfHdlYnA=/550x",
-            "author" : "Ali Hazelwood"
+            "author" : "Ali Hazelwood",
+            "bought" : true
         },
         {
             "title": "Finlay Donovan Vai Arrasar",
@@ -2801,8 +2804,9 @@
             "day": 18,
             "month": 1,
             "year": 2024,
-            "cover": "http://www.saidadeemergencia.com/images//products/thumbs/Lei_dos_Coracoes_Perdidos_150_229.jpg",
-            "author" : "Mariana Faria"
+            "cover": "https://img.wook.pt/images/a-lei-dos-coracoes-perdidos-mariana-faria/MXwyOTU2ODIwMnwyNTk5Mjc1OHwxNzAzMTU2MDQ3MDAwfHdlYnA=/550x",
+            "author" : "Mariana Faria",
+            "bought": true
         },
         {
             "title": "Daisy Haites: A Grande Ruína",
@@ -3267,7 +3271,8 @@
             "month": 3,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900.jpg",
-            "author" : "Lauren Roberts"
+            "author" : "Lauren Roberts",
+            "bought" : true
         },
         {
             "title": "Rei do Orgulho",
