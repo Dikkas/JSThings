@@ -3533,6 +3533,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666703072i/60197316.jpg",
             "author" : "K. L. Walther"
+        },
+        {
+            "title": "Powerful",
+            "editora": "Singular",
+            "day": 29,
+            "month": 5,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/powerful-lauren-roberts/MXwyOTk0NTcwOXwyNjQwODMzMHwxNzE1MTcxNzczMDAwfHdlYnA=/550x",
+            "author" : "Lauren Roberts"
         }
     ]
 }
