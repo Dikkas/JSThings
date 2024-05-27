@@ -2489,10 +2489,12 @@
             "author" : "Katy Hays"
         },
         {
-            "title": "Throne of the Fallen",
+            "title": "O Trono dos Vencidos",
             "editora": "Bertrand",
+            "day": 3,
+            "month": 8,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673510962i/73071451.jpg",
+            "cover": "https://img.wook.pt/images/o-trono-dos-vencidos-kerri-maniscalco/MXwyOTczNTAzN3wyNjE2MDc5NHwxNzE1MzUzNDcxMDAwfHdlYnA=/550x",
             "author" : "Kerri Maniscalco"
         },
         {
@@ -3542,6 +3544,49 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/powerful-lauren-roberts/MXwyOTk0NTcwOXwyNjQwODMzMHwxNzE1MTcxNzczMDAwfHdlYnA=/550x",
             "author" : "Lauren Roberts"
+        },
+        {
+            "title": "Corrente de Espinhos",
+            "editora": "Planeta",
+            "day": 4,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/corrente-de-espinhos-cassandra-clare/MXwzMDAxMjk4NXwyNjQ4Njc5MXwxNzE1ODUzNTY2MDAwfHdlYnA=/550x",
+            "author" : "Cassandra Clare"
+        },
+        {
+            "title": "How to End a Love Story",
+            "editora": "Bertrand Editora",
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696260259i/63247365.jpg",
+            "author" : "Cassandra Clare"
+        },
+        {
+            "title": "O Efeito Graham",
+            "editora": "TopSeleer",
+            "day": 10,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/the-graham-effect-elle-kennedy/MXwyODYwMzM0MXwyNDk4NTAwOXwxNzExNDMyNjcyMDAwfHdlYnA=/550x",
+            "author" : "Elle Kennedy"
+        },
+        {
+            "title": "Mil Beijos",
+            "editora": "Quinta Essencia",
+            "day": 11,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453299050i/25912358.jpg",
+            "author" : "Tillie Cole"
+        },
+        {
+            "title": "O Clube Sad Ghost 2",
+            "editora": "Asa Editora",
+            "day": 11,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633029075i/59121876.jpg",
+            "author" : "Lize Meddings"
         }
     ]
 }
