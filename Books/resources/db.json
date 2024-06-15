@@ -1825,8 +1825,10 @@
             "author" : "Laura Nowlin"
         },
         {
-            "title": "If only i had told her",
-            "editora": "Editorial Presença",            
+            "title": "Se eu lhe tivesse dito",
+            "editora": "Editorial Presença",  
+            "day": 3,
+            "month": 7,
             "year": 2024,
             "cover": "https://m.media-amazon.com/images/I/41p7u5HxgpL._SX331_BO1,204,203,200_.jpg",
             "author" : "Laura Nowlin"
@@ -3416,7 +3418,8 @@
             "month": 6,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677968591i/123179008.jpg",
-            "author" : "Lyla Sage"
+            "author" : "Lyla Sage",
+            "bought": true
         },
         {
             "title": "Swift and Saddled",
@@ -3557,6 +3560,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633029075i/59121876.jpg",
             "author" : "Lize Meddings"
+        },
+        {
+            "title": "Reckless",
+            "editora": "Singular",
+            "day": 11,
+            "month": 7,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900.jpg",
+            "author" : "Lauren Roberts"
         }
     ]
 }
