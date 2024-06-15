@@ -109,4 +109,57 @@ function objectCard(title, day, month, year, editora, cover, bought, author) {
     return { coverImg, badge, title, relDate, daysLeft, editora, author };
 }
 
+function myFunction(){
+    const elements = document.getElementsByClassName("card shadow-lg")
+    for (var i = elements.length - 1; i >= 0; --i) {
+        elements[i].remove();
+      }
+
+    input = document.getElementById('myInput');
+    filter = input.value.toUpperCase();
+    writeFilterData(books, filter);
+}
+
+function writeFilterData(data, filter) {
+    for (let i = 0; i < data.length; i++) {
+        let { coverImg, badge, title, relDate, daysLeft, editora, author } =
+            data[i];
+        if (badge === "success" && (filterCheck(title, editora, author, filter))) {
+            released.innerHTML += createCard(
+                coverImg,
+                badge,
+                title,
+                relDate,
+                daysLeft,
+                editora,
+                author
+            );
+        } else if (badge === "info" && (filterCheck(title, editora, author, filter))) {
+            boughtBooks.innerHTML += createCard(
+                coverImg,
+                badge,
+                title,
+                relDate,
+                daysLeft,
+                editora,
+                author
+            );
+        } else if (filterCheck(title, editora, author, filter)){
+            nextBooks.innerHTML += createCard(
+                coverImg,
+                badge,
+                title,
+                relDate,
+                daysLeft,
+                editora,
+                author
+            );
+        }
+    }
+}
+
+function filterCheck(title, editora, author, filter){
+    return (title.toUpperCase().includes(filter) || editora.toUpperCase().includes(filter) || author.toUpperCase().includes(filter))
+}
+
 getData();
