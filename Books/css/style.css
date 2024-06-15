@@ -49,7 +49,7 @@
     display: flex;
     justify-content: center;
     gap: 1%;
-    margin-bottom: 1%;
+    margin-block: 20px;
 }
 
 #myInput {
@@ -60,4 +60,10 @@
     font-size: 16px; /* Increase font-size */
     padding: 12px 20px 12px 20px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
+}
+
+@media only screen and (max-width: 600px) {
+  #myInput {
+    width: 90%
+  }
 }
