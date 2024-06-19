@@ -2133,7 +2133,7 @@
         },
         {
             "title": "Roubar o Infinito",
-            "editora": "Editorial Presença",
+            "editora": "Porto Editora",
             "day": 1,
             "month": 6,
             "year": 2023,
@@ -3310,10 +3310,11 @@
         },
         {
             "title": "Binding 13",
-            "editora": "Porto Editora",
+            "editora": "Singular Editora",
+            "day": 20,
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532534949i/40944965.jpg",
+            "cover": "https://img.wook.pt/images/binding-13-chloe-walsh/MXwyOTg2NDE0MHwyNjMwNjUzN3wxNzE2MzcwMjAyMDAwfHdlYnA=/550x",
             "author" : "Chloe Walsh"
         },
         {
@@ -3569,6 +3570,23 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/reckless-lauren-roberts/MXwzMDA2OTQyNnwyNjU1MTk5MnwxNzE4MzYwNDM0MDAwfHdlYnA=/550x",
             "author" : "Lauren Roberts"
+        },
+        {
+            "title": "Keeping 13",
+            "editora": "Singular Editora",
+            "month": 9,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/keeping-13-chloe-walsh/MXwyODUyNjU5OHwyNDkwMzc0NnwxNzE0NDQ5MjQ5MDAwfHdlYnA=/550x",
+            "author" : "Chloe Walsh"
+        },
+        {
+            "title": "Dominar o Destino",
+            "editora": "Porto Editora",
+            "day": 27,
+            "month": 6,
+            "year": 202,
+            "cover": "https://img.wook.pt/images/dominar-o-destino-alyson-noel/MXwyOTE4ODQxNXwyNTU3MjAxOXwxNzE4MDk5MDk5MDAwfHdlYnA=/550x",
+            "author" : "Alyson Noël"
         }
     ]
 }
