@@ -2448,9 +2448,11 @@
         },
         {
             "title": "Haunting Adeline",
-            "editora": "Infinito Particular",
+            "editora": "Cultura Editora",
+            "day": 1,
+            "month": 8,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628900532i/58763686.jpg",
+            "cover": "https://img.wook.pt/images/haunting-adeline-h-d-carlton/MXwyNjYyNDYzMnwyMjkwMDgwOHwxNjg5MTgzOTM2MDAwfHdlYnA=/550x",
             "author" : "H.D. Carlton"
         },
         {
@@ -3625,6 +3627,15 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493879617i/35060783.jpg",
             "author" : "Mona Kasten"
+        },
+        {
+            "title": "Não te apoixones",
+            "editora": "Zero a oito",
+            "day": 16,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/nao-te-apaixones-laura-jane-williams/MXwzMDExODQ2OHwyNjYwNTAyNXwxNzE5MzkwOTg1MDAwfHdlYnA=/550x",
+            "author" : "Laura Jane Williams"
         }
     ]
 }
