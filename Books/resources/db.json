@@ -110,7 +110,7 @@
             "day": 16,
             "month": 3,
             "year": 2022,
-            "cover": "https://img.wook.pt/images/herdeira-do-fogo-sarah-j-maas/MXwyNjY3NjUwNnwyMjk1NTgzM3wxNjQ1NDg4MDAwMDAw/500x",
+            "cover": "https://img.wook.pt/images/herdeira-do-fogo-sarah-j-maas/MXwyOTcyNzI5NHwyNjE1MzkwNHwxNzA3NzQ1NzkwMDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas",
             "bought": true
         },
@@ -120,9 +120,8 @@
             "day": 5,
             "month": 1,
             "year": 2023,
-            "cover": "https://img.wook.pt/images/rainha-das-sombras-sarah-j-maas/MXwyNzk3OTAwNnwyNDM4NjcwN3wxNjcxMDE2Njk2MDAwfHdlYnA=/550x",
-            "author" : "Sarah J. Maas",
-            "bought": true
+            "cover": "https://img.wook.pt/images/rainha-das-sombras-sarah-j-maas/MXwyOTcyNzI5NXwyNjE1MzkwNXwxNzA3NzQ1NzkwMDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas"
         },
         {
             "title": "Cerco e Tempestade",
@@ -2424,7 +2423,8 @@
             "month": 8,
             "year": 2023,
             "cover": "https://img.wook.pt/images/apenas-amigos-abby-jimenez/MXwyOTIxMDQyMHwyNTU5Njc4NXwxNjkwODk4NTA0MDAwfHdlYnA=/550x",
-            "author" : "Abby Jimenez"
+            "author" : "Abby Jimenez",
+            "bought": true
         },
         {
             "title": "Renegades",
@@ -2612,7 +2612,8 @@
             "month": 9,
             "year": 2023,
             "cover": "https://particular.pt/cdn/shop/files/9789899150713.jpg?v=1694532019&width=600",
-            "author" : "Neal Shusterman"
+            "author" : "Neal Shusterman",
+            "bought": true
         },
         {
             "title": "Fogo Selvagem",
@@ -2799,7 +2800,7 @@
             "day": 10,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680345869i/108519099.jpg",
+            "cover": "https://img.wook.pt/images/heartless-elsie-silver/MXwyOTU2Mzc1OHwyNTk4NzU3NHwxNzAzMDAyNzI5MDAwfHdlYnA=/550x",
             "author" : "Elsie Silver"
         },
         {
@@ -3259,7 +3260,7 @@
             "day": 21,
             "month": 3,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/powerless-elsie-silver/MXwyOTg5MjI3MXwyNjM0Nzk0OXwxNzEyMDQ2NzQ2MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/powerless-lauren-roberts/MXwyOTcxMjI1NXwyNjU0MDI5OHwxNzE4ODc0MDI5MDAwfHdlYnA=/550x",
             "author" : "Lauren Roberts",
             "bought" : true
         },
@@ -3359,7 +3360,8 @@
             "month": 4,
             "year": 2024,
             "cover": "https://img.wook.pt/images/uma-boa-historia-emily-henry/MXwyOTg3NzI1NHwyNjMyNjA4M3wxNzExNDcyNTU4MDAwfHdlYnA=/550x",
-            "author" : "Emily Henry"
+            "author" : "Emily Henry",
+            "bought": true
         },
         {
             "title": "à noite na biblioteca",
@@ -3409,7 +3411,7 @@
             "day": 17,
             "month": 4,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/powerless-elsie-silver/MXwyODAxMjc1NXwyNDQxOTEzN3wxNzEyMDMwOTUzMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/powerless-elsie-silver/MXwyOTg5MjI3MXwyNjM0Nzk0OXwxNzEyMDQ2NzQ2MDAwfHdlYnA=/550x",
             "author" : "Elsie Silver"
         },
         {
@@ -3427,7 +3429,7 @@
             "day": 1,
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677968591i/123179008.jpg",
+            "cover": "https://img.wook.pt/images/feita-e-desfeita-lyla-sage/MXwyOTk3NDM4N3wyNjQzODk1NXwxNzE0NzQ4MDM0MDAwfHdlYnA=/550x",
             "author" : "Lyla Sage",
             "bought": true
         },
@@ -3492,12 +3494,12 @@
             "author" : "R.F. Kuang"
         },
         {
-            "title": "The Breakup Tour",
+            "title": "The Breakup Tour: A canção do nosso amor",
             "editora": "Leya",
             "day": 14,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687810408i/139400621.jpg",
+            "cover": "https://img.wook.pt/images/the-breakup-tour-a-cancao-do-nosso-amor-emily-wibberley/MXwyOTk3MzA0MHwyNjQzNzM2N3wxNzE0NjQxMDYwMDAwfHdlYnA=/550x",
             "author" : "Emily Wibberley",
             "bought": true
         },
@@ -3542,7 +3544,7 @@
             "editora": "Bertrand Editora",
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696260259i/63247365.jpg",
-            "author" : "Cassandra Clare"
+            "author" : "Yulin Kuang"
         },
         {
             "title": "O Efeito Graham",
@@ -3569,7 +3571,8 @@
             "month": 6,
             "year": 2024,
             "cover": "https://img.wook.pt/images/o-clube-sad-ghost-n-2-lize-meddings/MXwzMDA0NzMwM3wyNjUyNjc0N3wxNzE3MTUwMTU3MDAwfHdlYnA=/550x",
-            "author" : "Lize Meddings"
+            "author" : "Lize Meddings",
+            "bought": true
         },
         {
             "title": "Reckless",
@@ -3649,7 +3652,8 @@
             "month": 7,
             "year": 2024,
             "cover": "https://img.wook.pt/images/de-volta-a-ti-amy-lea/MXwzMDExODQ5M3wyNjYwNTE1OHwxNzE5Mzk5NzE2MDAwfHdlYnA=/550x",
-            "author" : "Amy Lea"
+            "author" : "Amy Lea",
+            "bought": true
         },
         {
             "title": "Tinhas de ser Tu",
@@ -3667,7 +3671,8 @@
             "month": 6,
             "year": 2024,
             "cover": "https://img.wook.pt/images/cruzar-a-meta-simone-soltani/MXwzMDAxMjk4OHwyNjQ4Njc5NHwxNzE1ODUzNTY4MDAwfHdlYnA=/550x",
-            "author" : "Simone Soltani"
+            "author" : "Simone Soltani",
+            "bought": true
         },
         {
             "title": "A Criada esta a ver",
@@ -3712,7 +3717,24 @@
             "month": 6,
             "year": 2024,
             "cover": "https://img.wook.pt/images/nao-e-amor-ali-hazelwood/MXwzMDA2MzI5MnwyNjU0NDk0NHwxNzE3NTk5MTYwMDAwfHdlYnA=/550x",
-            "author" : "Ali Hazelwood"
+            "author" : "Ali Hazelwood",
+            "bought": true
+        },
+        {
+            "title": "Skandar e o Cavaleiro Fantasma",
+            "editora": "Nuvem de Tinta",
+            "month": 5,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/skandar-e-o-cavaleiro-fantasma-af-steadman/MXwyODUwNjE1N3wyNDg3OTkwM3wxNjgxODkzNzY4MDAwfHdlYnA=/550x",
+            "author" : "A.F. Steadman"
+        },
+        {
+            "title": "Skandar e os desafios do caos",
+            "editora": "Nuvem de Tinta",
+            "month": 5,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/skandar-e-os-desafios-do-caos-af-steadman/MXwzMDAxMDA0MHwyNjQ4MjQyNnwxNzE1NzYxMjg1MDAwfHdlYnA=/550x",
+            "author" : "A.F. Steadman"
         }
     ]
 }
