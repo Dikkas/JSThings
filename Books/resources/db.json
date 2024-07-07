@@ -1152,7 +1152,7 @@
             "day": 7,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612742255i/53426743.jpg",
+            "cover": "https://img.wook.pt/images/cobica-tracy-wolff/MXwyOTk3MzAzNnwyNjQzNzM2M3wxNzE0NjQxMDU4MDAwfHdlYnA=/550x",
             "author" : "Tracy Wolff"
         },
         {
@@ -1769,12 +1769,12 @@
             "author" : "Elle Kennedy"
         },
         {
-            "title": "The Stolen Heir",
+            "title": "O Herdeiro Roubado",
             "editora": "Secret Society",
             "day": 13,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654625328i/61198133.jpg",
+            "cover": "https://img.wook.pt/images/o-herdeiro-roubado-holly-black/MXwyOTk1OTAyNHwyNjQyMjI1NnwxNzE0NDc5NjU3MDAwfHdlYnA=/550x",
             "author" : "Holly Black"
         },
         {
@@ -1830,7 +1830,7 @@
             "day": 3,
             "month": 7,
             "year": 2024,
-            "cover": "https://m.media-amazon.com/images/I/41p7u5HxgpL._SX331_BO1,204,203,200_.jpg",
+            "cover": "https://img.wook.pt/images/se-eu-lhe-tivesse-dito-laura-nowlin/MXwzMDA3ODg4OXwyNjU2MjYxOHwxNzE4MTA4NzM1MDAwfHdlYnA=/550x",
             "author" : "Laura Nowlin"
         },
         {
@@ -2172,7 +2172,7 @@
             "day": 23,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505038310i/36215220.jpg",
+            "cover": "https://img.wook.pt/images/a-cidade-de-bronze-shannon-chakraborty/MXwyOTk1ODg4NnwyNjQyMjA1OHwxNzE0Mzk0MjA0MDAwfHdlYnA=/550x",
             "author" : "S.A. Chakraborty"
         },
         {
@@ -2589,10 +2589,12 @@
             "author" : "Aiden Thomas"
         },
         {
-            "title": "My Dark Romeo",
+            "title": "Meu Romeu Sombrio",
             "editora": "Saida de Emergencia",
+            "day": 11,
+            "month": 7,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677326542i/123008168.jpg",
+            "cover": "https://img.wook.pt/images/meu-romeu-sombrio-parker-s-huntington/MXwzMDA5NTgwNnwyNjU4MDY2OHwxNzE4NzE2Mzc3MDAwfHdlYnA=/550x",
             "author" : "Parker S. Huntington & L.J. Shen"
         },
         {
@@ -2645,7 +2647,7 @@
             "day": 16,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651354353i/60909831.jpg",
+            "cover": "https://img.wook.pt/images/mile-high-liz-tomforde/MXwyOTk0NTQ5M3wyNjQwODEwM3wxNzEzODY1ODAxMDAwfHdlYnA=/550x",
             "author" : "Liz Tomforde"
         },
         {
@@ -2726,12 +2728,12 @@
             "author" : "Sarah Adler"
         },
         {
-            "title": "This Summer Will Be Different",
+            "title": "Este Verão vai ser diferente",
             "editora": "Topseller", 
             "day": 8,
             "month": 7,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694006777i/197577126.jpg",
+            "cover": "https://img.wook.pt/images/este-verao-vai-ser-diferente-carley-fortune/MXwzMDExODUwN3wyNjYwNTExM3wxNzE5MzkzODU5MDAwfHdlYnA=/550x",
             "author" : "Carley Fortune"
         },
         {
@@ -2887,7 +2889,7 @@
             "day": 19,
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680364240i/58410355.jpg",
+            "cover": "https://img.wook.pt/images/nightbane-alex-aster/MXwzMDA0OTI5MHwyNjUyOTUxN3wxNzE2OTcxNTAzMDAwfHdlYnA=/550x",
             "author" : "Alex Aster"
         },
         {
@@ -3009,8 +3011,10 @@
         {
             "title": "My Killer Vacation",
             "editora": "Desrotina",
+            "day": 18,
+            "month": 7,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/my-killer-vacation-tessa-bailey/MXwyODQ5MDY3NnwyNDg2Mjk4N3wxNjgyNTIxMDkyMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/umas-ferias-de-morrer-tessa-bailey/MXwzMDExODQ5MnwyNjYwNTE1N3wxNzE5Mzk5NzE2MDAwfHdlYnA=/550x",
             "author" : "Tessa Bailey"
         },
         {
@@ -3146,11 +3150,11 @@
             "author" : "Katherine Center"
         },
         {
-            "title": "Murder in the Family",
+            "title": "Crime em Familia",
             "editora": "Porto Editora",
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685991318i/63270193.jpg",
+            "cover": "https://img.wook.pt/images/crime-em-familia-cara-hunter/MXwyOTgzMTg5NHwyNjI1NzcwNHwxNzE0Mzc5MzU4MDAwfHdlYnA=/550x",
             "author" : "Cara Hunter"
         },
         {
@@ -3209,7 +3213,7 @@
             "day": 22,
             "month": 5,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/the-assassins-blade-sarah-j-maas/MXwyNzI2NDY1MnwyMzYwMTgxNXwxNjk5OTM3NTA3MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/a-lamina-da-assassina-sarah-j-maas/MXwyOTk2MTQ3MXwyNjQyNDg1OHwxNzE0NDg2NDM0MDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas"
         },
         {
@@ -3254,7 +3258,7 @@
             "day": 21,
             "month": 3,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900.jpg",
+            "cover": "https://img.wook.pt/images/powerless-elsie-silver/MXwyOTg5MjI3MXwyNjM0Nzk0OXwxNzEyMDQ2NzQ2MDAwfHdlYnA=/550x",
             "author" : "Lauren Roberts",
             "bought" : true
         },
@@ -3474,7 +3478,7 @@
             "day": 8,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671216047i/58651856.jpg",
+            "cover": "https://img.wook.pt/images/foxglove-adalyn-grace/MXwyOTk0NDg0OHwyNjQwNjgzN3wxNzEzNzk3ODk1MDAwfHdlYnA=/550x",
             "author" : "Adalyn Grace"
         },
         {
@@ -3483,7 +3487,7 @@
             "day": 23,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539963703i/41118857.jpg",
+            "cover": "https://img.wook.pt/images/a-republica-do-dragao-rf-kuang/MXwyOTk1ODg4M3wyNjQyMjA1NXwxNzE1MDg3NDgyMDAwfHdlYnA=/550x",
             "author" : "R.F. Kuang"
         },
         {
@@ -3511,7 +3515,7 @@
             "day": 22,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666703072i/60197316.jpg",
+            "cover": "https://img.wook.pt/images/tudo-o-que-acontece-depois-da-meia-noite-k-l-walther/MXwyOTk2MTQ2OHwyNjQyNDg1NXwxNzE0NDg2NDMzMDAwfHdlYnA=/550x",
             "author" : "K. L. Walther"
         },
         {
@@ -3545,7 +3549,7 @@
             "day": 10,
             "month": 6,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/the-graham-effect-elle-kennedy/MXwyODYwMzM0MXwyNDk4NTAwOXwxNzExNDMyNjcyMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/o-efeito-graham-elle-kennedy/MXwzMDA0OTM2NXwyNjUyOTY3MXwxNzE2OTc2NzYxMDAwfHdlYnA=/550x",
             "author" : "Elle Kennedy"
         },
         {
@@ -3554,7 +3558,7 @@
             "day": 11,
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453299050i/25912358.jpg",
+            "cover": "https://img.wook.pt/images/mil-beijos-tillie-cole/MXwzMDA0NzMxOXwyNjUyNjc2M3wxNzE2OTAyODA2MDAwfHdlYnA=/550x",
             "author" : "Tillie Cole"
         },
         {
@@ -3563,7 +3567,7 @@
             "day": 11,
             "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633029075i/59121876.jpg",
+            "cover": "https://img.wook.pt/images/o-clube-sad-ghost-n-2-lize-meddings/MXwzMDA0NzMwM3wyNjUyNjc0N3wxNzE3MTUwMTU3MDAwfHdlYnA=/550x",
             "author" : "Lize Meddings"
         },
         {
@@ -3598,7 +3602,7 @@
             "day": 9,
             "month": 7,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/pucking-around-emily-rath/MXwyOTA3NTE0M3wyNTQ2MTQyMXwxNzE5MDA1NTMzMDAwfHdlYnA=/450x",
+            "cover": "https://img.wook.pt/images/pucking-around-emily-rath/MXwzMDExODg1MXwyNjYwNTQ5N3wxNzE5NDE1ODI5MDAwfHdlYnA=/550x",
             "author" : "Emily Rath"
         },
         {
@@ -3607,35 +3611,44 @@
             "day": 16,
             "month": 7,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/to-kill-a-kingdom-alexandra-christo/MXwyMDg5MTQ5OXwxNjc0ODcwOXwxNjg0MjcxNTYyMDAwfHdlYnA=/450x",
+            "cover": "https://img.wook.pt/images/destruir-o-reino-alexandra-christo/MXwzMDExODg1OHwyNjYwNTUwNHwxNzE5NDE1ODMyMDAwfHdlYnA=/550x",
             "author" : "Alexandra Christo"
         },
         {
-            "title": "Rules for Rule Breaking",
+            "title": "Lista de Regras para Quebrar",
             "editora": "Gailivro",
             "day": 9,
             "month": 7,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687416985i/179956934.jpg",
+            "cover": "https://img.wook.pt/images/lista-de-regras-para-quebrar-talia-tucker/MXwzMDEyOTc0NnwyNjYxODc0NnwxNzE5OTIyMDQ2MDAwfHdlYnA=/550x",
             "author" : "Talia Tucker"
         },
         {
             "title": "Save Us",
             "editora": "Editorial Presença",
             "day": 17,
-            "month": 6,
+            "month": 7,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493879617i/35060783.jpg",
+            "cover": "https://img.wook.pt/images/save-us-livro-3-mona-kasten/MXwzMDExNDIwN3wyNjYwMDExNHwxNzE5Mzk4OTg0MDAwfHdlYnA=/550x",
             "author" : "Mona Kasten"
         },
         {
             "title": "Não te apoixones",
             "editora": "Zero a oito",
             "day": 16,
-            "month": 6,
+            "month": 7,
             "year": 2024,
             "cover": "https://img.wook.pt/images/nao-te-apaixones-laura-jane-williams/MXwzMDExODQ2OHwyNjYwNTAyNXwxNzE5MzkwOTg1MDAwfHdlYnA=/550x",
             "author" : "Laura Jane Williams"
+        },
+        {
+            "title": "De volta a ti",
+            "editora": "Desrotina",
+            "day": 18,
+            "month": 7,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/de-volta-a-ti-amy-lea/MXwzMDExODQ5M3wyNjYwNTE1OHwxNzE5Mzk5NzE2MDAwfHdlYnA=/550x",
+            "author" : "Amy Lea"
         }
     ]
 }
