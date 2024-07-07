@@ -358,10 +358,11 @@
             "author" : "Holly Miller"
         },
         {
-            "title": "Free Love",
-            "editora": "Editorial Presença",
+            "title": "Amor Livre",
+            "editora": "Particular Editora",
+            "month": 2,
             "year": 2024,
-            "cover": "https://images.randomhouse.com/cover/9781039003057",
+            "cover": "https://img.wook.pt/images/amor-livre-tessa-hadley/MXwyOTYxMTQ3MHwyNjAzOTU0NHwxNzA1MzIxMDUwMDAwfHdlYnA=/450x",
             "author" : "Tessa Hadley"
         },
         {
@@ -978,11 +979,11 @@
             "author" : "Estelle Maskame"
         },
         {
-            "title": "The Winners",
+            "title": "Os Vencedores",
             "editora": "Editorial Presença",
             "month": 5,
             "year": 2024,
-            "cover": "https://m.media-amazon.com/images/I/41qLt9-I7SL.jpg",
+            "cover": "https://img.wook.pt/images/os-vencedores-fredrik-backman/MXwyOTQzNjQ3NnwyNTg0MjExOXwxNzE1Nzg3MTA2MDAwfHdlYnA=/550x",
             "author" : "Frederik Backman"
         },
         {
@@ -2447,12 +2448,12 @@
             "author" : "Marissa Meyer"
         },
         {
-            "title": "Haunting Adeline",
+            "title": "A sombra de Adeline",
             "editora": "Cultura Editora",
             "day": 1,
             "month": 8,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/haunting-adeline-h-d-carlton/MXwyNjYyNDYzMnwyMjkwMDgwOHwxNjg5MTgzOTM2MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/a-sombra-de-adeline-h-d-carlton/MXwzMDEzNjU0MHwyNjYyNjAyMnwxNzIwMTc4MzUwMDAwfHdlYnA=/550x",
             "author" : "H.D. Carlton"
         },
         {
@@ -2651,17 +2652,21 @@
             "author" : "Liz Tomforde"
         },
         {
-            "title": "Love Redesigned",
+            "title": "Amor Redesenhado",
             "editora": "Marcador",
+            "day": 5,
+            "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682094827i/90382259.jpg",
+            "cover": "https://img.wook.pt/images/amor-redesenhado-lauren-asher/MXwyOTk0ODU2NHwyNjQxMTQ2OHwxNzEzOTYyMTE3MDAwfHdlYnA=/550x",
             "author" : "Lauren Asher"
         },
         {
             "title": "Say you Swear",
-            "editora": "",
+            "editora": "Clube do Autor",
+            "day": 26,
+            "month": 6,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645806563i/60495054.jpg",
+            "cover": "https://img.wook.pt/images/jura-que-es-meu-meagan-brandy/MXwzMDA4MjQ1M3wyNjU2NjMzNXwxNzE4MTg2Nzg4MDAwfHdlYnA=/550x",
             "author" : "Meagan Brandy"
         },
         {
@@ -2757,8 +2762,9 @@
         {
             "title": "Pineapple Street",
             "editora": "Edições ASA",
-            "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659404866i/61246258.jpg",
+            "month": 9,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/a-casa-de-pineapple-street-jenny-jackson/MXwyODIxNzgwMHwyNDYwMTg5NHwxNjkzMzI1NDA4MDAwfHdlYnA=/550x",
             "author" : "Jenny Jackson"
         },
         {
@@ -3018,10 +3024,12 @@
             "author" : "Tessa Bailey"
         },
         {
-            "title": "Part of your world",
+            "title": "Parte do Teu Mundo",
             "editora": "Desrotina",
+            "day": 18,
+            "month": 4,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/part-of-your-world-abby-jimenez/MXwyNTkyOTE4MnwyMjIwMzQ4NXwxNjgyNTgzMzQwMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/parte-do-teu-mundo-abby-jimenez/MXwyOTg5MTU3OHwyNjM0NTQ3NHwxNzExOTY5NTI4MDAwfHdlYnA=/550x",
             "author" : "Abby Jimenez"
         },
         {
@@ -3043,12 +3051,12 @@
             "author" : "Alison Cochrun"
         },
         {
-            "title": "Amor & outras Fraudes",
+            "title": "Amor e outras Fraudes",
             "editora": "Leya",
             "day": 9,
             "month": 1,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677904431i/74863422.jpg",
+            "cover": "https://img.wook.pt/images/amor-e-outras-fraudes-pj-ellis/MXwyOTUxNTExMnwyNTkzMDk4OHwxNzAxMzUyNzcyMDAwfHdlYnA=/550x",
             "author" : "PJ Ellis"
         },
         {
@@ -3101,13 +3109,6 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688093952i/124932739.jpg",
             "author" : "Ann Liang"
-        },
-        {
-            "title": "Iron Flame",
-            "editora": "Planeta",
-            "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687463048i/90202302.jpg",
-            "author" : "Rebecca Yarros"
         },
         {
             "title": "Restore me",
@@ -3448,12 +3449,12 @@
             "author" : "Elle Kennedy"
         },
         {
-            "title": "Promesssa Cruéis",
+            "title": "Promesssas Cruéis",
             "editora": "Secret Society",
             "day": 27,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684911482i/127280062.jpg",
+            "cover": "https://img.wook.pt/images/promessas-crueis-rebecca-ross/MXwzMDAxMDA1NnwyNjQ4MjQ0MnwxNzE1NzYxMjkwMDAwfHdlYnA=/550x",
             "author" : "Rebecca Ross"
         },
         {
@@ -3469,7 +3470,7 @@
             "day": 28,
             "month": 5,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700320801i/198563757.jpg",
+            "cover": "https://img.wook.pt/images/tudo-o-que-nunca-dissemos-sloan-harlow/MXwyOTk2MTQxN3wyNjQyNDc4N3wxNzE0NDc5NTc0MDAwfHdlYnA=/550x",
             "author" : "Sloan Harlow"
         },
         {
@@ -3649,6 +3650,69 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/de-volta-a-ti-amy-lea/MXwzMDExODQ5M3wyNjYwNTE1OHwxNzE5Mzk5NzE2MDAwfHdlYnA=/550x",
             "author" : "Amy Lea"
+        },
+        {
+            "title": "Tinhas de ser Tu",
+            "editora": "Marcador",
+            "day": 5,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/tinhas-de-ser-tu-rebecca-yarros/MXwzMDAxMDEyM3wyNjQ4Mjg5N3wxNzE1NzY3MDIxMDAwfHdlYnA=/550x",
+            "author" : "Rebecca Yarros"
+        },
+        {
+            "title": "Cruzar a Meta",
+            "editora": "Planeta",
+            "day": 4,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/cruzar-a-meta-simone-soltani/MXwzMDAxMjk4OHwyNjQ4Njc5NHwxNzE1ODUzNTY4MDAwfHdlYnA=/550x",
+            "author" : "Simone Soltani"
+        },
+        {
+            "title": "A Criada esta a ver",
+            "editora": "Alma dos Livros",
+            "day": 6,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-criada-esta-a-ver-freida-mcfadden/MXwyOTk5Mzk2NXwyNjQ2MDMwMnwxNzE1MzM2NTM3MDAwfHdlYnA=/550x",
+            "author" : "Freida McFadden"
+        },
+        {
+            "title": "Doce Veneno",
+            "editora": "Casa das Letras",
+            "day": 11,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/doce-veneno-parker-s-huntington/MXwzMDA0NzMwMXwyNjUyNjc0NXwxNzE2OTAyODAxMDAwfHdlYnA=/550x",
+            "author" : "Parker S. Huntington"
+        },
+        {
+            "title": "Brutal Prince",
+            "editora": "Cinco Sentidos",
+            "day": 12,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/brutal-prince-sophie-lark/MXwyOTkzMzYwOXwyNjM5NTA2NXwxNzE1NTk4NzAwMDAwfHdlYnA=/550x",
+            "author" : "Sophie Lark"
+        },
+        {
+            "title": "Rei da Ganancia",
+            "editora": "Clube do Autor",
+            "day": 18,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/rei-da-ganancia-ana-huang/MXwzMDA0NDc2MnwyNjUyMzkzOHwxNzE2ODI0ODk3MDAwfHdlYnA=/550x",
+            "author" : "Ana Huang"
+        },
+        {
+            "title": "Não é amor",
+            "editora": "Desrotina",
+            "day": 27,
+            "month": 6,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/nao-e-amor-ali-hazelwood/MXwzMDA2MzI5MnwyNjU0NDk0NHwxNzE3NTk5MTYwMDAwfHdlYnA=/550x",
+            "author" : "Ali Hazelwood"
         }
     ]
 }
