@@ -3528,7 +3528,8 @@
             "month": 5,
             "year": 2024,
             "cover": "https://img.wook.pt/images/powerful-lauren-roberts/MXwyOTk0NTcwOXwyNjQwODMzMHwxNzE1MTcxNzczMDAwfHdlYnA=/550x",
-            "author" : "Lauren Roberts"
+            "author" : "Lauren Roberts",
+            "bought": true
         },
         {
             "title": "Corrente de Espinhos",
@@ -3583,7 +3584,8 @@
             "month": 7,
             "year": 2024,
             "cover": "https://img.wook.pt/images/reckless-lauren-roberts/MXwzMDA2OTQyNnwyNjU1MTk5MnwxNzE4MzYwNDM0MDAwfHdlYnA=/550x",
-            "author" : "Lauren Roberts"
+            "author" : "Lauren Roberts",
+            "bought": true
         },
         {
             "title": "Keeping 13",
