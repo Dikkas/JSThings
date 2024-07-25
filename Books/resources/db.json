@@ -3746,6 +3746,15 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/algures-no-por-do-sol-estelle-maskame/MXwzMDE1NjI0NnwyNjY0NjQ1OHwxNzIwODAxMjY1MDAwfHdlYnA=/550x",
             "author" : "Estelle Maskame"
+        },
+        {
+            "title": "A Professora",
+            "editora": "Alma dos Livros",
+            "day": 22,
+            "month": 8,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-professora-freida-mcfadden/MXwzMDIxOTYwMXwyNjcxMDA5MHwxNzIxOTIzNDMzMDAwfHdlYnA=/550x",
+            "author" : "Freida McFaden"
         }
     ]
 }
