@@ -3757,6 +3757,15 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/a-professora-freida-mcfadden/MXwzMDIxOTYwMXwyNjcxMDA5MHwxNzIxOTIzNDMzMDAwfHdlYnA=/550x",
             "author" : "Freida McFaden"
+        },
+        {
+            "title": "Mil Corações Partidos",
+            "editora": "Quinta Essencia",
+            "day": 20,
+            "month": 8,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/mil-coracoes-partidos-tillie-cole/MXwzMDIyMTU1MXwyNjcxMjA2MXwxNzIxOTg5Mzg3MDAwfHdlYnA=/550x",
+            "author" : "Tillie Cole"
         }
     ]
 }
