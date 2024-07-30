@@ -2402,8 +2402,10 @@
             "author" : "Carissa Broadbent"
         },
         {
-            "title": "The Ashes and the Star-Cursed King",
+            "title": "As Cinzas e a Coroa Maldita",
             "editora": "Clube do Autor",
+            "day": 4,
+            "month": 9,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676294168i/62335396.jpg",
             "author" : "Carissa Broadbent"
@@ -2851,7 +2853,9 @@
         },
         {
             "title": "Collide",
-            "editora": "Leya",
+            "editora": "Desrotina",
+            "day": 22,
+            "month": 8,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692608727i/197306586.jpg",
             "author" : "Bal Khabra"
@@ -3766,6 +3770,15 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/mil-coracoes-partidos-tillie-cole/MXwzMDIyMTU1MXwyNjcxMjA2MXwxNzIxOTg5Mzg3MDAwfHdlYnA=/550x",
             "author" : "Tillie Cole"
+        },
+        {
+            "title": "Sonhar Acordado",
+            "editora": "Bertrand",
+            "day": 12,
+            "month": 9,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/sonhar-acordada-daydream-hannah-grace/MXwyOTgxOTE3N3wyNjIzNzQ5M3wxNzIyMjcyNDQ0MDAwfHdlYnA=/550x",
+            "author" : "Hanna Grace"
         }
     ]
 }
