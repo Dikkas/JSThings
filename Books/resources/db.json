@@ -3595,6 +3595,7 @@
         {
             "title": "Keeping 13",
             "editora": "Singular Editora",
+            "day": 4,
             "month": 9,
             "year": 2024,
             "cover": "https://img.wook.pt/images/keeping-13-chloe-walsh/MXwyODUyNjU5OHwyNDkwMzc0NnwxNzE0NDQ5MjQ5MDAwfHdlYnA=/550x",
@@ -3789,6 +3790,15 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/os-irmaos-hawthorne-jennifer-lynn-barnes/MXwzMDI4MjIwNHwyNjc3NDI3M3wxNzIzNjIyNzE0MDAwfHdlYnA=/550x",
             "author" : "Jennifer Lynn Barnes "
+        },
+        {
+            "title": "O Dia em que Deixou de Nevar no Alasca",
+            "editora": "Cultura Editora",
+            "day": 19,
+            "month": 9,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/o-dia-em-que-deixou-de-nevar-no-alasca-alice-kellen/MXwzMDQ3Njc1NnwyNjk3NzQ5NXwxNzI0MjU2MTM3MDAwfHdlYnA=/550x",
+            "author" : "Alice Kellen"
         }
     ]
 }
