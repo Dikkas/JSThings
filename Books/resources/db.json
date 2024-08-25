@@ -3799,6 +3799,14 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/o-dia-em-que-deixou-de-nevar-no-alasca-alice-kellen/MXwzMDQ3Njc1NnwyNjk3NzQ5NXwxNzI0MjU2MTM3MDAwfHdlYnA=/550x",
             "author" : "Alice Kellen"
+        },
+        {
+            "title": "Kingdom of Ash"
+            "editora": "Marcador",
+            "month": 11,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/kingdom-of-ash-sarah-j-maas/MXwyNzMyOTQ4NnwyMzY3NzIwOHwxNzE5NTI1MjI4MDAwfHdlYnA=/550x",
+            "author" : "Sarah J. Maas"
         }
     ]
 }
