@@ -276,10 +276,12 @@
             "author" : "Sarah J. Maas"
         },
         {
-            "title": "Tower of Dawn",
-            "editora": "",
+            "title": "Torre da Alvorada",
+            "editora": "Marcador",
+            "day": 18,
+            "month": 9,
             "year": 2024,
-            "cover": "https://img.wook.pt/images/tower-of-dawn-sarah-j-maas/MXwyNzMyOTQ4NXwyMzY3NzIwN3wxNjk5OTM3NTc5MDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/torre-da-alvorada-sarah-j-maas/MXwzMDQ5NzYyNHwyNzAwMDM4N3wxNzI0ODM0MzE0MDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas"
         },
         {
@@ -3102,10 +3104,12 @@
             "author" : "Chloe Gong"
         },
         {
-            "title": "The Atlas Complex",
+            "title": "O Complexo de Atlas",
             "editora": "Planeta",
+            "day": 10,
+            "month": 9,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675187027i/63104676.jpg",
+            "cover": "https://img.wook.pt/images/o-complexo-de-atlas-olivie-blake/MXwzMDI5ODE3N3wyNjc4MTA0OXwxNzIzODIxMTQzMDAwfHdlYnA=/550x",
             "author" : "Olivie Blake"
         },
         {
@@ -3807,6 +3811,31 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/kingdom-of-ash-sarah-j-maas/MXwyNzMyOTQ4NnwyMzY3NzIwOHwxNzE5NTI1MjI4MDAwfHdlYnA=/550x",
             "author" : "Sarah J. Maas"
+        },
+        {
+            "title": "Negócios à Parte",
+            "editora": "Marcador",
+            "day": 18,
+            "month": 9,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/negocios-a-parte-carrie-elks/MXwzMDQ5NzYyM3wyNzAwMDM4NnwxNzI0ODM0MzEzMDAwfHdlYnA=/550x",
+            "author" : "Carrie Elks"
+        },
+        {
+            "title": "Pucking Wild",
+            "editora": "Leya",
+            "month": 10,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/pucking-wild-emily-rath/MXwyOTA3NTE0NHwyNTQ2MTQyMnwxNzE5MDA1NTM0MDAwfHdlYnA=/550x",
+            "author" : "Emily Rath"
+        },
+        {
+            "title": "The Pumpkin Spice Cafe",
+            "editora": "Leya",
+            "month": 10,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/the-pumpkin-spice-cafe-laurie-gilmore/MXwyODE2NjExNHwyNDU1NDU1NHwxNjk2MzMzNzE2MDAwfHdlYnA=/550x",
+            "author" : "Laurie Gilmore"
         }
     ]
 }
