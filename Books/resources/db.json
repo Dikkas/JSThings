@@ -3128,7 +3128,9 @@
         },
         {
             "title": "Spectacular",
-            "editora": "",
+            "editora": "Editorial Presença",
+            "day": 6,
+            "month": 11,
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704733492i/203578793.jpg",
             "author" : "Stephanie Garber"
@@ -3845,6 +3847,15 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/the-reappearance-of-rachel-price-holly-jackson/MXwyOTQ1MTM1OHwyNTg1OTYxNHwxNzEzNDM0OTg2MDAwfHdlYnA=/550x",
             "author" : "Holly Jackson"
+        },
+        {
+            "title": "A Maldição do Amor Verdadeiro",
+            "editora": "Editorial Presença",
+            "day": 6,
+            "month": 11,
+            "year": 2024,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704733492i/203578793.jpg",
+            "author" : "Stephanie Garber"
         }
     ]
 }
