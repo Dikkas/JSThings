@@ -2433,7 +2433,9 @@
         {
             "title": "Renegades",
             "editora": "Kathartika",
-            "year": 2025,
+            "day": 31,
+            "month": 10,
+            "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494896884i/28421168.jpg",
             "author" : "Marissa Meyer"
         },
@@ -2911,13 +2913,6 @@
             "year": 2024,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699000519i/201458543.jpg",
             "author" : "Alex Aster"
-        },
-        {
-            "title": "The Reappearance of Rachel Price",
-            "editora": "Editorial Presença",
-            "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692547104i/182484360.jpg",
-            "author" : "Holly Jackson"
         },
         {
             "title": "Only When It's us",
@@ -3854,8 +3849,17 @@
             "day": 6,
             "month": 11,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704733492i/203578793.jpg",
+            "cover": "https://img.wook.pt/images/a-maldicao-do-amor-verdadeiro-stephanie-garber/MXwzMDUyMTE0OXwyNzAyNDg3OHwxNzI1NTQ0Nzc5MDAwfHdlYnA=/550x",
             "author" : "Stephanie Garber"
+        },
+        {
+            "title": "Percy Jackson e a Ira da Deusa Tríplice",
+            "editora": "Casa de Letras",
+            "day": 15,
+            "month": 10,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/percy-jackson-e-a-ira-da-deusa-triplice-rick-riordan/MXwzMDg3NTM2OXwyNzM3OTQ1NXwxNzI3NDI4MDU3MDAwfHdlYnA=/550x",
+            "author" : "Rick Riordan"
         }
     ]
 }
