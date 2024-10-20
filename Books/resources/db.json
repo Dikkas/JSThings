@@ -3804,6 +3804,7 @@
         {
             "title": "Kingdom of Ash",
             "editora": "Marcador",
+            "day": 16,
             "month": 11,
             "year": 2024,
             "cover": "https://img.wook.pt/images/kingdom-of-ash-sarah-j-maas/MXwyNzMyOTQ4NnwyMzY3NzIwOHwxNzE5NTI1MjI4MDAwfHdlYnA=/550x",
@@ -3860,6 +3861,15 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/percy-jackson-e-a-ira-da-deusa-triplice-rick-riordan/MXwzMDg3NTM2OXwyNzM3OTQ1NXwxNzI3NDI4MDU3MDAwfHdlYnA=/550x",
             "author" : "Rick Riordan"
+        },
+        {
+            "title": "Não incomodar",
+            "editora": "Alma dos Livros",
+            "day": 7,
+            "month": 11,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/nao-incomodar-freida-mcfadden/MXwzMDk0MDk2OXwyNzQzNDUyM3wxNzI4NjYxMDI5MDAwfHdlYnA=/550x",
+            "author" : "Freida McFaden"
         }
     ]
 }
