@@ -3014,7 +3014,8 @@
             "month": 2,
             "year": 2024,
             "cover": "https://img.wook.pt/images/noiva-ali-hazelwood/MXwyOTY4NDI5OXwyNjExMDM5NHwxNzA2ODAxMDQ4MDAwfHdlYnA=/550x",
-            "author" : "Ali Hazelwood"
+            "author" : "Ali Hazelwood",
+            "bought": true
         },
         {
             "title": "My Killer Vacation",
