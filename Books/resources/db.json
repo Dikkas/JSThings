@@ -3871,6 +3871,84 @@
             "year": 2024,
             "cover": "https://img.wook.pt/images/nao-incomodar-freida-mcfadden/MXwzMDk0MDk2OXwyNzQzNDUyM3wxNzI4NjYxMDI5MDAwfHdlYnA=/550x",
             "author" : "Freida McFaden"
+        },
+        {
+            "title": "Quicksilver",
+            "editora": "Singular",
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/quicksilver-callie-hart/MXwzMDUwOTEwMHwyNzAxMjEyNXwxNzMyNjAwMTk5MDAwfHdlYnA=/550x",
+            "author" : "Callie Hart"
+        },
+        {
+            "title": "The Stardust Thief",
+            "editora": "Kathartika",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/the-stardust-thief-chelsea-abdullah/MXwyNDgxMDgyMHwyMDk5NjkyOXwxNzE4MjMyMTgwMDAwfHdlYnA=/550x",
+            "author" : "Chelsea Abdullah"
+        },
+        {
+            "title": "Out on a Limb",
+            "editora": "Infinito Particular",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/out-on-a-limb-hannah-bonam-young/MXwyOTY5MjY5MHwyNjExOTc2M3wxNzA4ODk1OTU3MDAwfHdlYnA=/550x",
+            "author" : "Hannah Bonam-Young"
+        },
+        {
+            "title": "The War of two Queens",
+            "editora": "Marcador",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/the-war-of-two-queens-jennifer-armentrout/MXwzMDI1NDkxOXwyNjc0MzQyMnwxNzIyOTE4MzU3MDAwfHdlYnA=/550x",
+            "author" : "Jennifer L. Armentrout"
+        },
+        {
+            "title": "The Dixon Rule",
+            "editora": "Topseller",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/the-dixon-rule-elle-kennedy/MXwyOTYwNjA4NHwyNjAzNDE3NnwxNzI5NTY4OTEwMDAwfHdlYnA=/550x",
+            "author" : "Elle Kennedy"
+        },
+        {
+            "title": "God od Malice",
+            "editora": "Saida de Emergência",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/god-of-malice-rina-kent/MXwzMDg1NDcyNnwyNzM2MTYyN3wxNzI3NzU1MDkxMDAwfHdlYnA=/550x",
+            "author" : "Rina Kent"
+        },
+        {
+            "title": "The Retirement Plan",
+            "editora": "Planeta",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/the-retirement-plan-sue-hincenbergs/MXwzMDE0MTI2N3wyNjYzMDgwMHwxNzMyNjAwMjMyMDAwfHdlYnA=/550x",
+            "author" : "Sue Hincenbergs"
+        },
+        {
+            "title": "The Fiancé Dilemma",
+            "editora": "Marcador",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/the-fiance-dilemma-elena-armas/MXwyOTgwMjY0OXwyNjIyNjg0MHwxNzExNDM2NDAyMDAwfHdlYnA=/550x",
+            "author" : "Elena Armas"
+        },
+        {
+            "title": "Body Check",
+            "editora": "Quinta Essencia",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/body-check-elle-kennedy/MXwyOTcyNDEzMnwyNjE1MTQwNXwxNzE5OTU3MjQzMDAwfHdlYnA=/550x",
+            "author" : "Elle Kennedy"
+        },
+        {
+            "title": "Fear the Flames",
+            "editora": "Kathartika",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/fear-the-flames-olivia-rose-darling/MXwzMDk2MDEzN3wyNzQ0OTg5MXwxNzI5MTUzMzk4MDAwfHdlYnA=/550x",
+            "author" : "Olivia Rose Darling"
+        },
+        {
+            "title": "Vera Wong'S Unsolicited Advice For Murderers",
+            "editora": "Saida de Emergencia",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/vera-wongs-unsolicited-advice-for-murderers-jesse-q-sutanto/MXwyNzk4NjcxOXwyNDM5Mzc3MXwxNzMyNTk5MTA2MDAwfHdlYnA=/550x",
+            "author" : "Jesse Q. Sutanto"
         }
     ]
 }
