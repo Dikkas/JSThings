@@ -1975,28 +1975,30 @@
         {
             "title": "The Stardust Thief",
             "editora": "Kathartika",
-            "year": 2024,
+            "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636396304i/58950705.jpg",
             "author" : "Chelsea Abdullah"
         },
         {
             "title": "Uma Educação Mortal",
             "editora": "Kathartika",
-            "year": 2024,
+            "day": 16,
+            "month": 1,
+            "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596909044i/50548197.jpg",
             "author" : "Naomi Novik"
         },
         {
             "title": "The Last Graduate",
             "editora": "Kathartika",
-            "year": 2024,
+            "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604391810i/55559887.jpg",
             "author" : "Naomi Novik"
         },
         {
             "title": "The Golden Enclaves",
             "editora": "Kathartika",
-            "year": 2024,
+            "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642265345i/55858638.jpg",
             "author" : "Naomi Novik"
         },
@@ -3117,9 +3119,11 @@
         },
         {
             "title": "Restore me",
-            "editora": "Topseller",
-            "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507232049i/34992929.jpg",
+            "editora": "Secret Society",
+            "day": 8,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/inrestauravel-tahereh-mafi/MXwzMTM5NDY3NXwyNzg4MjEzMHwxNzM0NTIzMDc2MDAwfHdlYnA=/550x",
             "author" : "Tahereh Mafi"
         },
         {
@@ -3951,6 +3955,56 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/vera-wongs-unsolicited-advice-for-murderers-jesse-q-sutanto/MXwyNzk4NjcxOXwyNDM5Mzc3MXwxNzMyNTk5MTA2MDAwfHdlYnA=/550x",
             "author" : "Jesse Q. Sutanto"
+        },
+        {
+            "title": "Storybook Ending",
+            "editora": "Planeta",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725999212i/218255654.jpg",
+            "author" : "Moira Macdonald"
+        },
+        {
+            "title": "Agora que és minha",
+            "editora": "Topseller",
+            "day": 8,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/agora-que-es-minha-morgan-bridges/MXwzMTM5NDY3OHwyNzg4MjMzM3wxNzM0NDU0Mjc3MDAwfHdlYnA=/550x",
+            "author" : "Morgan Bridges"
+        },
+        {
+            "title": "Quando fores minha",
+            "editora": "Topseller",
+            "month": 11,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/quando-fores-minha-morgan-bridges/MXwzMTE2NDI0N3wyNzY0OTY0MHwxNzI5NjEzMTQ4MDAwfHdlYnA=/550x",
+            "author" : "Morgan Bridges"
+        },
+        {
+            "title": "Enciclopédia de Fadas de Emily Wilde",
+            "editora": "Leya",
+            "month": 2,
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651622856i/60657589.jpg",
+            "author" : "Heather Fawcett"
+        },
+        {
+            "title": "Tempestade de Ónix",
+            "editora": "Planeta",
+            "day": 24,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/tempestade-de-onix-rebecca-yarros/MXwzMTI1NzcxMnwyNzczMjUxMnwxNzMxNDk0MzY1MDAwfHdlYnA=/550x",
+            "author" : "Rebecca Yarros"
+        },
+        {
+            "title": "The Right Move",
+            "editora": "Cultura Editora",
+            "day": 23,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/the-right-move-liz-tomforde/MXwyOTA3NTAwNXwyNTQ2MTMwM3wxNzMyNjAwMTk0MDAwfHdlYnA=/550x",
+            "author" : "Liz Tomforde"
         }
     ]
 }
