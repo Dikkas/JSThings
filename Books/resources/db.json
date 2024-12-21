@@ -2958,9 +2958,9 @@
         {
             "title": "Butcher & Blackbird",
             "editora": "Saida de Emergência",
-            "month": 11,
+            "month": 10,
             "year": 2024,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692083376i/196864520.jpg",
+            "cover": "https://img.wook.pt/images/butcher-e-blackbird-brynne-weaver/MXwzMDg0MDE5MHwyNzM0ODA1NnwxNzI3MTg3MTE5MDAwfHdlYnA=/550x",
             "author" : "Brynne Weaver"
         },
         {
@@ -4005,6 +4005,15 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/the-right-move-liz-tomforde/MXwyOTA3NTAwNXwyNTQ2MTMwM3wxNzMyNjAwMTk0MDAwfHdlYnA=/550x",
             "author" : "Liz Tomforde"
+        },
+        {
+            "title": "A Escada Secreta",
+            "editora": "Desrotina",            
+            "month": 11,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-escada-secreta-maureen-johnson/MXwzMTE4NDYxMHwyNzY2ODIzMXwxNzI5ODY4NjY0MDAwfHdlYnA=/550x",
+            "author" : "Maureen Johnson",
+            "bought": true
         }
     ]
 }
