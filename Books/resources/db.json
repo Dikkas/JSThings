@@ -2469,9 +2469,10 @@
         },
         {
             "title": "Hunting Adeline",
-            "editora": "Infinito Particular",
-            "year": 2025,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639934603i/59050133.jpg",
+            "editora": "Cultura Editora",
+            "month": 11,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-caca-por-adeline-h-d-carlton/MXwzMTIwMjY2N3wyNzY4MDk5MXwxNzMwMjk3NTU2MDAwfHdlYnA=/550x",
             "author" : "H.D. Carlton"
         },
         {
@@ -2926,14 +2927,14 @@
         {
             "title": "Always Only You",
             "editora": "Saida de Emergência",
-            "year": 2024,
+            "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694447995i/177704674.jpg",
             "author" : "Chloe Liese"
         },
         {
             "title": "Ever After Always",
             "editora": "Saida de Emergência",
-            "year": 2024,
+            "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690944101i/195036929.jpg",
             "author" : "Chloe Liese"
         },
@@ -4016,6 +4017,81 @@
             "cover": "https://img.wook.pt/images/a-escada-secreta-maureen-johnson/MXwzMTE4NDYxMHwyNzY2ODIzMXwxNzI5ODY4NjY0MDAwfHdlYnA=/550x",
             "author" : "Maureen Johnson",
             "bought": true
+        },
+        {
+            "title": "Satan's Affair",
+            "editora": "Cultura Editora",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/satans-affair-h-d-carlton/MXwzMDYwOTk2MHwyNzExNDc5OXwxNzI1OTQwNjU0MDAwfHdlYnA=/550x",
+            "author" : "H.D. Carlton"
+        },
+        {
+            "title": "Does It Hurt?",
+            "editora": "Cultura Editora",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/does-it-hurt-h-d-carlton/MXwyNzI2ODc4MXwyMzYwNTk0MXwxNjgwNTg2OTc3MDAwfHdlYnA=/550x",
+            "author" : "H.D. Carlton"
+        },
+        {
+            "title": "Onde Está Molly?",
+            "editora": "Cultura Editora",
+            "day": 16,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/onde-esta-molly-h-d-carlton/MXwzMTM0ODMyM3wyNzgzMzEzM3wxNzM0NjI0OTEyMDAwfHdlYnA=/550x",
+            "author" : "H.D. Carlton"
+        },
+        {
+            "title": "Ala D",
+            "editora": "Alma dos Livros",
+            "day": 16,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/ala-d-freida-mcfadden/MXwzMTM5OTkxMHwyNzg4ODcxN3wxNzM0NjkyNDgzMDAwfHdlYnA=/550x",
+            "author" : "Freida McFaden"
+        },
+        {
+            "title": "Uma Família Feliz",
+            "editora": "Cultura Editora",
+            "day": 16,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/uma-familia-feliz-raphael-montes/MXwzMTM0ODMyMHwyNzgzMzA3MHwxNzM0NjI0OTExMDAwfHdlYnA=/550x",
+            "author" : "Raphael Montes"
+        },
+        {
+            "title": "A Toca das Raposas",
+            "editora": "Secret Society",
+            "month": 9,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-toca-das-raposas-nora-sakavic/MXwzMDc5NjI5NXwyNzMwMTc1NXwxNzI2MDQ3MDExMDAwfHdlYnA=/550x",
+            "author" : "Nora Sakavic"
+        },
+        {
+            "title": "O Rei Corvo",
+            "editora": "Secret Society",
+            "day": 8,
+            "month": 1,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/o-rei-corvo-nora-sakavic/MXwzMTM5NDY3NnwyNzg4MjMzMXwxNzM0NDU0Mjc2MDAwfHdlYnA=/550x",
+            "author" : "Nora Sakavic"
+        },
+        {
+            "title": "Os Filhos do Diabo",
+            "editora": "Casa de Letras",
+            "month": 7,
+            "year": 2023,
+            "cover": "https://img.wook.pt/images/os-filhos-do-diabo-chloe-wallerand/MXwyOTA5NzAyMXwyNTQ4MDE2MXwxNjg4MDI1MDU5MDAwfHdlYnA=/550x",
+            "author" : "Chloé Wallerand"
+        },
+        {
+            "title": "Os Filhos do Diabo 2",
+            "editora": "Casa de Letras",
+            "day": 14,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/os-filhos-do-diabo-2-chloe-wallerand/MXwzMTM1NDM3NHwyNzg0MTAwN3wxNzM0MTAxODk1MDAwfHdlYnA=/550x",
+            "author" : "Chloé Wallerand"
         }
     ]
 }
