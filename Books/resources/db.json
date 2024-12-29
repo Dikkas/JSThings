@@ -2925,8 +2925,10 @@
             "author" : "Chloe Liese"
         },
         {
-            "title": "Always Only You",
+            "title": "Foste sempre tu",
             "editora": "Saida de Emergência",
+            "day": 23,
+            "month": 1,
             "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694447995i/177704674.jpg",
             "author" : "Chloe Liese"
@@ -3897,10 +3899,12 @@
             "author" : "Chelsea Abdullah"
         },
         {
-            "title": "Out on a Limb",
-            "editora": "Infinito Particular",
+            "title": "Parte de Nós",
+            "editora": "Desrotina",
+            "day": 23,
+            "month" 1,
             "year": 2025,
-            "cover": "https://img.wook.pt/images/out-on-a-limb-hannah-bonam-young/MXwyOTY5MjY5MHwyNjExOTc2M3wxNzA4ODk1OTU3MDAwfHdlYnA=/550x",
+            "cover": "https://particular.pt/cdn/shop/files/9789895773008.jpg?v=1734978540&width=493",
             "author" : "Hannah Bonam-Young"
         },
         {
@@ -4113,6 +4117,14 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/the-way-i-am-now-amber-smith/MXwyODM3NTk3NXwyNDczODgxM3wxNjgxODA4OTM5MDAwfHdlYnA=/550x",
             "author" : "Amber Smith"
+        },
+        {
+            "title": "Sete Anos entre Nós",
+            "editora": "Singular",
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/sete-anos-entre-nos-ashley-poston/MXwzMDg5MTEzN3wyNzM5MTQ2N3wxNzM1MjAzNTMwMDAwfHdlYnA=/550x",
+            "author" : "Ashley Poston"
         }
     ]
 }
