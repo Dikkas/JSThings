@@ -4125,6 +4125,22 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/sete-anos-entre-nos-ashley-poston/MXwzMDg5MTEzN3wyNzM5MTQ2N3wxNzM1MjAzNTMwMDAwfHdlYnA=/550x",
             "author" : "Ashley Poston"
+        },
+        {
+            "title": "Dançar no Gelo - Breakaway",
+            "editora": "Bertrand",
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/breakaway-grace-reilly/MXwyOTIzMjk3OHwyNTYyMzIyNHwxNzE4ODU1NTgyMDAwfHdlYnA=/550x",
+            "author" : "Grace Reilly"
+        },
+        {
+            "title": "Wretched",
+            "editora": "Bertrand",
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/wretched-emily-mcintire/MXwyNzE5MzI0MHwyMzUxODgyMXwxNjgxNDgyMjUxMDAwfHdlYnA=/550x",
+            "author" : "Grace Reilly"
         }
     ]
 }
