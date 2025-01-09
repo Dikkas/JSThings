@@ -4143,6 +4143,24 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/wretched-emily-mcintire/MXwyNzE5MzI0MHwyMzUxODgyMXwxNjgxNDgyMjUxMDAwfHdlYnA=/550x",
             "author" : "Grace Reilly"
+        },
+        {
+            "title": "Tentação em Juniper Hill",
+            "editora": "Clube do Autor",
+            "day": 22,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/juniper-hill-devney-perry/MXwyOTE4Mzc5OHwyNTU2NzI3NnwxNjk1NzAxNTM3MDAwfHdlYnA=/550x",
+            "author" : "Devney Perry"
+        },
+        {
+            "title": "Wisteria",
+            "editora": "Clube do Autor",
+            "day": 22,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698070459i/195820745.jpg",
+            "author" : "Adalyn Grace"
         }
     ]
 }
