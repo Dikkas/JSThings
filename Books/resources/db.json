@@ -1302,10 +1302,12 @@
             "author" : "Alice Kellen"
         },
         {
-            "title": "La teoría de los archipiélagos",
-            "editora": "Editorial Presença",
+            "title": "A teoria dos arquipélagos",
+            "editora": "Editorial Presença",  
+            "day": 5,
+            "month": 2,
             "year": 2025,
-            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662568313i/62327565.jpg",
+            "cover": "https://img.wook.pt/images/a-teoria-dos-arquipelagos-alice-kellen/MXwzMTQ4NDEzOHwyNzk4MDQ3MXwxNzM2Nzg4ODEzMDAwfHdlYnA=/550x",
             "author" : "Alice Kellen"
         },
         {
@@ -4161,6 +4163,33 @@
             "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698070459i/195820745.jpg",
             "author" : "Adalyn Grace"
+        },
+        {
+            "title": "Antes da Despedida",
+            "editora": "Editorial Presença",
+            "day": 5,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/antes-da-despedida-toshikazu-kawaguchi/MXwzMTQ4NDEzN3wyNzk4MDQ1MHwxNzM2Nzg4ODEyMDAwfHdlYnA=/550x",
+            "author" : "Toshikazu Kawaguchi"
+        },
+        {
+            "title": "O Banquete da Meia-Noite",
+            "editora": "Planeta",
+            "day": 28,
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/o-banquete-da-meia-noite-lucy-foley/MXwzMTQ3NTYxNnwyNzk3MDQ4MnwxNzM2MzM4OTA5MDAwfHdlYnA=/550x",
+            "author" : "Lucy Foley"
+        },
+        {
+            "title": "Até ao Fundo",
+            "editora": "Desrotina",
+            "day": 6,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/ate-ao-fundo-ali-hazelwood/MXwzMTQ3ODY0OXwyNzk3NDQ0MnwxNzM2NTI3MTE2MDAwfHdlYnA=/550x",
+            "author" : "Ali Hazelwood"
         }
     ]
 }
