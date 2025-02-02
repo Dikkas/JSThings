@@ -3994,6 +3994,7 @@
         {
             "title": "Enciclopédia de Fadas de Emily Wilde",
             "editora": "Leya",
+            "day": 11,
             "month": 2,
             "year": 2025,
             "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651622856i/60657589.jpg",
@@ -4141,6 +4142,7 @@
         {
             "title": "Wretched",
             "editora": "Bertrand",
+            "day": 13,
             "month": 2,
             "year": 2025,
             "cover": "https://img.wook.pt/images/wretched-emily-mcintire/MXwyNzE5MzI0MHwyMzUxODgyMXwxNjgxNDgyMjUxMDAwfHdlYnA=/550x",
@@ -4190,6 +4192,73 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/ate-ao-fundo-ali-hazelwood/MXwzMTQ3ODY0OXwyNzk3NDQ0MnwxNzM2NTI3MTE2MDAwfHdlYnA=/550x",
             "author" : "Ali Hazelwood"
+        },
+        {
+            "title": "O Acidente",
+            "editora": "Alma dos Livros",
+            "day": 20,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/o-acidente-freida-mcfadden/MXwzMTU1OTE1MHwyODA2MDA5M3wxNzM3NzM1NzM5MDAwfHdlYnA=/450x",
+            "author" : "Freida McFaden"
+        },
+        {
+            "title": "Olha para Mim",
+            "editora": "Marcador",
+            "day": 19,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/olha-para-mim-consider-me-becka-mack/MXwzMTU3OTgxMnwyODA4MzkwMnwxNzM4MDgxNjg2MDAwfHdlYnA=/450x",
+            "author" : "Becka Mack"
+        },
+        {
+            "title": "Segue a Minha Voz",
+            "editora": "Editorial Presença",
+            "day": 19,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/segue-a-minha-voz-ariana-godoy/MXwzMTU3OTgwOXwyODA4Mzg5OXwxNzM4MDgxNjg1MDAwfHdlYnA=/450x",
+            "author" : "Ariana Godoy"
+        },
+        {
+            "title": "Dupla Encantadora e Mentirosa",
+            "editora": "Gailivro",
+            "day": 4,
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/dupla-encantadora-e-mentirosa-karen-m-mcmanus/MXwzMTU3OTc4N3wyODA4NDc3N3wxNzM4MDgwODQ2MDAwfHdlYnA=/450x",
+            "author" : "Karen M. McManaus"
+        },
+        {
+            "title": "Katabasis",
+            "editora": "Desrotina",
+            "year": 2025,
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737727641i/210223811.jpg",
+            "author" : "R.F. Kuang"
+        },
+        {
+            "title": "A Deusa Ardente",
+            "editora": "Desrotina",
+            "day": 6,
+            "month": 12,
+            "year": 2024,
+            "cover": "https://img.wook.pt/images/a-deusa-ardente-rf-kuang/MXwzMTI1NDU5NXwyNzcyOTU2NnwxNzMxNjA4MTA4MDAwfHdlYnA=/450x",
+            "author" : "R.F. Kuang"
+        },
+        {
+            "title": "Great Big Beautiful Life",
+            "editora": "Quinta Essencia",
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/great-big-beautiful-life-emily-henry/MXwzMDU5ODE0MHwyNzEwMjk3OXwxNzI5NTY4NzUwMDAwfHdlYnA=/450x",
+            "author" : "Emily Henry"
+        },
+        {
+            "title": "Saving 6",
+            "editora": "Singular Editora",
+            "month": 1,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/saving-6-chloe-walsh/MXwzMTQwMTQ2N3wyNzg5MTAxOXwxNzM2MTYwNjc0MDAwfHdlYnA=/450x",
+            "author" : "Chloe Walsh"
         }
     ]
 }
