@@ -3888,6 +3888,7 @@
         {
             "title": "Quicksilver",
             "editora": "Singular",
+            "day": 20,
             "month": 2,
             "year": 2025,
             "cover": "https://img.wook.pt/images/quicksilver-callie-hart/MXwzMDUwOTEwMHwyNzAxMjEyNXwxNzMyNjAwMTk5MDAwfHdlYnA=/550x",
@@ -3940,10 +3941,12 @@
             "author" : "Sue Hincenbergs"
         },
         {
-            "title": "The Fiancé Dilemma",
+            "title": "O Dilema da noiva",
             "editora": "Marcador",
+            "day": 19,
+            "month": 3,
             "year": 2025,
-            "cover": "https://img.wook.pt/images/the-fiance-dilemma-elena-armas/MXwyOTgwMjY0OXwyNjIyNjg0MHwxNzExNDM2NDAyMDAwfHdlYnA=/550x",
+            "cover": "https://img.wook.pt/images/o-dilema-da-noiva-elena-armas/MXwzMTcwNzQxNnwyODIxMTM0M3wxNzQwNDg2MTQ2MDAwfHdlYnA=/450x",
             "author" : "Elena Armas"
         },
         {
@@ -4134,6 +4137,7 @@
         {
             "title": "Dançar no Gelo - Breakaway",
             "editora": "Bertrand",
+            "day": 6,
             "month": 3,
             "year": 2025,
             "cover": "https://img.wook.pt/images/breakaway-grace-reilly/MXwyOTIzMjk3OHwyNTYyMzIyNHwxNzE4ODU1NTgyMDAwfHdlYnA=/550x",
@@ -4259,6 +4263,60 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/saving-6-chloe-walsh/MXwzMTQwMTQ2N3wyNzg5MTAxOXwxNzM2MTYwNjc0MDAwfHdlYnA=/450x",
             "author" : "Chloe Walsh"
+        },
+        {
+            "title": "Sr. Vamos Apostar?",
+            "editora": "Clube do Autor",
+            "day": 12,
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/sr-vamos-apostar-lynn-painter/MXwzMTY4MTA1NnwyODE4ODI3OXwxNzQwMDQyMTI0MDAwfHdlYnA=/450x",
+            "author" : "Lynn Painter"
+        },
+        {
+            "title": "A Camareira",
+            "editora": "Editorial Presença",
+            "day": 19,
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/a-camareira-nita-prose/MXwzMTcwNzQwOHwyODIxMTMzNXwxNzQwNDg2MTQzMDAwfHdlYnA=/450x",
+            "author" : "Nita Prose"
+        },
+        {
+            "title": "O Hóspede Misterioso",
+            "editora": "Editorial Presença",
+            "day": 19,
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/o-hospede-misterioso-nita-prose/MXwzMTcwNzQwOXwyODIxMTMzNnwxNzQwNDg2MTQzMDAwfHdlYnA=/450x",
+            "author" : "Nita Prose"
+        },
+        {
+            "title": "Não é nada como nos filmes",
+            "editora": "Marcador",
+            "day": 5,
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/nao-e-nada-como-nos-filmes-lynn-painter/MXwzMTY1MjQ3N3wyODE2NDEyNXwxNzM5Mjg5MTkzMDAwfHdlYnA=/450x",
+            "author" : "Lynn Painter"
+        },
+        {
+            "title": "Que Sorte (a Minha) a tua",
+            "editora": "Edições Chá das Cinco",
+            "day": 6,
+            "month": 3,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/que-sorte-a-minha-a-tua-andreia-ramos/MXwzMTYxNTg0NHwyODEyNjc1MHwxNzM4ODU5NjMwMDAwfHdlYnA=/450x",
+            "author" : "Andreia Ramos"
+        },
+        {
+            "title": "Perdida e Atada",
+            "editora": "Guerra e Paz",
+            "day": 25,
+            "month": 2,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/perdida-e-atada-lyla-sage/MXwzMTYxMjM2NnwyODEyMDI4NnwxNzM4NzcwOTMzMDAwfHdlYnA=/450x",
+            "author" : "Lyla Sage"
         }
     ]
 }
