@@ -4317,6 +4317,15 @@
             "year": 2025,
             "cover": "https://img.wook.pt/images/perdida-e-atada-lyla-sage/MXwzMTYxMjM2NnwyODEyMDI4NnwxNzM4NzcwOTMzMDAwfHdlYnA=/450x",
             "author" : "Lyla Sage"
+        },
+        {
+            "title": "Amanhecer na Ceifa",
+            "editora": "Editorial Presença",
+            "day": 16,
+            "month": 4,
+            "year": 2025,
+            "cover": "https://img.wook.pt/images/amanhecer-na-ceifa-suzanne-collins/MXwzMTc2MjIzN3wyODI1NjYxM3wxNzQxNjg4NDI5MDAwfHdlYnA=/550x",
+            "author" : "Suzanne Collins"
         }
     ]
 }
